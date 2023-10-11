@@ -1,472 +1,422 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV 0
-http://clubtv.link/710oc/top6219/0smartv.php?c=712&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-http://clubtv.link/710oc/top6219/0smartv.php?c=712&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
-https://clubtv.link/redes.mp4
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MÉXICO", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest?cb=20180716012938&path-prefix=es" group-title="MÉXICO", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="MÉXICO", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
-https://clubtv.link/710oc/top6219/runtime.php?c=2154
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="CINE Y SERIES",Accion
-https://clubtv.link/710oc/top6219/runtime.php?c=2550
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
-https://clubtv.link/710oc/top6219/runtime.php?c=2551
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES",Crimen
-https://clubtv.link/710oc/top6219/runtime.php?c=3533
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES",Cine Espanto
-https://clubtv.link/710oc/top6219/runtime.php?c=3539
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/nx7oVpZ.png" group-title="CINE Y SERIES",Cinema
-https://clubtv.link/710oc/top6219/runtime.php?c=4819
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	
-https://clubtv.link/710oc/top6219/runtime.php?c=4827
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
-https://clubtv.link/710oc/top6219/runtime.php?c=4826
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance
-https://clubtv.link/710oc/top6219/runtime.php?c=3532
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
-https://clubtv.link/710oc/top6219/runtime.php?c=3528
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/bHhRRom.png" group-title="DEPORTES",AYM
-https://clubtv.link/710oc/top6219/runtime.php?c=5106
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/4p1oIev.png" group-title="DEPORTES",CombaTV
-https://clubtv.link/710oc/top6219/runtime.php?c=5090
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/zzOtkwl.png" group-title="MUSICA",Vivaldi
-https://clubtv.link/710oc/top6219/runtime.php?c=2806
-
-
-
-
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", A&E HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01s
+https://clubtv.link/710oc/key4516/lista.php?c=a01s
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", AMC HD
-https://clubtv.link/710oc/top6219/lista.php?c=a039
+https://clubtv.link/710oc/key4516/lista.php?c=a039
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ANTENA3 
-https://clubtv.link/710oc/top6219/lista.php?c=a00f
+https://clubtv.link/710oc/key4516/lista.php?c=a00f
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ATRES SERIES HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02g
+https://clubtv.link/710oc/key4516/lista.php?c=a02g
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ATV
-https://clubtv.link/710oc/top6219/lista.php?c=a00z
+https://clubtv.link/710oc/key4516/lista.php?c=a00z
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ATV + hd
-https://clubtv.link/710oc/top6219/lista.php?c=a0ba
+https://clubtv.link/710oc/key4516/lista.php?c=a0ba
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", AXN HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01v
+https://clubtv.link/710oc/key4516/lista.php?c=a01v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", AZ Cinema HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03h
+https://clubtv.link/710oc/key4516/lista.php?c=a03h
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", AZ click HD
-https://clubtv.link/710oc/top6219/lista.php?c=a091
+https://clubtv.link/710oc/key4516/lista.php?c=a091
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", America TV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03w
+https://clubtv.link/710oc/key4516/lista.php?c=a03w
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Animal Planet HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03k
+https://clubtv.link/710oc/key4516/lista.php?c=a03k
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Antena 3 Chile
-https://clubtv.link/710oc/top6219/lista.php?c=a04n
+https://clubtv.link/710oc/key4516/lista.php?c=a04n
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Atres Series
-https://clubtv.link/710oc/top6219/lista.php?c=a04t
+https://clubtv.link/710oc/key4516/lista.php?c=a04t
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Az Corazon
-https://clubtv.link/710oc/top6219/lista.php?c=a05n
+https://clubtv.link/710oc/key4516/lista.php?c=a05n
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Az Mundo
-https://clubtv.link/710oc/top6219/lista.php?c=a086
+https://clubtv.link/710oc/key4516/lista.php?c=a086
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", BBC News
-https://clubtv.link/710oc/top6219/lista.php?c=a060
+https://clubtv.link/710oc/key4516/lista.php?c=a060
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Baby First
-https://clubtv.link/710oc/top6219/lista.php?c=a078
+https://clubtv.link/710oc/key4516/lista.php?c=a078
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Baby TV
-https://clubtv.link/710oc/top6219/lista.php?c=a04k
+https://clubtv.link/710oc/key4516/lista.php?c=a04k
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CDO Premium
-https://clubtv.link/710oc/top6219/lista.php?c=a01l
+https://clubtv.link/710oc/key4516/lista.php?c=a01l
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CHV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a027
+https://clubtv.link/710oc/key4516/lista.php?c=a027
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CINECANAL HD
-https://clubtv.link/710oc/top6219/lista.php?c=a08n
+https://clubtv.link/710oc/key4516/lista.php?c=a08n
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CNN Chile HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01q
+https://clubtv.link/710oc/key4516/lista.php?c=a01q
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CNN Internacional
-https://clubtv.link/710oc/top6219/lista.php?c=a04v
+https://clubtv.link/710oc/key4516/lista.php?c=a04v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CNNE
-https://clubtv.link/710oc/top6219/lista.php?c=a05z
+https://clubtv.link/710oc/key4516/lista.php?c=a05z
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", CREOTV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a00k
+https://clubtv.link/710oc/key4516/lista.php?c=a00k
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Canal 13 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0bc
+https://clubtv.link/710oc/key4516/lista.php?c=a0bc
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Canal N
-https://clubtv.link/710oc/top6219/lista.php?c=a0bd
+https://clubtv.link/710oc/key4516/lista.php?c=a0bd
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Caracol HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04a
+https://clubtv.link/710oc/key4516/lista.php?c=a04a
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Cartoon Network HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03d
+https://clubtv.link/710oc/key4516/lista.php?c=a03d
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Cartoonito
-https://clubtv.link/710oc/top6219/lista.php?c=a05h
+https://clubtv.link/710oc/key4516/lista.php?c=a05h
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Cine Latino
-https://clubtv.link/710oc/top6219/lista.php?c=a0a9
+https://clubtv.link/710oc/key4516/lista.php?c=a0a9
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Cinemax HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02h
+https://clubtv.link/710oc/key4516/lista.php?c=a02h
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Clover HD
-https://clubtv.link/710oc/top6219/lista.php?c=a020
+https://clubtv.link/710oc/key4516/lista.php?c=a020
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Comedy Central HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02i
+https://clubtv.link/710oc/key4516/lista.php?c=a02i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", DHE HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04c
+https://clubtv.link/710oc/key4516/lista.php?c=a04c
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", DIRECTV Liga 1 Max
-https://clubtv.link/710oc/top6219/lista.php?c=a00h
+https://clubtv.link/710oc/key4516/lista.php?c=a00h
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", DISC THEATHER HD
-https://clubtv.link/710oc/top6219/lista.php?c=a097
+https://clubtv.link/710oc/key4516/lista.php?c=a097
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery Channel HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0ar
+https://clubtv.link/710oc/key4516/lista.php?c=a0ar
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery H&H HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02p
+https://clubtv.link/710oc/key4516/lista.php?c=a02p
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04d
+https://clubtv.link/710oc/key4516/lista.php?c=a04d
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery ID HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0av
+https://clubtv.link/710oc/key4516/lista.php?c=a0av
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery Kids HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02o
+https://clubtv.link/710oc/key4516/lista.php?c=a02o
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery Science
-https://clubtv.link/710oc/top6219/lista.php?c=a04q
+https://clubtv.link/710oc/key4516/lista.php?c=a04q
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery Theater HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02q
+https://clubtv.link/710oc/key4516/lista.php?c=a02q
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery Turbo
-https://clubtv.link/710oc/top6219/lista.php?c=a09y
+https://clubtv.link/710oc/key4516/lista.php?c=a09y
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Discovery World HD
-https://clubtv.link/710oc/top6219/lista.php?c=a037
+https://clubtv.link/710oc/key4516/lista.php?c=a037
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Disney
-https://clubtv.link/710oc/top6219/lista.php?c=a0bi
+https://clubtv.link/710oc/key4516/lista.php?c=a0bi
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Disney JR
-https://clubtv.link/710oc/top6219/lista.php?c=a05i
+https://clubtv.link/710oc/key4516/lista.php?c=a05i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", E! Entertairment HD
-https://clubtv.link/710oc/top6219/lista.php?c=a06b
+https://clubtv.link/710oc/key4516/lista.php?c=a06b
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", E! HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03s
+https://clubtv.link/710oc/key4516/lista.php?c=a03s
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ESPN  +
-https://clubtv.link/710oc/top6219/lista.php?c=a065
+https://clubtv.link/710oc/key4516/lista.php?c=a065
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ESPN 2 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a021
+https://clubtv.link/710oc/key4516/lista.php?c=a021
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ESPN 3 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02c
+https://clubtv.link/710oc/key4516/lista.php?c=a02c
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ESPN 4 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02u
+https://clubtv.link/710oc/key4516/lista.php?c=a02u
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ESPN EXTRA HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03a
+https://clubtv.link/710oc/key4516/lista.php?c=a03a
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ESPN HD
-https://clubtv.link/710oc/top6219/lista.php?c=a025
+https://clubtv.link/710oc/key4516/lista.php?c=a025
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", EXITOSA TV
-https://clubtv.link/710oc/top6219/lista.php?c=a0b3
+https://clubtv.link/710oc/key4516/lista.php?c=a0b3
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", El Gourmet HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02l
+https://clubtv.link/710oc/key4516/lista.php?c=a02l
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ElCanaldelFutbol HD
-https://clubtv.link/710oc/top6219/lista.php?c=a040
+https://clubtv.link/710oc/key4516/lista.php?c=a040
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Europa HD
-https://clubtv.link/710oc/top6219/lista.php?c=a08y
+https://clubtv.link/710oc/key4516/lista.php?c=a08y
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Exa TV
-https://clubtv.link/710oc/top6219/lista.php?c=a08i
+https://clubtv.link/710oc/key4516/lista.php?c=a08i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", FOX Sports 2 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02v
+https://clubtv.link/710oc/key4516/lista.php?c=a02v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", FUTV CR
-https://clubtv.link/710oc/top6219/lista.php?c=a09j
+https://clubtv.link/710oc/key4516/lista.php?c=a09j
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", FX HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02z
+https://clubtv.link/710oc/key4516/lista.php?c=a02z
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Film & arts HD
-https://clubtv.link/710oc/top6219/lista.php?c=a08t
+https://clubtv.link/710oc/key4516/lista.php?c=a08t
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Food Network HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03v
+https://clubtv.link/710oc/key4516/lista.php?c=a03v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Fox Sports 1 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04e
+https://clubtv.link/710oc/key4516/lista.php?c=a04e
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Fox Sports 3 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02d
+https://clubtv.link/710oc/key4516/lista.php?c=a02d
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", GOLPERU HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03z
+https://clubtv.link/710oc/key4516/lista.php?c=a03z
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", GolTV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03t
+https://clubtv.link/710oc/key4516/lista.php?c=a03t
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Golden HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03o
+https://clubtv.link/710oc/key4516/lista.php?c=a03o
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Golden Premiere 2 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a054
+https://clubtv.link/710oc/key4516/lista.php?c=a054
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Golden Premiere HD
-https://clubtv.link/710oc/top6219/lista.php?c=a053
+https://clubtv.link/710oc/key4516/lista.php?c=a053
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Golf Channel HD
-https://clubtv.link/710oc/top6219/lista.php?c=a06m
+https://clubtv.link/710oc/key4516/lista.php?c=a06m
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", HBO 2 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03i
+https://clubtv.link/710oc/key4516/lista.php?c=a03i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", HBO Family HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04g
+https://clubtv.link/710oc/key4516/lista.php?c=a04g
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", HBO HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03b
+https://clubtv.link/710oc/key4516/lista.php?c=a03b
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", HBO POP HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01y
+https://clubtv.link/710oc/key4516/lista.php?c=a01y
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", HBO XTREME HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04h
+https://clubtv.link/710oc/key4516/lista.php?c=a04h
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", HOLA TV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02a
+https://clubtv.link/710oc/key4516/lista.php?c=a02a
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", History 2 HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04f
+https://clubtv.link/710oc/key4516/lista.php?c=a04f
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", History Channel HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01r
+https://clubtv.link/710oc/key4516/lista.php?c=a01r
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", History HD
-https://clubtv.link/710oc/top6219/lista.php?c=a064
+https://clubtv.link/710oc/key4516/lista.php?c=a064
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Home & Health HD
-https://clubtv.link/710oc/top6219/lista.php?c=a098
+https://clubtv.link/710oc/key4516/lista.php?c=a098
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Home Garden Latino
-https://clubtv.link/710oc/top6219/lista.php?c=a04p
+https://clubtv.link/710oc/key4516/lista.php?c=a04p
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ID HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02j
+https://clubtv.link/710oc/key4516/lista.php?c=a02j
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Kanal D Drama HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03c
+https://clubtv.link/710oc/key4516/lista.php?c=a03c
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", LIFE TIME
-https://clubtv.link/710oc/top6219/lista.php?c=a05s
+https://clubtv.link/710oc/key4516/lista.php?c=a05s
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", La Red HD
-https://clubtv.link/710oc/top6219/lista.php?c=a024
+https://clubtv.link/710oc/key4516/lista.php?c=a024
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", La Tele Colombia HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03n
+https://clubtv.link/710oc/key4516/lista.php?c=a03n
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Las Estrellas HD
-https://clubtv.link/710oc/top6219/lista.php?c=a04b
+https://clubtv.link/710oc/key4516/lista.php?c=a04b
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Latin America Sport
-https://clubtv.link/710oc/top6219/lista.php?c=a07i
+https://clubtv.link/710oc/key4516/lista.php?c=a07i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Latina HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03x
+https://clubtv.link/710oc/key4516/lista.php?c=a03x
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Lolly Kids HD
-https://clubtv.link/710oc/top6219/lista.php?c=a042
+https://clubtv.link/710oc/key4516/lista.php?c=a042
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Love Nature HD
-https://clubtv.link/710oc/top6219/lista.php?c=a044
+https://clubtv.link/710oc/key4516/lista.php?c=a044
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MEGA HD
-https://clubtv.link/710oc/top6219/lista.php?c=a035
+https://clubtv.link/710oc/key4516/lista.php?c=a035
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MTV 00s HD
-https://clubtv.link/710oc/top6219/lista.php?c=a09c
+https://clubtv.link/710oc/key4516/lista.php?c=a09c
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MTV 80s
-https://clubtv.link/710oc/top6219/lista.php?c=a05v
+https://clubtv.link/710oc/key4516/lista.php?c=a05v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MTV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a049
+https://clubtv.link/710oc/key4516/lista.php?c=a049
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MTV Hits
-https://clubtv.link/710oc/top6219/lista.php?c=a05u
+https://clubtv.link/710oc/key4516/lista.php?c=a05u
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MTV LIVE HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02t
+https://clubtv.link/710oc/key4516/lista.php?c=a02t
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", MTV SIM HD
-https://clubtv.link/710oc/top6219/lista.php?c=a09b
+https://clubtv.link/710oc/key4516/lista.php?c=a09b
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Mas Chic
-https://clubtv.link/710oc/top6219/lista.php?c=a04m
+https://clubtv.link/710oc/key4516/lista.php?c=a04m
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Multicinema
-https://clubtv.link/710oc/top6219/lista.php?c=a07o
+https://clubtv.link/710oc/key4516/lista.php?c=a07o
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Multipremier
-https://clubtv.link/710oc/top6219/lista.php?c=a0a8
+https://clubtv.link/710oc/key4516/lista.php?c=a0a8
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", NTV
-https://clubtv.link/710oc/top6219/lista.php?c=a033
+https://clubtv.link/710oc/key4516/lista.php?c=a033
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Nat Geo HD
-https://clubtv.link/710oc/top6219/lista.php?c=a036
+https://clubtv.link/710oc/key4516/lista.php?c=a036
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", National Geographic
-https://clubtv.link/710oc/top6219/lista.php?c=a05r
+https://clubtv.link/710oc/key4516/lista.php?c=a05r
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Nick HD
-https://clubtv.link/710oc/top6219/lista.php?c=a023
+https://clubtv.link/710oc/key4516/lista.php?c=a023
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Nick Jr
-https://clubtv.link/710oc/top6219/lista.php?c=a0bh
+https://clubtv.link/710oc/key4516/lista.php?c=a0bh
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Nick SIM HD
-https://clubtv.link/710oc/top6219/lista.php?c=a095
+https://clubtv.link/710oc/key4516/lista.php?c=a095
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Nickelodeon
-https://clubtv.link/710oc/top6219/lista.php?c=a09v
+https://clubtv.link/710oc/key4516/lista.php?c=a09v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Panamericana
-https://clubtv.link/710oc/top6219/lista.php?c=a00v
+https://clubtv.link/710oc/key4516/lista.php?c=a00v
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Paramount HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03e
+https://clubtv.link/710oc/key4516/lista.php?c=a03e
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Pasiones HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0at
+https://clubtv.link/710oc/key4516/lista.php?c=a0at
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Playboy HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0bg
+https://clubtv.link/710oc/key4516/lista.php?c=a0bg
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", RCN HD
-https://clubtv.link/710oc/top6219/lista.php?c=a031
+https://clubtv.link/710oc/key4516/lista.php?c=a031
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", RCN Novelas
-https://clubtv.link/710oc/top6219/lista.php?c=a07a
+https://clubtv.link/710oc/key4516/lista.php?c=a07a
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", RED GLOBAL
-https://clubtv.link/710oc/top6219/lista.php?c=a010
+https://clubtv.link/710oc/key4516/lista.php?c=a010
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", RPP
-https://clubtv.link/710oc/top6219/lista.php?c=a01d
+https://clubtv.link/710oc/key4516/lista.php?c=a01d
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", SEMILLITAS
-https://clubtv.link/710oc/top6219/lista.php?c=a05k
+https://clubtv.link/710oc/key4516/lista.php?c=a05k
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", SOL TV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a00l
+https://clubtv.link/710oc/key4516/lista.php?c=a00l
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", STAR CHANNEL HD
-https://clubtv.link/710oc/top6219/lista.php?c=a022
+https://clubtv.link/710oc/key4516/lista.php?c=a022
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", STAR TVE HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03g
+https://clubtv.link/710oc/key4516/lista.php?c=a03g
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Sextreme
-https://clubtv.link/710oc/top6219/lista.php?c=a01p
+https://clubtv.link/710oc/key4516/lista.php?c=a01p
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Sony HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01t
+https://clubtv.link/710oc/key4516/lista.php?c=a01t
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Sony Movies HD
-https://clubtv.link/710oc/top6219/lista.php?c=a06i
+https://clubtv.link/710oc/key4516/lista.php?c=a06i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Space HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01w
+https://clubtv.link/710oc/key4516/lista.php?c=a01w
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Stingray Concerts HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03u
+https://clubtv.link/710oc/key4516/lista.php?c=a03u
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Studio Universal HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03f
+https://clubtv.link/710oc/key4516/lista.php?c=a03f
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Sun Channel HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02n
+https://clubtv.link/710oc/key4516/lista.php?c=a02n
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", SyFy
-https://clubtv.link/710oc/top6219/lista.php?c=a08b
+https://clubtv.link/710oc/key4516/lista.php?c=a08b
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TAURUS TV
-https://clubtv.link/710oc/top6219/lista.php?c=a0bb
+https://clubtv.link/710oc/key4516/lista.php?c=a0bb
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TCM
-https://clubtv.link/710oc/top6219/lista.php?c=a07n
+https://clubtv.link/710oc/key4516/lista.php?c=a07n
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TD+2 HD CR
-https://clubtv.link/710oc/top6219/lista.php?c=a04z
+https://clubtv.link/710oc/key4516/lista.php?c=a04z
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TLC
-https://clubtv.link/710oc/top6219/lista.php?c=a08f
+https://clubtv.link/710oc/key4516/lista.php?c=a08f
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TNT HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02b
+https://clubtv.link/710oc/key4516/lista.php?c=a02b
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TNT SPORTS HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01x
+https://clubtv.link/710oc/key4516/lista.php?c=a01x
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TNT Series HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02y
+https://clubtv.link/710oc/key4516/lista.php?c=a02y
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TRUTV HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02k
+https://clubtv.link/710oc/key4516/lista.php?c=a02k
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TV PERU
-https://clubtv.link/710oc/top6219/lista.php?c=a00x
+https://clubtv.link/710oc/key4516/lista.php?c=a00x
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TV+ HD
-https://clubtv.link/710oc/top6219/lista.php?c=a034
+https://clubtv.link/710oc/key4516/lista.php?c=a034
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TVChile
-https://clubtv.link/710oc/top6219/lista.php?c=a04o
+https://clubtv.link/710oc/key4516/lista.php?c=a04o
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TVN HD
-https://clubtv.link/710oc/top6219/lista.php?c=a026
+https://clubtv.link/710oc/key4516/lista.php?c=a026
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Teen Nick
-https://clubtv.link/710oc/top6219/lista.php?c=a0be
+https://clubtv.link/710oc/key4516/lista.php?c=a0be
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Teen Nick HD
-https://clubtv.link/710oc/top6219/lista.php?c=a068
+https://clubtv.link/710oc/key4516/lista.php?c=a068
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Telehit HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03p
+https://clubtv.link/710oc/key4516/lista.php?c=a03p
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Telemundo HD
-https://clubtv.link/710oc/top6219/lista.php?c=a06f
+https://clubtv.link/710oc/key4516/lista.php?c=a06f
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Telenovelas
-https://clubtv.link/710oc/top6219/lista.php?c=a01i
+https://clubtv.link/710oc/key4516/lista.php?c=a01i
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Tigo Sports HD
-https://clubtv.link/710oc/top6219/lista.php?c=a094
+https://clubtv.link/710oc/key4516/lista.php?c=a094
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Tooncast
-https://clubtv.link/710oc/top6219/lista.php?c=a085
+https://clubtv.link/710oc/key4516/lista.php?c=a085
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Travelxp HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02m
+https://clubtv.link/710oc/key4516/lista.php?c=a02m
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", TyC Sports HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03y
+https://clubtv.link/710oc/key4516/lista.php?c=a03y
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", UNIVERSAL CHANNEL HD
-https://clubtv.link/710oc/top6219/lista.php?c=a02s
+https://clubtv.link/710oc/key4516/lista.php?c=a02s
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", UNIVERSAL CINEMA ESTE HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0aw
+https://clubtv.link/710oc/key4516/lista.php?c=a0aw
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", UNIVERSAL COMEDY HD
-https://clubtv.link/710oc/top6219/lista.php?c=a09h
+https://clubtv.link/710oc/key4516/lista.php?c=a09h
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", UNIVERSAL CRIME HD
-https://clubtv.link/710oc/top6219/lista.php?c=a09g
+https://clubtv.link/710oc/key4516/lista.php?c=a09g
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", UNIVERSAL REALITY HD
-https://clubtv.link/710oc/top6219/lista.php?c=a09f
+https://clubtv.link/710oc/key4516/lista.php?c=a09f
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Univision HD
-https://clubtv.link/710oc/top6219/lista.php?c=a0au
+https://clubtv.link/710oc/key4516/lista.php?c=a0au
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Venus
-https://clubtv.link/710oc/top6219/lista.php?c=a01o
+https://clubtv.link/710oc/key4516/lista.php?c=a01o
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", WARNER HD
-https://clubtv.link/710oc/top6219/lista.php?c=a08l
+https://clubtv.link/710oc/key4516/lista.php?c=a08l
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", WILLAX
-https://clubtv.link/710oc/top6219/lista.php?c=a00j
+https://clubtv.link/710oc/key4516/lista.php?c=a00j
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Warner Channel
-https://clubtv.link/710oc/top6219/lista.php?c=a0bf
+https://clubtv.link/710oc/key4516/lista.php?c=a0bf
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Warner Channel HD
-https://clubtv.link/710oc/top6219/lista.php?c=a01u
+https://clubtv.link/710oc/key4516/lista.php?c=a01u
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", Win Sports+ HD
-https://clubtv.link/710oc/top6219/lista.php?c=a03j
+https://clubtv.link/710oc/key4516/lista.php?c=a03j
 #EXTINF:-1 tvg-shift="-3"  group-title="TV PREMIUM", ZooMoo
-https://clubtv.link/710oc/top6219/lista.php?c=a04l
+https://clubtv.link/710oc/key4516/lista.php?c=a04l
 no
 
 
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd189_large.png",Simpson Maniahd189
-https://clubtv.link/710oc/top6219/24.php?c=simpson_maniahd189
+https://clubtv.link/710oc/key4516/24.php?c=simpson_maniahd189
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/punto_movies_large.png",Punto Movies
-https://clubtv.link/710oc/top6219/24.php?c=punto_movies
+https://clubtv.link/710oc/key4516/24.php?c=punto_movies
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/beto_7hd_large.png",Beto 7hd
-https://clubtv.link/710oc/top6219/24.php?c=beto_7hd
+https://clubtv.link/710oc/key4516/24.php?c=beto_7hd
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_neflix01_large.png",Neflix01
-https://clubtv.link/710oc/top6219/24.php?c=a_neflix01
+https://clubtv.link/710oc/key4516/24.php?c=a_neflix01
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cheli_cooper_large.png",Cheli Cooper
-https://clubtv.link/710oc/top6219/24.php?c=cheli_cooper
+https://clubtv.link/710oc/key4516/24.php?c=cheli_cooper
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cinemundo_plus_large.png",Cinemundo Plus
-https://clubtv.link/710oc/top6219/24.php?c=cinemundo_plus
+https://clubtv.link/710oc/key4516/24.php?c=cinemundo_plus
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/peliculas_mania_large.png",Peliculas Mania
-https://clubtv.link/710oc/top6219/24.php?c=peliculas_mania
+https://clubtv.link/710oc/key4516/24.php?c=peliculas_mania
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/terror_mania_large.png",Terror Mania
-https://clubtv.link/710oc/top6219/24.php?c=terror_mania
+https://clubtv.link/710oc/key4516/24.php?c=terror_mania
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shay_saheed_large.png",Shay Saheed
-https://clubtv.link/710oc/top6219/24.php?c=shay_saheed
+https://clubtv.link/710oc/key4516/24.php?c=shay_saheed
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd192_large.png",Simpson Maniahd192
-https://clubtv.link/710oc/top6219/24.php?c=simpson_maniahd192
+https://clubtv.link/710oc/key4516/24.php?c=simpson_maniahd192
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_juanmusic_large.png",A Juanmusic
-https://clubtv.link/710oc/top6219/24.php?c=a_juanmusic
+https://clubtv.link/710oc/key4516/24.php?c=a_juanmusic
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png",Cienciaficcion
-https://clubtv.link/710oc/top6219/24.php?c=cienciaficcion
+https://clubtv.link/710oc/key4516/24.php?c=cienciaficcion
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion01_large.png",Cienciaficcion01
-https://clubtv.link/710oc/top6219/24.php?c=cienciaficcion01
+https://clubtv.link/710oc/key4516/24.php?c=cienciaficcion01
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/padre_de_familia1_large.png",Padre de Familia
-https://clubtv.link/710oc/top6219/24.php?c=padre_de_familia1
+https://clubtv.link/710oc/key4516/24.php?c=padre_de_familia1
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/futurama_mania__large.png",Futurama
-https://clubtv.link/710oc/top6219/24.php?c=futurama_mania_
+https://clubtv.link/710oc/key4516/24.php?c=futurama_mania_
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/agente_de_familia1_large.png",Agente de Familia
-https://clubtv.link/710oc/top6219/24.php?c=agente_de_familia1
+https://clubtv.link/710oc/key4516/24.php?c=agente_de_familia1
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tele29_large.png",Tele29
-https://clubtv.link/710oc/top6219/24.php?c=tele29
+https://clubtv.link/710oc/key4516/24.php?c=tele29
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ysblf_large.png",Ysblf
-https://clubtv.link/710oc/top6219/24.php?c=ysblf
+https://clubtv.link/710oc/key4516/24.php?c=ysblf
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/0ueen_disney_large.png",Disney
-https://clubtv.link/710oc/top6219/24.php?c=0ueen_disney
+https://clubtv.link/710oc/key4516/24.php?c=0ueen_disney
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/2312_large.png",2312
-https://clubtv.link/710oc/top6219/24.php?c=2312
+https://clubtv.link/710oc/key4516/24.php?c=2312
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_large.png",Ganja Gv
-https://clubtv.link/710oc/top6219/24.php?c=ganja_tv
+https://clubtv.link/710oc/key4516/24.php?c=ganja_tv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/malcomhd_large.png",Malcomhd
-https://clubtv.link/710oc/top6219/24.php?c=malcomhd
+https://clubtv.link/710oc/key4516/24.php?c=malcomhd
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_2_large.png",Ganja Tv 2
-https://clubtv.link/710oc/top6219/24.php?c=ganja_tv_2
+https://clubtv.link/710oc/key4516/24.php?c=ganja_tv_2
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shy_ch_eurydice_large.png",shy ch eurydice
-https://clubtv.link/710oc/top6219/24.php?c=shy_ch_eurydice
+https://clubtv.link/710oc/key4516/24.php?c=shy_ch_eurydice
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmsterror_large.png",zonafilmsterror
-https://clubtv.link/710oc/top6219/24.php?c=zonafilmsterror
+https://clubtv.link/710oc/key4516/24.php?c=zonafilmsterror
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
-https://clubtv.link/710oc/top6219/24.php?c=tufortunatv
+https://clubtv.link/710oc/key4516/24.php?c=tufortunatv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmstvseries_large.png",zonafilmstvseries
-https://clubtv.link/710oc/top6219/24.php?c=zonafilmstvseries
+https://clubtv.link/710oc/key4516/24.php?c=zonafilmstvseries
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/rincondegago_large.png",rincondegago
-https://clubtv.link/710oc/top6219/24.php?c=rincondegago
+https://clubtv.link/710oc/key4516/24.php?c=rincondegago
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/radiofelove_large.png",radiofelove
-https://clubtv.link/710oc/top6219/24.php?c=radiofelove
+https://clubtv.link/710oc/key4516/24.php?c=radiofelove
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ovninews_large.png",ovninews
-https://clubtv.link/710oc/top6219/24.php?c=ovninews
+https://clubtv.link/710oc/key4516/24.php?c=ovninews
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cityfm_large.png",cityfm
-https://clubtv.link/710oc/top6219/24.php?c=cityfm
+https://clubtv.link/710oc/key4516/24.php?c=cityfm
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/chelito_sv_large.png",chelito sv
-https://clubtv.link/710oc/top6219/24.php?c=chelito_sv
+https://clubtv.link/710oc/key4516/24.php?c=chelito_sv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/nezradiovision_large.png",nezradiovision
-https://clubtv.link/710oc/top6219/24.php?c=nezradiovision
+https://clubtv.link/710oc/key4516/24.php?c=nezradiovision
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tvsalvision_large.png",tvsalvision
-https://clubtv.link/710oc/top6219/24.php?c=tvsalvision
+https://clubtv.link/710oc/key4516/24.php?c=tvsalvision
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/felovetv_large.png",felovetv
-https://clubtv.link/710oc/top6219/24.php?c=felovetv
+https://clubtv.link/710oc/key4516/24.php?c=felovetv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ficoatv_large.png",ficoatv
-https://clubtv.link/710oc/top6219/24.php?c=ficoatv
+https://clubtv.link/710oc/key4516/24.php?c=ficoatv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/fundacion1410_large.png",fundacion1410
-https://clubtv.link/710oc/top6219/24.php?c=fundacion1410
+https://clubtv.link/710oc/key4516/24.php?c=fundacion1410
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/lvpradiotv_large.png",lvpradiotv
-https://clubtv.link/710oc/top6219/24.php?c=lvpradiotv
+https://clubtv.link/710oc/key4516/24.php?c=lvpradiotv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/omega_tv_large.png",omega tv
-https://clubtv.link/710oc/top6219/24.php?c=omega_tv
+https://clubtv.link/710oc/key4516/24.php?c=omega_tv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/telemedellin_large.png",telemedellin
-https://clubtv.link/710oc/top6219/24.php?c=telemedellin
+https://clubtv.link/710oc/key4516/24.php?c=telemedellin
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tv777_large.png",tv777
-https://clubtv.link/710oc/top6219/24.php?c=tv777
+https://clubtv.link/710oc/key4516/24.php?c=tv777
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/vozdelcielotv_large.png",vozdelcielotv
-https://clubtv.link/710oc/top6219/24.php?c=vozdelcielotv
+https://clubtv.link/710oc/key4516/24.php?c=vozdelcielotv
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/yhwhesmisalvacion_large.png",yhwhesmisalvacion
-https://clubtv.link/710oc/top6219/24.php?c=yhwhesmisalvacion
+https://clubtv.link/710oc/key4516/24.php?c=yhwhesmisalvacion
