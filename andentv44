@@ -1,0 +1,689 @@
+#EXTM3U
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
+http://clubtv.link/F0502b/key4513/runtime.php?c=2154
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="CINE Y SERIES",Accion
+http://clubtv.link/F0502b/key4513/runtime.php?c=2550
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
+http://clubtv.link/F0502b/key4513/runtime.php?c=2551
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES",Crimen
+http://clubtv.link/F0502b/key4513/runtime.php?c=3533
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES",Cine Espanto
+http://clubtv.link/F0502b/key4513/runtime.php?c=3539
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/nx7oVpZ.png" group-title="CINE Y SERIES",CINE Y SERIES
+http://clubtv.link/F0502b/key4513/runtime.php?c=4819
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	
+http://clubtv.link/F0502b/key4513/runtime.php?c=4827
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
+http://clubtv.link/F0502b/key4513/runtime.php?c=4826
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance
+http://clubtv.link/F0502b/key4513/runtime.php?c=3532
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
+http://clubtv.link/F0502b/key4513/runtime.php?c=3528
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/bHhRRom.png" group-title="DEPORTES",AYM
+http://clubtv.link/F0502b/key4513/runtime.php?c=5106
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/4p1oIev.png" group-title="DEPORTES",CombaTV
+http://clubtv.link/F0502b/key4513/runtime.php?c=5090
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/zzOtkwl.png" group-title="MUSICA",Vivaldi
+http://clubtv.link/F0502b/key4513/runtime.php?c=2806
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS",Euronews Español
+http://clubtv.link/F0502b/key4513/distro.php?c=euronews-spa
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="CINE Y SERIES",Top Cine
+http://clubtv.link/F0502b/key4513/distro.php?c=top-cine-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+http://clubtv.link/F0502b/key4513/distro.php?c=juntos
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="CINE Y SERIES",Cine Real
+http://clubtv.link/F0502b/key4513/distro.php?c=cine-real-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="CINE Y SERIES",Cine Sureño
+http://clubtv.link/F0502b/key4513/distro.php?c=cine-sureno
+#EXTINF:-1 tvg-logo="https://imgur.com/ySWZ76R.png" group-title="COMEDIA",Flou Cine
+http://clubtv.link/F0502b/key4513/distro.php?c=flou-cine
+#EXTINF:-1 tvg-logo="https://imgur.com/HClN7n1.png" group-title="ENTRETENIMIENTO",Flou Caribeño
+http://clubtv.link/F0502b/key4513/distro.php?c=flou-caribeno
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="ENTRETENIMIENTO",Horrorfy
+http://clubtv.link/F0502b/key4513/distro.php?c=horrorfy
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
+http://clubtv.link/F0502b/key4513/distro.php?c=wapptv
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="CINE Y SERIES",Tu Cine
+http://clubtv.link/F0502b/key4513/distro.php?c=tu-cine-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/F0502b/key4513/distro.php?c=el-conflicto-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+http://clubtv.link/F0502b/key4513/distro.php?c=saber-mas
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+http://clubtv.link/F0502b/key4513/distro.php?c=flash-1
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+http://clubtv.link/F0502b/key4513/distro.php?c=mmc
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="INFANTIL",Chiquilines
+http://clubtv.link/F0502b/key4513/distro.php?c=chiquilines
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/F0502b/key4513/distro.php?c=glewedtv-spanish
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/MT4FX66Y/CDF-PREMIUM.jpg" group-title="DEPORTES",TNT Sports 2	
+http://clubtv.link/F0502b/key4513/lista.php?c=1&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="https://i.postimg.cc/RVjPPyRz/CDF-HD.jpg" group-title="DEPORTES",CDF HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=2&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.postimg.cc/hP71bqcv/BOOMERANG.jpg" group-title="INFANTILES",Cartoonito	
+http://clubtv.link/F0502b/key4513/lista.php?c=10&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/CKkVsTDn/NICK-JR.jpg" group-title="INFANTILES",NICK JR	
+http://clubtv.link/F0502b/key4513/lista.php?c=11&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.postimg.cc/vmn4XGTb/DISCOVERY-KIDS.jpg" group-title="INFANTILES",DISCOVERY KIDS	
+http://clubtv.link/F0502b/key4513/lista.php?c=12&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.postimg.cc/XJdXX5k1/DISCOVERY-TURBO.jpg" group-title="CULTURA",DISCOVERY TURBO	
+http://clubtv.link/F0502b/key4513/lista.php?c=13&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.postimg.cc/tRkYBSqZ/DISNEY-CHANNEL.jpg" group-title="INFANTILES",Disney Channel	
+http://clubtv.link/F0502b/key4513/lista.php?c=14&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://i.postimg.cc/fWKDPNPx/DISNEY-JR.jpg" group-title="INFANTILES",Disney Jr	
+http://clubtv.link/F0502b/key4513/lista.php?c=15&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/wvc78FDr/CARTOON.jpg" group-title="INFANTILES",Cartoon Network	
+http://clubtv.link/F0502b/key4513/lista.php?c=18&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="DEPORTES",ESPN	
+http://clubtv.link/F0502b/key4513/lista.php?c=19&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",ESPN 2	
+http://clubtv.link/F0502b/key4513/lista.php?c=20&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CO" tvg-logo="https://i.postimg.cc/7LjHz3qs/ESPN-2.jpg" group-title="DEPORTES",ESPN 2 CO	
+http://clubtv.link/F0502b/key4513/lista.php?c=21&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.postimg.cc/Yqqn7sQx/ESPN-3.jpg" group-title="DEPORTES",ESPN 3	
+http://clubtv.link/F0502b/key4513/lista.php?c=22&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://i.postimg.cc/wjfc9WTX/FOX-SPORTS-3.jpg" group-title="DEPORTES",Fox Sports 3	
+http://clubtv.link/F0502b/key4513/lista.php?c=23&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win" tvg-logo="https://i.postimg.cc/907c1rQm/WIN-SPORTS.jpg" group-title="DEPORTES",Win	
+http://clubtv.link/F0502b/key4513/lista.php?c=24&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.postimg.cc/wTG70ds0/FX.jpg" group-title="CINE Y SERIES",FX	
+http://clubtv.link/F0502b/key4513/lista.php?c=25&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.postimg.cc/rwZC1b8k/TNT.jpg" group-title="CINE Y SERIES",TNT	
+http://clubtv.link/F0502b/key4513/lista.php?c=26&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://i.postimg.cc/DzHnjNmh/CINECANAL.jpg" group-title="CINE Y SERIES",Cinecanal	
+http://clubtv.link/F0502b/key4513/lista.php?c=27&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIESx" tvg-logo="https://i.postimg.cc/13ZjYMHh/CINE Y SERIESX.jpg" group-title="CINE Y SERIES",CINE Y SERIESx	
+http://clubtv.link/F0502b/key4513/lista.php?c=28&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://i.postimg.cc/yYjB4xWv/FOX.jpg" group-title="CINE Y SERIES",Star Channel	
+http://clubtv.link/F0502b/key4513/lista.php?c=31&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://i.postimg.cc/XYDbqPf5/WARNER.jpg" group-title="CINE Y SERIES",Warner	
+http://clubtv.link/F0502b/key4513/lista.php?c=32&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://i.postimg.cc/ncHVXS7p/UNIVERSAL_CHANNEL.jpg" group-title="CINE Y SERIES",Universal	
+http://clubtv.link/F0502b/key4513/lista.php?c=33&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://i.postimg.cc/LXPRrVZ1/SONY.jpg" group-title="CINE Y SERIES",Sony	
+http://clubtv.link/F0502b/key4513/lista.php?c=34&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://i.postimg.cc/0yNv8vwx/SPACE.jpg" group-title="CINE Y SERIES",Space	
+http://clubtv.link/F0502b/key4513/lista.php?c=35&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.postimg.cc/RZfT4qM3/TCM.jpg" group-title="CINE Y SERIES",TCM	
+http://clubtv.link/F0502b/key4513/lista.php?c=36&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-sat" tvg-logo="https://i.postimg.cc/ZRXy0tFf/I-SAT.jpg" group-title="CINE Y SERIES",I-sat	
+http://clubtv.link/F0502b/key4513/lista.php?c=37&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.postimg.cc/XqcWv7LN/AXN.jpg" group-title="CINE Y SERIES",AXN	
+http://clubtv.link/F0502b/key4513/lista.php?c=38&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://i.postimg.cc/QCFb8Xvf/NATIONAL-GEO.jpg" group-title="CULTURA",Nat Geo	
+http://clubtv.link/F0502b/key4513/lista.php?c=39&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home and Health" tvg-logo="https://i.postimg.cc/HLF5Bvwb/HOME-HEALTH.jpg" group-title="CULTURA",Home and Health	
+http://clubtv.link/F0502b/key4513/lista.php?c=40&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="https://i.postimg.cc/QN6D80bS/ID.jpg" group-title="CULTURA",Discovery ID	
+http://clubtv.link/F0502b/key4513/lista.php?c=41&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/tTCkcdkQ/DISCOVERY-CHANNEL.jpg" group-title="CULTURA",Discovery Channel	
+http://clubtv.link/F0502b/key4513/lista.php?c=42&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/7YcRTRVC/ANIMAL-PLANET-NUEVO.jpg" group-title="CULTURA",Animal Planet	
+http://clubtv.link/F0502b/key4513/lista.php?c=43&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="https://i.postimg.cc/8z9Fh71Z/HISTORY.jpg" group-title="CULTURA",History Channel	
+http://clubtv.link/F0502b/key4513/lista.php?c=44&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.postimg.cc/XvjBmvX6/TLC.jpg" group-title="CULTURA",TLC	
+http://clubtv.link/F0502b/key4513/lista.php?c=45&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN espanol" tvg-logo="" group-title="OTROS",CNN espanol	
+http://clubtv.link/F0502b/key4513/lista.php?c=46&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal de Las estrellas" tvg-logo="https://i.postimg.cc/fRd3fY8J/LAS-ESTRELLAS.jpg" group-title="OTROS",Canal de Las estrellas	
+http://clubtv.link/F0502b/key4513/lista.php?c=47&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E Entertainment" tvg-logo="https://i.postimg.cc/DfPnygwZ/E-CHANNEL.jpg" group-title="ENTRETENIMIENTO",E Entertainment	
+http://clubtv.link/F0502b/key4513/lista.php?c=48&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="OTROS",TVE	
+http://clubtv.link/F0502b/key4513/lista.php?c=49&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://i.postimg.cc/X7GXnwSQ/MTV.jpg" group-title="MUSICA",MTV	
+http://clubtv.link/F0502b/key4513/lista.php?c=50&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="DEPORTES",Golf Channel	
+http://clubtv.link/F0502b/key4513/lista.php?c=66&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="teletrak" tvg-logo="" group-title="DEPORTES",teletrak	
+http://clubtv.link/F0502b/key4513/lista.php?c=67&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3" tvg-logo="" group-title="DEPORTES",TNT Sports 3	
+http://clubtv.link/F0502b/key4513/lista.php?c=151&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="" group-title="DEPORTES",Fox Sports 1	
+http://clubtv.link/F0502b/key4513/lista.php?c=152&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="DEPORTES",Fox Sports 2	
+http://clubtv.link/F0502b/key4513/lista.php?c=153&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDO basico" tvg-logo="" group-title="DEPORTES",CDO basico	
+http://clubtv.link/F0502b/key4513/lista.php?c=154&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDO premium" tvg-logo="" group-title="DEPORTES",CDO premium	
+http://clubtv.link/F0502b/key4513/lista.php?c=155&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="CINE Y SERIES",ANTV	
+http://clubtv.link/F0502b/key4513/lista.php?c=156&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="INFANTILES",Baby TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=158&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="CULTURA",Discovery Science	
+http://clubtv.link/F0502b/key4513/lista.php?c=161&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTV" tvg-logo="" group-title="CINE Y SERIES",EWTV	
+http://clubtv.link/F0502b/key4513/lista.php?c=162&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECDF El canal del futbol HD" tvg-logo="" group-title="DEPORTES",ECDF El canal del futbol HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=164&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="CINE Y SERIES",Golden	
+http://clubtv.link/F0502b/key4513/lista.php?c=171&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CINE Y SERIES",HBO	
+http://clubtv.link/F0502b/key4513/lista.php?c=173&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="" group-title="CINE Y SERIES",HBO Mundi	
+http://clubtv.link/F0502b/key4513/lista.php?c=174&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="CINE Y SERIES",HBO Signature	
+http://clubtv.link/F0502b/key4513/lista.php?c=175&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="CINE Y SERIES",HBO 2	
+http://clubtv.link/F0502b/key4513/lista.php?c=176&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="MUSICA",HTV	
+http://clubtv.link/F0502b/key4513/lista.php?c=177&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="CULTURA",History 2	
+http://clubtv.link/F0502b/key4513/lista.php?c=178&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="" group-title="CINE Y SERIES",HOLA TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=179&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="OTROS",Las Estrellas	
+http://clubtv.link/F0502b/key4513/lista.php?c=180&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="CINE Y SERIES",Lifetime	
+http://clubtv.link/F0502b/key4513/lista.php?c=181&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meridiano" tvg-logo="" group-title="CINE Y SERIES",Meridiano	
+http://clubtv.link/F0502b/key4513/lista.php?c=182&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="CINE Y SERIES",Paramount	
+http://clubtv.link/F0502b/key4513/lista.php?c=185&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="CINE Y SERIES",Studio Universal	
+http://clubtv.link/F0502b/key4513/lista.php?c=188&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="CINE Y SERIES",SYFY	
+http://clubtv.link/F0502b/key4513/lista.php?c=189&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tnt Series" tvg-logo="" group-title="CINE Y SERIES",Tnt Series	
+http://clubtv.link/F0502b/key4513/lista.php?c=191&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EPACO" tvg-logo="" group-title="CINE Y SERIES",TV EPACO	
+http://clubtv.link/F0502b/key4513/lista.php?c=192&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="CINE Y SERIES",Telenovelas	
+http://clubtv.link/F0502b/key4513/lista.php?c=194&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="INFANTILES",Tooncast	
+http://clubtv.link/F0502b/key4513/lista.php?c=195&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="DEPORTES",TYC Sports	
+http://clubtv.link/F0502b/key4513/lista.php?c=196&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VALE TV" tvg-logo="" group-title="CINE Y SERIES",VALE TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=197&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venezolana de TV" tvg-logo="" group-title="CINE Y SERIES",Venezolana de TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=199&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vive" tvg-logo="" group-title="CINE Y SERIES",Vive	
+http://clubtv.link/F0502b/key4513/lista.php?c=200&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV" tvg-logo="" group-title="INFANTILES",ETC TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=202&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="movistar deportes" tvg-logo="" group-title="DEPORTES",movistar deportes	
+http://clubtv.link/F0502b/key4513/lista.php?c=203&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN op2" tvg-logo="" group-title="DEPORTES",ESPN op2	
+http://clubtv.link/F0502b/key4513/lista.php?c=204&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox sports" tvg-logo="" group-title="DEPORTES",Fox sports	
+http://clubtv.link/F0502b/key4513/lista.php?c=207&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="CINE Y SERIES",A&E HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=208&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="CINE Y SERIES",AMC HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=209&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CINE Y SERIES",AXN HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=210&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="CULTURA",Animal Planet HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=211&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="INFANTILES",Cartoon Network HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=216&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="CINE Y SERIES",Cinecanal HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=217&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIESx HD" tvg-logo="" group-title="CINE Y SERIES",CINE Y SERIESx HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=218&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="ENTRETENIMIENTO",Comedy Central HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=219&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="" group-title="CINE Y SERIES",DHE HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=220&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="CULTURA",Discovery H&H HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=221&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="CULTURA",Discovery HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=222&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="" group-title="INFANTILES",Discovery Kids HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=223&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="CULTURA",Discovery Theater HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=224&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="CULTURA",Discovery World HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=225&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney HD" tvg-logo="" group-title="INFANTILES",Disney HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=226&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="DEPORTES",ESPN 2 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=227&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="DEPORTES",ESPN 3 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=228&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="DEPORTES",ESPN EXTRA HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=229&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="DEPORTES",ESPN HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=230&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="OTROS",El Gourmet HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=231&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" tvg-logo="" group-title="DEPORTES",FOX Sports 2 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=232&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="CINE Y SERIES",FX HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=233&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="OTROS",Food Network HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=235&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="DEPORTES",Fox Sports 1 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=236&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="" group-title="DEPORTES",Fox Sports 3 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=237&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="" group-title="CINE Y SERIES",Golden HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=238&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="CINE Y SERIES",HBO HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=239&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="" group-title="CULTURA",History 2 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=240&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="CULTURA",History Channel HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=241&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="CULTURA",Discovery ID HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=242&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="" group-title="CULTURA",Nat Geo HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=245&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="" group-title="CINE Y SERIES",Paramount HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=248&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="" group-title="OTROS",Pasiones HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=249&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=251&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="" group-title="CINE Y SERIES",Sony HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=257&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="CINE Y SERIES",Space HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=258&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="CINE Y SERIES",Studio Universal HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=259&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel HD" tvg-logo="" group-title="CINE Y SERIES",Sun Channel HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=260&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="CINE Y SERIES",TNT HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=261&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="" group-title="DEPORTES",TNT SPORTS HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=262&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="CINE Y SERIES",TNT Series HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=263&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="" group-title="CULTURA",TRUTV HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=264&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=266&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="CINE Y SERIES",Warner Channel HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=267&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E Mundo" tvg-logo="" group-title="CINE Y SERIES",A&E Mundo	
+http://clubtv.link/F0502b/key4513/lista.php?c=268&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="CINE Y SERIES",HBO Family	
+http://clubtv.link/F0502b/key4513/lista.php?c=269&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO plus" tvg-logo="" group-title="CINE Y SERIES",HBO plus	
+http://clubtv.link/F0502b/key4513/lista.php?c=270&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtream" tvg-logo="" group-title="CINE Y SERIES",HBO Xtream	
+http://clubtv.link/F0502b/key4513/lista.php?c=271&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="INFANTILES",Nickelodeon	
+http://clubtv.link/F0502b/key4513/lista.php?c=272&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DragonBall Z - Saga Freezer" tvg-logo="" group-title="",DragonBall Z - Saga Freezer	
+http://clubtv.link/F0502b/key4513/lista.php?c=304&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 INVENCIBLE" tvg-logo="" group-title="CARTOONS 24/7",24/7 INVENCIBLE	
+http://clubtv.link/F0502b/key4513/lista.php?c=313&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUJUTSU KAISEN" tvg-logo="" group-title="CANALES 24/7",24/7 JUJUTSU KAISEN	
+http://clubtv.link/F0502b/key4513/lista.php?c=338&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Juego Del Calamar" tvg-logo="" group-title="CANALES 24/7",24/7 El Juego Del Calamar	
+http://clubtv.link/F0502b/key4513/lista.php?c=348&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 1" tvg-logo="" group-title="ROCKY - SAGA",Rocky 1	
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/349.mkv&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 2" tvg-logo="" group-title="ROCKY - SAGA",Rocky 2	
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/350.mkv&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 3" tvg-logo="" group-title="ROCKY - SAGA",Rocky 3	
+http://138.255.102.3:25461/movie/FOXSPORTS1HDsd/RRZKamZw9a/351.mkv&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOKI" tvg-logo="" group-title="CINE Y SERIES",24/7 LOKI	
+http://clubtv.link/F0502b/key4513/lista.php?c=366&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Classic Project " tvg-logo="" group-title="MUSICA",The Classic Project 	
+http://clubtv.link/F0502b/key4513/lista.php?c=399&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RetroMix" tvg-logo="" group-title="MUSICA",RetroMix	
+http://clubtv.link/F0502b/key4513/lista.php?c=420&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ASTROBOY" tvg-logo="" group-title="CARTOONS 24/7",24/7 ASTROBOY	
+http://clubtv.link/F0502b/key4513/lista.php?c=472&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DragonBall - Movies" tvg-logo="" group-title="CANALES 24/7",24/7 DragonBall - Movies	
+http://clubtv.link/F0502b/key4513/lista.php?c=495&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INVICTO - SAGA" tvg-logo="" group-title="CANALES 24/7",INVICTO - SAGA	
+http://clubtv.link/F0502b/key4513/lista.php?c=504&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman del futuro" tvg-logo="" group-title="CARTOONS 24/7",24/7 Batman del futuro	
+http://clubtv.link/F0502b/key4513/lista.php?c=774&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cadillacs and dinosaurs" tvg-logo="" group-title="CARTOONS 24/7",24/7 Cadillacs and dinosaurs	
+http://clubtv.link/F0502b/key4513/lista.php?c=775&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Flash Gordon" tvg-logo="" group-title="CARTOONS 24/7",24/7 Flash Gordon	
+http://clubtv.link/F0502b/key4513/lista.php?c=801&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Inspector Ardilla" tvg-logo="" group-title="CARTOONS 24/7",24/7 Inspector Ardilla	
+http://clubtv.link/F0502b/key4513/lista.php?c=828&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro" tvg-logo="" group-title="CARTOONS 24/7",24/7 Pinky y Cerebro	
+http://clubtv.link/F0502b/key4513/lista.php?c=894&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="OTROS",Telemundo	
+http://clubtv.link/F0502b/key4513/lista.php?c=3924&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports HD" tvg-logo="" group-title="DEPORTES",TYC Sports HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=3925&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="" group-title="DEPORTES",Win Sports +	
+http://clubtv.link/F0502b/key4513/lista.php?c=3926&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONGRESO" tvg-logo="" group-title="OTROS",CONGRESO	
+http://clubtv.link/F0502b/key4513/lista.php?c=3927&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="CINE Y SERIES",De Pelicula	
+http://clubtv.link/F0502b/key4513/lista.php?c=3934&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="CULTURA",HGTV	
+http://clubtv.link/F0502b/key4513/lista.php?c=3935&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="" group-title="DEPORTES",Gol TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=3936&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="CINE Y SERIES",HBO POP	
+http://clubtv.link/F0502b/key4513/lista.php?c=3937&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family hd" tvg-logo="" group-title="CINE Y SERIES",HBO Family hd	
+http://clubtv.link/F0502b/key4513/lista.php?c=4181&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="CINE Y SERIES",HBO 2 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4182&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="" group-title="CINE Y SERIES",HBO XTREME HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4183&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICA",MTV HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4184&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="MUSICA",MTV LIVE HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4185&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="ENTRETENIMIENTO",E! HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4186&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLOVER HD" tvg-logo="" group-title="CINE Y SERIES",CLOVER HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4187&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama HD" tvg-logo="" group-title="CINE Y SERIES",Kanal D Drama HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4188&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="" group-title="CULTURA",Love Nature HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4189&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS" tvg-logo="" group-title="DEPORTES",EVENTOS	
+http://clubtv.link/F0502b/key4513/lista.php?c=4195&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="" group-title="INFANTILES",NICK HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4226&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek" tvg-logo="" group-title="INFANTILES",EnerGeek	
+http://clubtv.link/F0502b/key4513/lista.php?c=4244&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Fanpop" tvg-logo="" group-title="INFANTILES",EnerGeek Fanpop	
+http://clubtv.link/F0502b/key4513/lista.php?c=4245&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Wowly" tvg-logo="" group-title="INFANTILES",EnerGeek Wowly	
+http://clubtv.link/F0502b/key4513/lista.php?c=4246&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3series HD" tvg-logo="" group-title="CINE Y SERIES",A3series HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4247&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal CINE Y SERIES SD" tvg-logo="" group-title="CINE Y SERIES",Universal CINE Y SERIES SD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4248&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy SD" tvg-logo="" group-title="CINE Y SERIES",Universal Comedy SD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4249&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere SD" tvg-logo="" group-title="CINE Y SERIES",Universal Premiere SD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4250&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES" tvg-logo="" group-title="ENTRETENIMIENTO",ATRES SERIES	
+http://clubtv.link/F0502b/key4513/lista.php?c=4252&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="ENTRETENIMIENTO",Antena 3	
+http://clubtv.link/F0502b/key4513/lista.php?c=4253&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="ENTRETENIMIENTO",BBC World	
+http://clubtv.link/F0502b/key4513/lista.php?c=4254&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="" group-title="OTROS",CNN Internacional	
+http://clubtv.link/F0502b/key4513/lista.php?c=4255&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS SD" tvg-logo="" group-title="CINE Y SERIES",CNT SPORTS SD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4256&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clover" tvg-logo="" group-title="CINE Y SERIES",Clover	
+http://clubtv.link/F0502b/key4513/lista.php?c=4261&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW (Deutsch +)" tvg-logo="" group-title="ENTRETENIMIENTO",DW (Deutsch +)	
+http://clubtv.link/F0502b/key4513/lista.php?c=4263&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="ENTRETENIMIENTO",Distrito Comedia	
+http://clubtv.link/F0502b/key4513/lista.php?c=4264&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN op3" tvg-logo="" group-title="DEPORTES",ESPN op3	
+http://clubtv.link/F0502b/key4513/lista.php?c=4265&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="DEPORTES",ESPN 4	
+http://clubtv.link/F0502b/key4513/lista.php?c=4266&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-logo="" group-title="ECUADOR",Ecuador TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4267&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="" group-title="ECUADOR",Ecuavisa	
+http://clubtv.link/F0502b/key4513/lista.php?c=4268&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="ENTRETENIMIENTO",El Gourmet	
+http://clubtv.link/F0502b/key4513/lista.php?c=4269&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="" group-title="ENTRETENIMIENTO",Eurochannel	
+http://clubtv.link/F0502b/key4513/lista.php?c=4272&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FANB" tvg-logo="" group-title="ENTRETENIMIENTO",FANB	
+http://clubtv.link/F0502b/key4513/lista.php?c=4273&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="ENTRETENIMIENTO",Fox News	
+http://clubtv.link/F0502b/key4513/lista.php?c=4274&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="ENTRETENIMIENTO",France 24	
+http://clubtv.link/F0502b/key4513/lista.php?c=4275&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL" tvg-logo="" group-title="ENTRETENIMIENTO",GLOBAL	
+http://clubtv.link/F0502b/key4513/lista.php?c=4276&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gamavision" tvg-logo="" group-title="ECUADOR",Gamavision	
+http://clubtv.link/F0502b/key4513/lista.php?c=4277&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="ENTRETENIMIENTO",Glitz	
+http://clubtv.link/F0502b/key4513/lista.php?c=4278&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="" group-title="CINE Y SERIES",HBO SD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4280&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="" group-title="CINE Y SERIES",HBO Xtreme	
+http://clubtv.link/F0502b/key4513/lista.php?c=4281&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="CINE Y SERIES",Kanal D Drama	
+http://clubtv.link/F0502b/key4513/lista.php?c=4282&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids" tvg-logo="" group-title="INFANTILES",Lolly Kids	
+http://clubtv.link/F0502b/key4513/lista.php?c=4284&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="CULTURA",Love Nature	
+http://clubtv.link/F0502b/key4513/lista.php?c=4285&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="CINE Y SERIES",Mas Chic	
+http://clubtv.link/F0502b/key4513/lista.php?c=4286&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTN 24 Horas" tvg-logo="" group-title="ENTRETENIMIENTO",NTN 24 Horas	
+http://clubtv.link/F0502b/key4513/lista.php?c=4287&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oromar TV" tvg-logo="" group-title="ECUADOR",Oromar TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4289&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLUSTV" tvg-logo="" group-title="ENTRETENIMIENTO",PLUSTV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4290&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="ENTRETENIMIENTO",RAI	
+http://clubtv.link/F0502b/key4513/lista.php?c=4291&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="" group-title="ENTRETENIMIENTO",RTS	
+http://clubtv.link/F0502b/key4513/lista.php?c=4292&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTU" tvg-logo="" group-title="ENTRETENIMIENTO",RTU	
+http://clubtv.link/F0502b/key4513/lista.php?c=4293&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="CINE Y SERIES",Sun Channel	
+http://clubtv.link/F0502b/key4513/lista.php?c=4294&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen Nick" tvg-logo="" group-title="INFANTILES",Teen Nick	
+http://clubtv.link/F0502b/key4513/lista.php?c=4300&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="" group-title="ENTRETENIMIENTO",Tru TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4306&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UCL" tvg-logo="" group-title="ENTRETENIMIENTO",UCL	
+http://clubtv.link/F0502b/key4513/lista.php?c=4307&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+" tvg-logo="" group-title="DEPORTES",Win Sports+	
+http://clubtv.link/F0502b/key4513/lista.php?c=4309&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES HD" tvg-logo="" group-title="CINE Y SERIES",ATRES SERIES HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4310&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="DEPORTES",ESPN 4 HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4314&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD" tvg-logo="" group-title="DEPORTES",Gol TV HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4316&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="CINE Y SERIES",HBO POP HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4317&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV HD" tvg-logo="" group-title="ENTRETENIMIENTO",Hola TV HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4318&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD" tvg-logo="" group-title="ENTRETENIMIENTO",Las Estrellas HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4319&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="MUSICA",MTV 00s	
+http://clubtv.link/F0502b/key4513/lista.php?c=4321&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="" group-title="DEPORTES",Movistar Deportes HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4322&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC" tvg-logo="" group-title="MUSICA",NICK MUSIC	
+http://clubtv.link/F0502b/key4513/lista.php?c=4323&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts HD" tvg-logo="" group-title="MUSICA",Stingray Concerts HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4327&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS Very Funny HD" tvg-logo="" group-title="CINE Y SERIES",TBS Very Funny HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4328&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit HD" tvg-logo="" group-title="MUSICA",Telehit HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4329&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+ HD" tvg-logo="" group-title="DEPORTES",Win Sports+ HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4330&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE Y SERIES",AMC	
+http://clubtv.link/F0502b/key4513/lista.php?c=4331&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America TV PY" tvg-logo="" group-title="OTROS",America TV PY	
+http://clubtv.link/F0502b/key4513/lista.php?c=4332&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="INFANTILES",Baby First	
+http://clubtv.link/F0502b/key4513/lista.php?c=4333&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C9N" tvg-logo="" group-title="OTROS",C9N	
+http://clubtv.link/F0502b/key4513/lista.php?c=4334&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="OTROS",Canal Claro	
+http://clubtv.link/F0502b/key4513/lista.php?c=4335&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="" group-title="OTROS",Canal TRO	
+http://clubtv.link/F0502b/key4513/lista.php?c=4336&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro CINE Y SERIES" tvg-logo="" group-title="OTROS",Claro CINE Y SERIES	
+http://clubtv.link/F0502b/key4513/lista.php?c=4337&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="OTROS",Claro Sports	
+http://clubtv.link/F0502b/key4513/lista.php?c=4338&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="ENTRETENIMIENTO",Comedy Central	
+http://clubtv.link/F0502b/key4513/lista.php?c=4339&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cristovision" tvg-logo="" group-title="OTROS",Cristovision	
+http://clubtv.link/F0502b/key4513/lista.php?c=4340&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN CO" tvg-logo="" group-title="DEPORTES",ESPN CO	
+http://clubtv.link/F0502b/key4513/lista.php?c=4341&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="" group-title="OTROS",Enlace	
+http://clubtv.link/F0502b/key4513/lista.php?c=4342&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esne TV" tvg-logo="" group-title="OTROS",Esne TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4343&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="OTROS",Europa Europa	
+http://clubtv.link/F0502b/key4513/lista.php?c=4344&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film&Arts" tvg-logo="" group-title="OTROS",Film&Arts	
+http://clubtv.link/F0502b/key4513/lista.php?c=4345&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gama TV" tvg-logo="" group-title="OTROS",Gama TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4346&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional" tvg-logo="" group-title="OTROS",Globo Internacional	
+http://clubtv.link/F0502b/key4513/lista.php?c=4347&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="" group-title="OTROS",La Tele	
+http://clubtv.link/F0502b/key4513/lista.php?c=4351&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar TV" tvg-logo="" group-title="OTROS",Movistar TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4352&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NPY" tvg-logo="" group-title="OTROS",NPY	
+http://clubtv.link/F0502b/key4513/lista.php?c=4353&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paravision" tvg-logo="" group-title="CINE Y SERIES",Paravision	
+http://clubtv.link/F0502b/key4513/lista.php?c=4354&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SNT" tvg-logo="" group-title="OTROS",SNT	
+http://clubtv.link/F0502b/key4513/lista.php?c=4358&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUR TV" tvg-logo="" group-title="OTROS",SUR TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4359&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sin Limites" tvg-logo="" group-title="OTROS",Sin Limites	
+http://clubtv.link/F0502b/key4513/lista.php?c=4361&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Television" tvg-logo="" group-title="ECUADOR",TC Television	
+http://clubtv.link/F0502b/key4513/lista.php?c=4362&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara" tvg-logo="" group-title="OTROS",TV Camara	
+http://clubtv.link/F0502b/key4513/lista.php?c=4363&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unicanal" tvg-logo="" group-title="OTROS",Unicanal	
+http://clubtv.link/F0502b/key4513/lista.php?c=4367&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINE Y SERIES HD" tvg-logo="" group-title="CINE Y SERIES",AZ cinema HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4375&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids HD" tvg-logo="" group-title="INFANTILES",Lolly Kids HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4377&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="CINE Y SERIES",Star TVE HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4378&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="" group-title="CINE Y SERIES",TNT Novelas HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4379&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports HD" tvg-logo="" group-title="DEPORTES",Win Sports HD	
+http://clubtv.link/F0502b/key4513/lista.php?c=4380&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="" group-title="INFANTILES",Dreamworks	
+http://clubtv.link/F0502b/key4513/lista.php?c=4460&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bym Sports" tvg-logo="" group-title="DEPORTES",Bym Sports	
+http://clubtv.link/F0502b/key4513/lista.php?c=4461&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="" group-title="ENTRETENIMIENTO",Cubavision	
+http://clubtv.link/F0502b/key4513/lista.php?c=4465&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV" tvg-logo="" group-title="ENTRETENIMIENTO",Bethel TV	
+http://clubtv.link/F0502b/key4513/lista.php?c=4466&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Libertad" tvg-logo="" group-title="ENTRETENIMIENTO",Libertad	
+http://clubtv.link/F0502b/key4513/lista.php?c=4467&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4k test" tvg-logo="" group-title="CINE Y SERIES",4k test	
+http://clubtv.link/F0502b/key4513/lista.php?c=4468&token=TecnotvGenerador&f=.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MÉXICO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest?cb=20180716012938&path-prefix=es" group-title="MÉXICO", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="MÉXICO", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd189_large.png",Simpson Maniahd189
+http://clubtv.link/F0502b/key4513/24.php?c=simpson_maniahd189
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/punto_movies_large.png",Punto Movies
+http://clubtv.link/F0502b/key4513/24.php?c=punto_movies
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/beto_7hd_large.png",Beto 7hd
+http://clubtv.link/F0502b/key4513/24.php?c=beto_7hd
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_neflix01_large.png",Neflix01
+http://clubtv.link/F0502b/key4513/24.php?c=a_neflix01
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cheli_cooper_large.png",Cheli Cooper
+http://clubtv.link/F0502b/key4513/24.php?c=cheli_cooper
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cinemundo_plus_large.png",Cinemundo Plus
+http://clubtv.link/F0502b/key4513/24.php?c=cinemundo_plus
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/peliculas_mania_large.png",Peliculas Mania
+http://clubtv.link/F0502b/key4513/24.php?c=peliculas_mania
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/terror_mania_large.png",Terror Mania
+http://clubtv.link/F0502b/key4513/24.php?c=terror_mania
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shay_saheed_large.png",Shay Saheed
+http://clubtv.link/F0502b/key4513/24.php?c=shay_saheed
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd192_large.png",Simpson Maniahd192
+http://clubtv.link/F0502b/key4513/24.php?c=simpson_maniahd192
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_juanmusic_large.png",A Juanmusic
+http://clubtv.link/F0502b/key4513/24.php?c=a_juanmusic
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png",Cienciaficcion
+http://clubtv.link/F0502b/key4513/24.php?c=cienciaficcion
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion01_large.png",Cienciaficcion01
+http://clubtv.link/F0502b/key4513/24.php?c=cienciaficcion01
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/padre_de_familia1_large.png",Padre de Familia
+http://clubtv.link/F0502b/key4513/24.php?c=padre_de_familia1
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/futurama_mania__large.png",Futurama
+http://clubtv.link/F0502b/key4513/24.php?c=futurama_mania_
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/agente_de_familia1_large.png",Agente de Familia
+http://clubtv.link/F0502b/key4513/24.php?c=agente_de_familia1
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tele29_large.png",Tele29
+http://clubtv.link/F0502b/key4513/24.php?c=tele29
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ysblf_large.png",Ysblf
+http://clubtv.link/F0502b/key4513/24.php?c=ysblf
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/0ueen_disney_large.png",Disney
+http://clubtv.link/F0502b/key4513/24.php?c=0ueen_disney
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/2312_large.png",2312
+http://clubtv.link/F0502b/key4513/24.php?c=2312
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_large.png",Ganja Gv
+http://clubtv.link/F0502b/key4513/24.php?c=ganja_tv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/malcomhd_large.png",Malcomhd
+http://clubtv.link/F0502b/key4513/24.php?c=malcomhd
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_2_large.png",Ganja Tv 2
+http://clubtv.link/F0502b/key4513/24.php?c=ganja_tv_2
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shy_ch_eurydice_large.png",shy ch eurydice
+http://clubtv.link/F0502b/key4513/24.php?c=shy_ch_eurydice
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmsterror_large.png",zonafilmsterror
+http://clubtv.link/F0502b/key4513/24.php?c=zonafilmsterror
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
+http://clubtv.link/F0502b/key4513/24.php?c=tufortunatv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmstvseries_large.png",zonafilmstvseries
+http://clubtv.link/F0502b/key4513/24.php?c=zonafilmstvseries
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/rincondegago_large.png",rincondegago
+http://clubtv.link/F0502b/key4513/24.php?c=rincondegago
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/radiofelove_large.png",radiofelove
+http://clubtv.link/F0502b/key4513/24.php?c=radiofelove
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ovninews_large.png",ovninews
+http://clubtv.link/F0502b/key4513/24.php?c=ovninews
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cityfm_large.png",cityfm
+http://clubtv.link/F0502b/key4513/24.php?c=cityfm
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/chelito_sv_large.png",chelito sv
+http://clubtv.link/F0502b/key4513/24.php?c=chelito_sv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/nezradiovision_large.png",nezradiovision
+http://clubtv.link/F0502b/key4513/24.php?c=nezradiovision
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tvsalvision_large.png",tvsalvision
+http://clubtv.link/F0502b/key4513/24.php?c=tvsalvision
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/felovetv_large.png",felovetv
+http://clubtv.link/F0502b/key4513/24.php?c=felovetv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ficoatv_large.png",ficoatv
+http://clubtv.link/F0502b/key4513/24.php?c=ficoatv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/fundacion1410_large.png",fundacion1410
+http://clubtv.link/F0502b/key4513/24.php?c=fundacion1410
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/lvpradiotv_large.png",lvpradiotv
+http://clubtv.link/F0502b/key4513/24.php?c=lvpradiotv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/omega_tv_large.png",omega tv
+http://clubtv.link/F0502b/key4513/24.php?c=omega_tv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/telemedellin_large.png",telemedellin
+http://clubtv.link/F0502b/key4513/24.php?c=telemedellin
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tv777_large.png",tv777
+http://clubtv.link/F0502b/key4513/24.php?c=tv777
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/vozdelcielotv_large.png",vozdelcielotv
+http://clubtv.link/F0502b/key4513/24.php?c=vozdelcielotv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/yhwhesmisalvacion_large.png",yhwhesmisalvacion
+http://clubtv.link/F0502b/key4513/24.php?c=yhwhesmisalvacion
