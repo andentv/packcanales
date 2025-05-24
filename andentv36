@@ -2255,7 +2255,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.png", Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-id="126" tvg-name="CTV" tvg-logo="https://cdn.m3u.cl/logo/126_CTV.png", CTV
+#EXTINF:-1 group-title="COLOMBIA" tvg-id="126" tvg-name="CTV" tvg-logo="https://cdn.m3u.cl/logo/126_CTV.png", CT
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-id="141" tvg-name="Melody Channel TV" tvg-logo="https://cdn.m3u.cl/logo/141_Melody_Channel_TV.png", Melody Channel TV
 https://melodychanneltv.moxapps.shop/live/GHkktiwlTkRa57Extm5Vl5Z6fC02/index.m3u8
