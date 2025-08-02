@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",PRINCIPAL
-http://clubtv.link/23jul/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",@TecnotvChat
-http://clubtv.link/23jul/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
@@ -29,539 +29,539 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 http://181.78.208.25:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
-http://clubtv.link/23jul/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CINEMA
-http://clubtv.link/23jul/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIER
-http://clubtv.link/23jul/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY
-http://clubtv.link/23jul/phpcode/lista0.php?c=35&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=35&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CHANNEL
-http://clubtv.link/23jul/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO PLUS
-http://clubtv.link/23jul/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO
-http://clubtv.link/23jul/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO FAMILY
-http://clubtv.link/23jul/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO SIGNATURE
-http://clubtv.link/23jul/phpcode/lista0.php?c=20&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=20&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
-http://clubtv.link/23jul/phpcode/lista0.php?c=16&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=16&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AXN
-http://clubtv.link/23jul/phpcode/lista0.php?c=55&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=55&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SPACE
-http://clubtv.link/23jul/phpcode/lista0.php?c=10&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=10&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT
-http://clubtv.link/23jul/phpcode/lista0.php?c=6&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=6&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TNT SERIES
-http://clubtv.link/23jul/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AMC
-http://clubtv.link/23jul/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINECANAL
-http://clubtv.link/23jul/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINEMAX
-http://clubtv.link/23jul/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY CHANNEL
-http://clubtv.link/23jul/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY TURBO
-http://clubtv.link/23jul/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HISTORY CHANNEL
-http://clubtv.link/23jul/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NATGEO
-http://clubtv.link/23jul/phpcode/lista0.php?c=15&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=15&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY ID
-http://clubtv.link/23jul/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY H&H
-http://clubtv.link/23jul/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PLUS
-http://clubtv.link/23jul/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLDEN PREMIER
-http://clubtv.link/23jul/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", PARAMOUNT CHANNEL
-http://clubtv.link/23jul/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SYFY
-http://clubtv.link/23jul/phpcode/lista0.php?c=9&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=9&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FX
-http://clubtv.link/23jul/phpcode/lista0.php?c=27&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=27&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVISION
-http://clubtv.link/23jul/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY
-http://clubtv.link/23jul/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ANIMAL PLANET
-http://clubtv.link/23jul/phpcode/lista0.php?c=56&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=56&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", A&E
-http://clubtv.link/23jul/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WARNER
-http://clubtv.link/23jul/phpcode/lista0.php?c=2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TELEMUNDO
-http://clubtv.link/23jul/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", LIFE TIME
-http://clubtv.link/23jul/phpcode/lista0.php?c=33&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=33&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
-http://clubtv.link/23jul/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSO
-http://clubtv.link/23jul/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TLNOVELAS
-http://clubtv.link/23jul/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STUDIO UNIVERSAL
-http://clubtv.link/23jul/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", RCN
-http://clubtv.link/23jul/phpcode/lista0.php?c=71&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=71&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TCM
-http://clubtv.link/23jul/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CLARO CINEMA
-http://clubtv.link/23jul/phpcode/lista0.php?c=83&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=83&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE LATINO
-http://clubtv.link/23jul/phpcode/lista0.php?c=84&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=84&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE DINAMITA
-http://clubtv.link/23jul/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CARACOL
-http://clubtv.link/23jul/phpcode/lista0.php?c=86&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=86&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AZ MUNDO
-http://clubtv.link/23jul/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISNEY CHANNEL
-http://clubtv.link/23jul/phpcode/lista0.php?c=44&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=44&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY KIDS
-http://clubtv.link/23jul/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CARTOON NETWORK
-http://clubtv.link/23jul/phpcode/lista0.php?c=51&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=51&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TOONCAST
-http://clubtv.link/23jul/phpcode/lista0.php?c=14&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=14&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NICK  JR
-http://clubtv.link/23jul/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISNEY JR
-http://clubtv.link/23jul/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AZTECA UNO
-http://clubtv.link/23jul/phpcode/lista0.php?c=1&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=1&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AZTECA 7
-http://clubtv.link/23jul/phpcode/lista0.php?c=54&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=54&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CANAL 5
-http://clubtv.link/23jul/phpcode/lista0.php?c=52&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=52&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DE PELICULA
-http://clubtv.link/23jul/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", LAS ESTRELLAS
-http://clubtv.link/23jul/phpcode/lista0.php?c=17&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=17&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 1 MX
-http://clubtv.link/23jul/phpcode/lista0.php?c=41&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=41&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 2 MX
-http://clubtv.link/23jul/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 3 MX
-http://clubtv.link/23jul/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 1 MX
-http://clubtv.link/23jul/phpcode/lista0.php?c=30&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=30&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 3 MX
-http://clubtv.link/23jul/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TDN
-http://clubtv.link/23jul/phpcode/lista0.php?c=8&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=8&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UDN
-http://clubtv.link/23jul/phpcode/lista0.php?c=4&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=4&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", AFIZZIONADOS
-http://clubtv.link/23jul/phpcode/lista0.php?c=72&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=72&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WWE NETWORK
-http://clubtv.link/23jul/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WIN SPORTS +
-http://clubtv.link/23jul/phpcode/lista0.php?c=66&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=66&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WIN SPORTS
-http://clubtv.link/23jul/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NBA TV
-http://clubtv.link/23jul/phpcode/lista0.php?c=74&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=74&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", GOLTV
-http://clubtv.link/23jul/phpcode/lista0.php?c=76&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=76&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", LA LIGA
-http://clubtv.link/23jul/phpcode/lista0.php?c=75&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=75&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FORMULA 1
-http://clubtv.link/23jul/phpcode/lista0.php?c=81&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=81&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN SUR
-http://clubtv.link/23jul/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 2 SUR
-http://clubtv.link/23jul/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 3 SUR
-http://clubtv.link/23jul/phpcode/lista0.php?c=78&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=78&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CLARO SPORTS
-http://clubtv.link/23jul/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Az Cinema
-http://clubtv.link/23jul/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Az Corazon
-http://clubtv.link/23jul/phpcode/lista0.php?c=88&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=88&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Boomerang
-http://clubtv.link/23jul/phpcode/lista0.php?c=53&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=53&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Distrito Comedia
-http://clubtv.link/23jul/phpcode/lista0.php?c=42&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=42&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Espn plus
-http://clubtv.link/23jul/phpcode/lista0.php?c=64&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=64&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Universal Comedy
-http://clubtv.link/23jul/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Universal Reality
-http://clubtv.link/23jul/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", fox sports 2 mx
-http://clubtv.link/23jul/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Hbo 2
-http://clubtv.link/23jul/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Nick
-http://clubtv.link/23jul/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Studio Universal
 https://mx1.gt-app.com70&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Tigo Sport
-http://clubtv.link/23jul/phpcode/lista0.php?c=62&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista0.php?c=62&token=TecnoplusJunio03&f=.m3u8
 
 
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://imgur.com/52T80pI.png",Los Simpson
-http://clubtv.link/23jul/phpcode/24.php?c=simpson_maniahd193&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=simpson_maniahd193&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/beto_7hd_large.png",beto 7hd
-http://clubtv.link/23jul/phpcode/24.php?c=beto_7hd&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=beto_7hd&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_neflix01_large.png",a neflix01
-http://clubtv.link/23jul/phpcode/24.php?c=a_neflix01&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=a_neflix01&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cinemundo_plus_large.png",cinemundo plus
-http://clubtv.link/23jul/phpcode/24.php?c=cinemundo_plus&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=cinemundo_plus&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/peliculas_mania_large.png",peliculas mania
-http://clubtv.link/23jul/phpcode/24.php?c=peliculas_mania&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=peliculas_mania&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/terror_mania_large.png",terror mania
-http://clubtv.link/23jul/phpcode/24.php?c=terror_mania&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=terror_mania&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png",cienciaficcion
-http://clubtv.link/23jul/phpcode/24.php?c=cienciaficcion&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=cienciaficcion&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion01_large.png",cienciaficcion01
-http://clubtv.link/23jul/phpcode/24.php?c=cienciaficcion01&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=cienciaficcion01&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/futurama_mania__large.png",futurama mania 
-http://clubtv.link/23jul/phpcode/24.php?c=futurama_mania_&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=futurama_mania_&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/juan_13tv_large.png",juan 13tv
-http://clubtv.link/23jul/phpcode/24.php?c=juan_13tv&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=juan_13tv&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_2_large.png",ganja tv 2
-http://clubtv.link/23jul/phpcode/24.php?c=ganja_tv_2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=ganja_tv_2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
-http://clubtv.link/23jul/phpcode/24.php?c=tufortunatv&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=tufortunatv&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/radiofelove_large.png",radiofelove
-http://clubtv.link/23jul/phpcode/24.php?c=radiofelove&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=radiofelove&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tvsalvision_large.png",tvsalvision
-http://clubtv.link/23jul/phpcode/24.php?c=tvsalvision&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=tvsalvision&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/felovetv_large.png",felovetv
-http://clubtv.link/23jul/phpcode/24.php?c=felovetv&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=felovetv&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/lvpradiotv_large.png",lvpradiotv
-http://clubtv.link/23jul/phpcode/24.php?c=lvpradiotv&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=lvpradiotv&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tv777_large.png",tv777
-http://clubtv.link/23jul/phpcode/24.php?c=tv777&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=tv777&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/vozdelcielotv_large.png",vozdelcielotv
-http://clubtv.link/23jul/phpcode/24.php?c=vozdelcielotv&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=vozdelcielotv&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/yhwhesmisalvacion_large.png",yhwhesmisalvacion
-http://clubtv.link/23jul/phpcode/24.php?c=yhwhesmisalvacion&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/24.php?c=yhwhesmisalvacion&token=TecnoplusJunio03&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
-http://clubtv.link/23jul/phpcode/distro.php?c=wapptv
+http://clubtv.link/ago02/phpcode/distro.php?c=wapptv
 #EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/23jul/phpcode/distro.php?c=el-conflicto-tv
+http://clubtv.link/ago02/phpcode/distro.php?c=el-conflicto-tv
 #EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/23jul/phpcode/distro.php?c=glewedtv-spanish
+http://clubtv.link/ago02/phpcode/distro.php?c=glewedtv-spanish
 #EXTINF:-1 tvg-logo="https://imgur.com/h5FABgC.png" group-title="DISTRO TV",La Bocina Latina
-http://clubtv.link/23jul/phpcode/distro.php?c=la-bocina-latina
+http://clubtv.link/ago02/phpcode/distro.php?c=la-bocina-latina
 #EXTINF:-1 tvg-logo="https://imgur.com/WXphVgs.png" group-title="DISTRO TV",Banda
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-banda
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-banda
 #EXTINF:-1 tvg-logo="https://imgur.com/yc3nhlP.png" group-title="DISTRO TV",trace Latina
-http://clubtv.link/23jul/phpcode/distro.php?c=trace-latina
+http://clubtv.link/ago02/phpcode/distro.php?c=trace-latina
 #EXTINF:-1 tvg-logo="https://imgur.com/HTNpaS8.png" group-title="DISTRO TV",FreeTV Hits
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-hits
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-hits
 #EXTINF:-1 tvg-logo="https://imgur.com/3GDuhMn.png" group-title="DISTRO TV",XFT TV
-http://clubtv.link/23jul/phpcode/distro.php?c=xfc-tv
+http://clubtv.link/ago02/phpcode/distro.php?c=xfc-tv
 #EXTINF:-1 tvg-logo="https://imgur.com/WSvu9xq.png" group-title="DISTRO TV",Familia
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-familia
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-familia
 #EXTINF:-1 tvg-logo="https://imgur.com/E8RXQRD.png" group-title="DISTRO TV",Terror
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-terror
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-terror
 #EXTINF:-1 tvg-logo="https://imgur.com/CBFAltb.png" group-title="DISTRO TV",Drama
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-drama-latam
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-drama-latam
 #EXTINF:-1 tvg-logo="https://imgur.com/qbMr4PF.png" group-title="DISTRO TV",Accion
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-accion-latam
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-accion-latam
 #EXTINF:-1 tvg-logo="https://imgur.com/jnHDmSw.png" group-title="DISTRO TV",Estelar
-http://clubtv.link/23jul/phpcode/distro.php?c=freetv-estelar-latam
+http://clubtv.link/ago02/phpcode/distro.php?c=freetv-estelar-latam
 #EXTINF:-1 tvg-logo="https://imgur.com/DRRHYTq.png" group-title="DISTRO TV",Zaz
-http://clubtv.link/23jul/phpcode/distro.php?c=zaz
+http://clubtv.link/ago02/phpcode/distro.php?c=zaz
 #EXTINF:-1 tvg-logo="https://imgur.com/3HNdbe7.png" group-title="DISTRO TV",TV kids
-http://clubtv.link/23jul/phpcode/distro.php?c=kids-tv-espano
+http://clubtv.link/ago02/phpcode/distro.php?c=kids-tv-espano
 #EXTINF:-1 tvg-logo="https://imgur.com/GsXkH1B.png" group-title="DISTRO TV",Pitufo TV
-http://clubtv.link/23jul/phpcode/distro.php?c=pitufo-tv
+http://clubtv.link/ago02/phpcode/distro.php?c=pitufo-tv
 
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="RUNTIME,RunTime
-http://clubtv.link/23jul/phpcode/runtime.php?c=2154
+http://clubtv.link/ago02/phpcode/runtime.php?c=2154
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="RUNTIME,Accion
-http://clubtv.link/23jul/phpcode/runtime.php?c=2550
+http://clubtv.link/ago02/phpcode/runtime.php?c=2550
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="RUNTIME,Comedia
-http://clubtv.link/23jul/phpcode/runtime.php?c=2551
+http://clubtv.link/ago02/phpcode/runtime.php?c=2551
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="RUNTIME,Crimen
-http://clubtv.link/23jul/phpcode/runtime.php?c=3533
+http://clubtv.link/ago02/phpcode/runtime.php?c=3533
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="RUNTIME,Cine Espanto
-http://clubtv.link/23jul/phpcode/runtime.php?c=3539
+http://clubtv.link/ago02/phpcode/runtime.php?c=3539
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/nx7oVpZ.png" group-title="RUNTIME,CINE Y SERIESma
-http://clubtv.link/23jul/phpcode/runtime.php?c=4819
+http://clubtv.link/ago02/phpcode/runtime.php?c=4819
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="RUNTIME",Clic	
-http://clubtv.link/23jul/phpcode/runtime.php?c=4827
+http://clubtv.link/ago02/phpcode/runtime.php?c=4827
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="RUNTIME",Corazon
-http://clubtv.link/23jul/phpcode/runtime.php?c=4826
+http://clubtv.link/ago02/phpcode/runtime.php?c=4826
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="RUNTIME",Romance
-http://clubtv.link/23jul/phpcode/runtime.php?c=3532
+http://clubtv.link/ago02/phpcode/runtime.php?c=3532
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="RUNTIME,Familia
-http://clubtv.link/23jul/phpcode/runtime.php?c=3528
+http://clubtv.link/ago02/phpcode/runtime.php?c=3528
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/bHhRRom.png" group-title="RUNTIME",AYM
-http://clubtv.link/23jul/phpcode/runtime.php?c=5106
+http://clubtv.link/ago02/phpcode/runtime.php?c=5106
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/4p1oIev.png" group-title="RUNTIME",CombaTV
-http://clubtv.link/23jul/phpcode/runtime.php?c=5090
+http://clubtv.link/ago02/phpcode/runtime.php?c=5090
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/zzOtkwl.png" group-title="RUNTIME",Vivaldi
-http://clubtv.link/23jul/phpcode/runtime.php?c=2806
+http://clubtv.link/ago02/phpcode/runtime.php?c=2806
 
 
 
 
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Acción
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcb62e63d4d8f0009f36881&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcb62e63d4d8f0009f36881&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Comedia
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcdde78f080d900098550e4&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcdde78f080d900098550e4&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Terror
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcddf1ed95e740009fef7ab&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcddf1ed95e740009fef7ab&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Viajes
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcddfbdb7cf0e0009ae09ea&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcddfbdb7cf0e0009ae09ea&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Drama
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcddfcb229eff00091b6bdf&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcddfcb229eff00091b6bdf&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Cocina
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde0657444a40009cd2422&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde0657444a40009cd2422&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Deportes
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde07af1c85b0009b18651&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde07af1c85b0009b18651&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Novelas
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde0cc2efd2700090b7ff4&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde0cc2efd2700090b7ff4&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Series
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde1317578340009b751d0&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde1317578340009b751d0&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="327" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Anime
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde17bf6591d0009839e02&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde17bf6591d0009839e02&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-chno="251" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Reality
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde197f6591d0009839e04&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde197f6591d0009839e04&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Investiga
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde27ffae9520009c0c75a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde27ffae9520009c0c75a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-chno="703" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Junior
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde2ac4bc6c500094ab45b&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde2ac4bc6c500094ab45b&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Misterios
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde2f53449c50009b2b4dc&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde2f53449c50009b2b4dc&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Estelar
-http://clubtv.link/23jul/phpcode/lista.php?c=5dcde437229eff00091b6c30&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dcde437229eff00091b6c30&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-chno="557" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Hogar
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd6ab8056beb000091fc6b6&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd6ab8056beb000091fc6b6&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132" tvg-chno="197" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV  Competencias
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd6d935d000120009bc1132&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd6d935d000120009bc1132&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6dae8ce788b0009eaf77b" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-chno="721" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Kids
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd6dae8ce788b0009eaf77b&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd6dae8ce788b0009eaf77b&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Velocidad
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd6dc7480e3550009133d4a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd6dc7480e3550009133d4a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Familia
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd6ddb30a1d8a000908ed4c&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd6ddb30a1d8a000908ed4c&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd6de52b9914200091f047a" tvg-id="5dd6de52b9914200091f047a" tvg-chno="179" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Teen
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd6de52b9914200091f047a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd6de52b9914200091f047a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd7ea2aeab5230009986735" tvg-id="5dd7ea2aeab5230009986735" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Romance
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd7ea2aeab5230009986735&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd7ea2aeab5230009986735&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Animales
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd834c66fe2ca0009303b8d&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd834c66fe2ca0009303b8d&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Ciencia
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd8364ea1d6780009929902&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd8364ea1d6780009929902&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Series Latinas
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd837642c6e9300098ad484&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd837642c6e9300098ad484&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Naturaleza
-http://clubtv.link/23jul/phpcode/lista.php?c=5dd85eac039bba0009e86d1d&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5dd85eac039bba0009e86d1d&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Aventura
-http://clubtv.link/23jul/phpcode/lista.php?c=5ddc266f80e3550009136843&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ddc266f80e3550009136843&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Suspenso
-http://clubtv.link/23jul/phpcode/lista.php?c=5ddc4e8bcbb9010009b4e84f&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ddc4e8bcbb9010009b4e84f&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png"  group-title="PLUTO TV", Nick Clásico
-http://clubtv.link/23jul/phpcode/lista.php?c=5ddd7c348520b40009c347e2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ddd7c348520b40009c347e2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-chno="706" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png"  group-title="PLUTO TV", Nick Jr. Club
-http://clubtv.link/23jul/phpcode/lista.php?c=5ddd7cb2cbb9010009b4fe32&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ddd7cb2cbb9010009b4fe32&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-chno="286" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Historia
-http://clubtv.link/23jul/phpcode/lista.php?c=5de5758e1a30dc00094fcd6c&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5de5758e1a30dc00094fcd6c&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Series Retro
-http://clubtv.link/23jul/phpcode/lista.php?c=5de802659167b10009e7deba&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5de802659167b10009e7deba&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png"  group-title="PLUTO TV", MTV Classic
-http://clubtv.link/23jul/phpcode/lista.php?c=5de91b7ea86ee60009d89e75&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5de91b7ea86ee60009d89e75&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-chno="149" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png"  group-title="PLUTO TV", Telefe Hits
-http://clubtv.link/23jul/phpcode/lista.php?c=5de91cf02fc07c0009910465&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5de91cf02fc07c0009910465&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV  Nuestro Cine
-http://clubtv.link/23jul/phpcode/lista.php?c=5defde6d6c07b50009cf0757&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5defde6d6c07b50009cf0757&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5df265697ec3510009df1ef0" tvg-id="5df265697ec3510009df1ef0" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Vida Real
-http://clubtv.link/23jul/phpcode/lista.php?c=5df265697ec3510009df1ef0&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5df265697ec3510009df1ef0&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e3ddbd27091820009f86dd9" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png"  group-title="PLUTO TV", MasterChef
-http://clubtv.link/23jul/phpcode/lista.php?c=5e3ddbd27091820009f86dd9&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e3ddbd27091820009f86dd9&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e3ddd1a3ef73b00091d5779" tvg-id="5e3ddd1a3ef73b00091d5779" tvg-chno="405" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png"   group-title="PLUTO TV", Fútbol Para Fans
-http://clubtv.link/23jul/phpcode/lista.php?c=5e3ddd1a3ef73b00091d5779&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e3ddd1a3ef73b00091d5779&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e46e64dc73db400094b5f0b" tvg-id="5e46e64dc73db400094b5f0b" tvg-chno="195" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png"  group-title="PLUTO TV", Minuto Para Ganar
-http://clubtv.link/23jul/phpcode/lista.php?c=5e46e64dc73db400094b5f0b&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e46e64dc73db400094b5f0b&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png"   group-title="PLUTO TV", Los archivos del FBI
-http://clubtv.link/23jul/phpcode/lista.php?c=5e67d41b93312100076f3fca&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e67d41b93312100076f3fca&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e67e20c93312100076f3ffe" tvg-id="5e67e20c93312100076f3ffe" tvg-chno="715" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png"  group-title="PLUTO TV", Babar
-http://clubtv.link/23jul/phpcode/lista.php?c=5e67e20c93312100076f3ffe&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e67e20c93312100076f3ffe&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e6a4d875d7ccf0007cc2cf1" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="329" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Animé Acción
-http://clubtv.link/23jul/phpcode/lista.php?c=5e6a4d875d7ccf0007cc2cf1&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e6a4d875d7ccf0007cc2cf1&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png"  group-title="PLUTO TV", Guía de canales
-http://clubtv.link/23jul/phpcode/lista.php?c=5e793a7cfbdf780007f7eb75&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e793a7cfbdf780007f7eb75&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Humor
-http://clubtv.link/23jul/phpcode/lista.php?c=5e8397936791b30007ebb5a7&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e8397936791b30007ebb5a7&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"  group-title="PLUTO TV", Estrellas de Acción
-http://clubtv.link/23jul/phpcode/lista.php?c=5e972a21ad709d00074195ba&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e972a21ad709d00074195ba&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="160" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png"  group-title="PLUTO TV", MTV Ridiculousness
-http://clubtv.link/23jul/phpcode/lista.php?c=5e98a911c881310007d7aae2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e98a911c881310007d7aae2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-chno="408" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Peleas
-http://clubtv.link/23jul/phpcode/lista.php?c=5e98b0447665f200078caded&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5e98b0447665f200078caded&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ea71d48af1d0b0007d837f4" tvg-id="5ea71d48af1d0b0007d837f4" tvg-chno="308" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png"   group-title="PLUTO TV", The New Detectives
-http://clubtv.link/23jul/phpcode/lista.php?c=5ea71d48af1d0b0007d837f4&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ea71d48af1d0b0007d837f4&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-chno="732" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png"  group-title="PLUTO TV", Rugrats
-http://clubtv.link/23jul/phpcode/lista.php?c=5ea7215005d66d0007e8128a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ea7215005d66d0007e8128a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ebac49ce4dc8b00078b23bc" tvg-id="5ebac49ce4dc8b00078b23bc" tvg-chno="702" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png"  group-title="PLUTO TV", Babyfirst
-http://clubtv.link/23jul/phpcode/lista.php?c=5ebac49ce4dc8b00078b23bc&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ebac49ce4dc8b00078b23bc&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ebac65911406400078b8993" tvg-id="5ebac65911406400078b8993" tvg-chno="173" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png"  group-title="PLUTO TV", People are Awesome
-http://clubtv.link/23jul/phpcode/lista.php?c=5ebac65911406400078b8993&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ebac65911406400078b8993&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png"  group-title="PLUTO TV", The Pet Collective
-http://clubtv.link/23jul/phpcode/lista.php?c=5ebacbcae43a6d000787b88e&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ebacbcae43a6d000787b88e&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png"  group-title="PLUTO TV", FailArmy
-http://clubtv.link/23jul/phpcode/lista.php?c=5ebaccf1734aaf0007142c86&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ebaccf1734aaf0007142c86&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-chno="198" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png"  group-title="PLUTO TV", Wipe Out
-http://clubtv.link/23jul/phpcode/lista.php?c=5ed6828192e8b3000743ef61&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ed6828192e8b3000743ef61&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ee8d84bfb286e0007285aad" tvg-id="5ee8d84bfb286e0007285aad" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Fashionstream
-http://clubtv.link/23jul/phpcode/lista.php?c=5ee8d84bfb286e0007285aad&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ee8d84bfb286e0007285aad&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png"  group-title="PLUTO TV", Naruto
-http://clubtv.link/23jul/phpcode/lista.php?c=5ee92e72fb286e0007285fec&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ee92e72fb286e0007285fec&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5efb8c19b2678b000780d032" tvg-id="5efb8c19b2678b000780d032" tvg-chno="306" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png"   group-title="PLUTO TV", Archivos Forenses
-http://clubtv.link/23jul/phpcode/lista.php?c=5efb8c19b2678b000780d032&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5efb8c19b2678b000780d032&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-chno="265" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png"   group-title="PLUTO TV", Misterios Medicos
-http://clubtv.link/23jul/phpcode/lista.php?c=5f230e416b68ff00075b0139&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f230e416b68ff00075b0139&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-chno="252" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png"   group-title="PLUTO TV", Empeños a lo bestia
-http://clubtv.link/23jul/phpcode/lista.php?c=5f23102d5e239d00074b092a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f23102d5e239d00074b092a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f2817d3d7573a00080f9175" tvg-id="5f2817d3d7573a00080f9175" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Sci-Fi
-http://clubtv.link/23jul/phpcode/lista.php?c=5f2817d3d7573a00080f9175&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f2817d3d7573a00080f9175&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f29ada4bdaebd000708d49d" tvg-id="5f29ada4bdaebd000708d49d" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png"  group-title="PLUTO TV", Barney
-http://clubtv.link/23jul/phpcode/lista.php?c=5f29ada4bdaebd000708d49d&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f29ada4bdaebd000708d49d&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f4d3696d938c900072679fd" tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png"   group-title="PLUTO TV", Historias de Ultratumba
-http://clubtv.link/23jul/phpcode/lista.php?c=5f4d3696d938c900072679fd&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f4d3696d938c900072679fd&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png"  group-title="PLUTO TV", El Reino Infantil
-http://clubtv.link/23jul/phpcode/lista.php?c=5f4d3d06fb60d8000781fce8&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f4d3d06fb60d8000781fce8&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png"   group-title="PLUTO TV", Paisajes por Stingray
-http://clubtv.link/23jul/phpcode/lista.php?c=5f4fed840a2764000720d966&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f4fed840a2764000720d966&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png"  group-title="PLUTO TV", Telefe Noticias
-http://clubtv.link/23jul/phpcode/lista.php?c=5f523aa5523ae000074745ec&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f523aa5523ae000074745ec&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-chno="309" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"   group-title="PLUTO TV", Misterios sin Resolver
-http://clubtv.link/23jul/phpcode/lista.php?c=5f610042272f68000867685b&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f610042272f68000867685b&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png"  group-title="PLUTO TV", Conciertos por Stingray
-http://clubtv.link/23jul/phpcode/lista.php?c=5f85ca40eda1b10007b967cd&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f85ca40eda1b10007b967cd&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"  group-title="PLUTO TV", Karaoke por Stingray
-http://clubtv.link/23jul/phpcode/lista.php?c=5f85cf621d6d2200079f1de0&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f85cf621d6d2200079f1de0&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png"  group-title="PLUTO TV", Los Tres Chiflados
-http://clubtv.link/23jul/phpcode/lista.php?c=5f85f1dc1418bd0007e11eb9&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f85f1dc1418bd0007e11eb9&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f998c1fc54853000797bacd" tvg-id="5f998c1fc54853000797bacd" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png"   group-title="PLUTO TV", Tastemade
-http://clubtv.link/23jul/phpcode/lista.php?c=5f998c1fc54853000797bacd&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f998c1fc54853000797bacd&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="256" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png"   group-title="PLUTO TV", Dog el cazarrecompensas
-http://clubtv.link/23jul/phpcode/lista.php?c=5f9992c685a2a80007fa414a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f9992c685a2a80007fa414a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f9996533c9de3000759ccb5" tvg-id="5f9996533c9de3000759ccb5" tvg-chno="707" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png"  group-title="PLUTO TV", Las Pistas de Blue
-http://clubtv.link/23jul/phpcode/lista.php?c=5f9996533c9de3000759ccb5&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f9996533c9de3000759ccb5&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-chno="412" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png"   group-title="PLUTO TV", Lucha Libre AAA
-http://clubtv.link/23jul/phpcode/lista.php?c=5f99a772c54853000797bf18&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f99a772c54853000797bf18&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5f9afb01816137000737f799" tvg-id="5f9afb01816137000737f799" tvg-chno="151" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png"  group-title="PLUTO TV", Nosey Escándalos
-http://clubtv.link/23jul/phpcode/lista.php?c=5f9afb01816137000737f799&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5f9afb01816137000737f799&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-chno="156" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png"  group-title="PLUTO TV", MTV Pluto TV
-http://clubtv.link/23jul/phpcode/lista.php?c=5fab088b3279760007d4e4fd&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5fab088b3279760007d4e4fd&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png"  group-title="PLUTO TV", Nick Teen
-http://clubtv.link/23jul/phpcode/lista.php?c=5fab09a8749b1a00077d35d2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5fab09a8749b1a00077d35d2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5fb554d87a0c480007c8dada" tvg-id="5fb554d87a0c480007c8dada" tvg-chno="347" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png"  group-title="PLUTO TV", ESR 24/7
-http://clubtv.link/23jul/phpcode/lista.php?c=5fb554d87a0c480007c8dada&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5fb554d87a0c480007c8dada&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5fcea359e533cb0007215c71" tvg-id="5fcea359e533cb0007215c71" tvg-chno="77" tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Filmstream
-http://clubtv.link/23jul/phpcode/lista.php?c=5fcea359e533cb0007215c71&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5fcea359e533cb0007215c71&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5fcea93ffcf94500071c4b2f" tvg-id="5fcea93ffcf94500071c4b2f" tvg-chno="177" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png"  group-title="PLUTO TV", Kenan y Kel
-http://clubtv.link/23jul/phpcode/lista.php?c=5fcea93ffcf94500071c4b2f&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5fcea93ffcf94500071c4b2f&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5fceaab478f2af00080ff51f" tvg-id="5fceaab478f2af00080ff51f" tvg-chno="334" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"  group-title="PLUTO TV", Yu-Gi-Oh
-http://clubtv.link/23jul/phpcode/lista.php?c=5fceaab478f2af00080ff51f&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5fceaab478f2af00080ff51f&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ff3934600d4c7000733ff49" tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV E-Sports
-http://clubtv.link/23jul/phpcode/lista.php?c=5ff3934600d4c7000733ff49&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ff3934600d4c7000733ff49&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-chno="337" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png"  group-title="PLUTO TV", One Piece
-http://clubtv.link/23jul/phpcode/lista.php?c=5ff4b9ccf938f8000779eb99&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ff4b9ccf938f8000779eb99&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-chno="342" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png"  group-title="PLUTO TV", Tokusato
-http://clubtv.link/23jul/phpcode/lista.php?c=5ff608e60e2996000768c366&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ff608e60e2996000768c366&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b" tvg-chno="509" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png"  group-title="PLUTO TV", Comedy Central Pluto TV
-http://clubtv.link/23jul/phpcode/lista.php?c=5ffcc21a432945000762d06b&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ffcc21a432945000762d06b&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-5ffe17e3d765170007c3a4fe" tvg-id="5ffe17e3d765170007c3a4fe" tvg-chno="118" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV España
-http://clubtv.link/23jul/phpcode/lista.php?c=5ffe17e3d765170007c3a4fe&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=5ffe17e3d765170007c3a4fe&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png"  group-title="PLUTO TV", Paramount+ Presenta
-http://clubtv.link/23jul/phpcode/lista.php?c=600728952b1776000776526d&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=600728952b1776000776526d&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Retro Cartoons
-http://clubtv.link/23jul/phpcode/lista.php?c=60142258a54aeb0007751c15&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=60142258a54aeb0007751c15&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-chno="915" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png"  group-title="PLUTO TV", MTV Biggest Pop
-http://clubtv.link/23jul/phpcode/lista.php?c=6047fabfce6e8e00070bcc9f&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6047fabfce6e8e00070bcc9f&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png"  group-title="PLUTO TV", MTV Spankin' New
-http://clubtv.link/23jul/phpcode/lista.php?c=6047fd723b5bd00007de7092&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6047fd723b5bd00007de7092&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-604bdf4e6d0abc0007ba77ad" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-chno="130" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png"  group-title="PLUTO TV", Sin Tetas No Hay Paraíso
-http://clubtv.link/23jul/phpcode/lista.php?c=604bdf4e6d0abc0007ba77ad&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=604bdf4e6d0abc0007ba77ad&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6079be62f9f8d6000783c8a4" tvg-id="6079be62f9f8d6000783c8a4" tvg-chno="340" tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Anime Héroes
-http://clubtv.link/23jul/phpcode/lista.php?c=6079be62f9f8d6000783c8a4&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6079be62f9f8d6000783c8a4&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Cine Clásico
-http://clubtv.link/23jul/phpcode/lista.php?c=609059dc63be6e0007b4eca6&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=609059dc63be6e0007b4eca6&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-609062295c2b8f0007199e7a" tvg-id="609062295c2b8f0007199e7a" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Recetas
-http://clubtv.link/23jul/phpcode/lista.php?c=609062295c2b8f0007199e7a&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=609062295c2b8f0007199e7a&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6095ad97351eb0000754c1e6" tvg-id="6095ad97351eb0000754c1e6" tvg-chno="194" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png"  group-title="PLUTO TV", Hells Kitchen
-http://clubtv.link/23jul/phpcode/lista.php?c=6095ad97351eb0000754c1e6&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6095ad97351eb0000754c1e6&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6099600015e88c0007ecda25" tvg-id="6099600015e88c0007ecda25" tvg-chno="196" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png"  group-title="PLUTO TV", Boom
-http://clubtv.link/23jul/phpcode/lista.php?c=6099600015e88c0007ecda25&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6099600015e88c0007ecda25&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="511" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png"  group-title="PLUTO TV", Comedy Central South Park
-http://clubtv.link/23jul/phpcode/lista.php?c=609ae5cd48d3200007b0a98e&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=609ae5cd48d3200007b0a98e&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-60e5ea9a9bb4200008376f76" tvg-id="60e5ea9a9bb4200008376f76" tvg-chno="430" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png"   group-title="PLUTO TV", Motorvision TV
-http://clubtv.link/23jul/phpcode/lista.php?c=60e5ea9a9bb4200008376f76&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=60e5ea9a9bb4200008376f76&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-61099f2b40d0640007fc5aa2" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="274" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png"   group-title="PLUTO TV", El Encantador de Perros
-http://clubtv.link/23jul/phpcode/lista.php?c=61099f2b40d0640007fc5aa2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=61099f2b40d0640007fc5aa2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6109a9f5531b840007a4a187" tvg-id="6109a9f5531b840007a4a187" tvg-chno="304" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png"   group-title="PLUTO TV", Cazador de Homicidas
-http://clubtv.link/23jul/phpcode/lista.php?c=6109a9f5531b840007a4a187&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6109a9f5531b840007a4a187&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6109ab25b84d6a0007504886" tvg-id="6109ab25b84d6a0007504886" tvg-chno="266" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Mi Obsesión Favorita
-http://clubtv.link/23jul/phpcode/lista.php?c=6109ab25b84d6a0007504886&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6109ab25b84d6a0007504886&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-612f8b455ed5810007170b5f" tvg-id="612f8b455ed5810007170b5f" tvg-chno="121" tvg-logo="https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png"  group-title="PLUTO TV", El Mariachi
-http://clubtv.link/23jul/phpcode/lista.php?c=612f8b455ed5810007170b5f&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=612f8b455ed5810007170b5f&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-chno="403" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png"   group-title="PLUTO TV", FUEL TV
-http://clubtv.link/23jul/phpcode/lista.php?c=6144d313b34fbf0007107714&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6144d313b34fbf0007107714&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-615b9855c6b58b000724477f" tvg-id="615b9855c6b58b000724477f" tvg-chno="192" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png"  group-title="PLUTO TV", Iron Chef
-http://clubtv.link/23jul/phpcode/lista.php?c=615b9855c6b58b000724477f&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=615b9855c6b58b000724477f&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-619d56d9fa3070000709e3f7" tvg-id="619d56d9fa3070000709e3f7" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png"  group-title="PLUTO TV", Younger
-http://clubtv.link/23jul/phpcode/lista.php?c=619d56d9fa3070000709e3f7&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=619d56d9fa3070000709e3f7&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png"  group-title="PLUTO TV", Euronews Español
-http://clubtv.link/23jul/phpcode/lista.php?c=619d59b7cbef25000728221c&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=619d59b7cbef25000728221c&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-619d5e6a093e7c0007489211" tvg-id="619d5e6a093e7c0007489211" tvg-chno="701" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png"  group-title="PLUTO TV", Baby Shark TV
-http://clubtv.link/23jul/phpcode/lista.php?c=619d5e6a093e7c0007489211&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=619d5e6a093e7c0007489211&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="158" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png"  group-title="PLUTO TV", MTV Shore
-http://clubtv.link/23jul/phpcode/lista.php?c=61a52615cbef2500072876e2&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=61a52615cbef2500072876e2&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-61b793ccf571b80007b7a610" tvg-id="61b793ccf571b80007b7a610" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Adrenalina Freezone
-http://clubtv.link/23jul/phpcode/lista.php?c=61b793ccf571b80007b7a610&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=61b793ccf571b80007b7a610&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-61f159209fcc3800076ed4a1" tvg-id="61f159209fcc3800076ed4a1" tvg-chno="122" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png"  group-title="PLUTO TV", Rock Story
-http://clubtv.link/23jul/phpcode/lista.php?c=61f159209fcc3800076ed4a1&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=61f159209fcc3800076ed4a1&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-61f323397027f90007542bc3" tvg-id="61f323397027f90007542bc3" tvg-chno="120" tvg-logo="https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png"  group-title="PLUTO TV", Señorita Pólvora
-http://clubtv.link/23jul/phpcode/lista.php?c=61f323397027f90007542bc3&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=61f323397027f90007542bc3&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png"  group-title="PLUTO TV", Chilevision Noticias
-http://clubtv.link/23jul/phpcode/lista.php?c=61f94a2866401100074e9dee&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=61f94a2866401100074e9dee&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-620ac814864949000724fb77" tvg-id="620ac814864949000724fb77" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png"  group-title="PLUTO TV", Schitt's Creek
-http://clubtv.link/23jul/phpcode/lista.php?c=620ac814864949000724fb77&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=620ac814864949000724fb77&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-chno="161" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png"  group-title="PLUTO TV", MTV Teen Mom
-http://clubtv.link/23jul/phpcode/lista.php?c=620fd9f4afb9a80007a9c6d5&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=620fd9f4afb9a80007a9c6d5&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"  group-title="PLUTO TV", Nickelodeon iCarly
-http://clubtv.link/23jul/phpcode/lista.php?c=620ff0a01f9e8700076c6f9d&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=620ff0a01f9e8700076c6f9d&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="281" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png"   group-title="PLUTO TV", Ice Pilots
-http://clubtv.link/23jul/phpcode/lista.php?c=62154548a2be360007cb02f0&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=62154548a2be360007cb02f0&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png"  group-title="PLUTO TV", CBS News
-http://clubtv.link/23jul/phpcode/lista.php?c=62310d5a5dc9550007c6f580&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=62310d5a5dc9550007c6f580&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-624f4d4a4321e200073f46e0" tvg-id="624f4d4a4321e200073f46e0" tvg-chno="103" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png"  group-title="PLUTO TV", The Night Shift
-http://clubtv.link/23jul/phpcode/lista.php?c=624f4d4a4321e200073f46e0&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=624f4d4a4321e200073f46e0&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"  group-title="PLUTO TV", Bob Esponja Pantalones Cuadrados
-http://clubtv.link/23jul/phpcode/lista.php?c=6254598f5083f800076d8563&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6254598f5083f800076d8563&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-chno="163" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png"  group-title="PLUTO TV", MTV Catfish
-http://clubtv.link/23jul/phpcode/lista.php?c=625461ef01f27a0007976ad1&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=625461ef01f27a0007976ad1&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-6254ab6fa74f8e0007ba6879" tvg-id="6254ab6fa74f8e0007ba6879" tvg-chno="260" tvg-logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png"   group-title="PLUTO TV", Maestros de la Ilusión
-http://clubtv.link/23jul/phpcode/lista.php?c=6254ab6fa74f8e0007ba6879&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=6254ab6fa74f8e0007ba6879&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-chno="332" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png"  group-title="PLUTO TV", Death Note
-http://clubtv.link/23jul/phpcode/lista.php?c=626c2ed933a2890007e91422&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=626c2ed933a2890007e91422&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-62aa5740a47b6c000769f407" tvg-id="62aa5740a47b6c000769f407" tvg-chno="134" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png"  group-title="PLUTO TV", Chilevision Contigo
-http://clubtv.link/23jul/phpcode/lista.php?c=62aa5740a47b6c000769f407&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=62aa5740a47b6c000769f407&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-62d0895ebe7a970008785244" tvg-id="62d0895ebe7a970008785244" tvg-chno="513" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png"  group-title="PLUTO TV", Daria
-http://clubtv.link/23jul/phpcode/lista.php?c=62d0895ebe7a970008785244&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=62d0895ebe7a970008785244&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-62d08af527ce19000731eaa0" tvg-id="62d08af527ce19000731eaa0" tvg-chno="515" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png"  group-title="PLUTO TV", La Familia del Barrio
-http://clubtv.link/23jul/phpcode/lista.php?c=62d08af527ce19000731eaa0&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=62d08af527ce19000731eaa0&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png"   group-title="PLUTO TV", La Liga Premier | Paramount+
-http://clubtv.link/23jul/phpcode/lista.php?c=62d816fcf24d280008762ee9&token=TecnoplusJunio03&f=.m3u8
+http://clubtv.link/ago02/phpcode/lista.php?c=62d816fcf24d280008762ee9&token=TecnoplusJunio03&f=.m3u8
 
 
 
