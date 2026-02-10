@@ -4,539 +4,681 @@
 http://anden10.ddns.net/hls/stream.m3u8
 #EXTINF:-1 group-title="ANDEN TV PACK FUTBOL" tvg-logo="https://ibb.co/b56nbt9h",ESPN Premium
 http://anden26.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA",ARG: A&E
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10070
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA",ARG: AMC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10071
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA",ARG: AMERICA 24
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10073
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA",ARG: AMERICA TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10072
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://docdog.top/logo/countries/argentina/ARGENTINISIMA.png" group-title="LAME | ARGENTINA",ARG: ARGENTINISIMA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10074
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="LAME | ARGENTINA",ARG: AXN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10075
-#EXTINF:-1 tvg-id="" tvg-name="ARG: BABY TV" tvg-logo="https://docdog.top/logo/countries/argentina/babytv.png" group-title="LAME | ARGENTINA",ARG: BABY TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10076
-#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA",ARG: BOOMERANG
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9988
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA",ARG: C5N
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9989
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA",ARG: EL TRECE (CANAL 13)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10077
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA",ARG: CANAL 21
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9991
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="LAME | ARGENTINA",ARG: CANAL 26
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9992
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26 NOTICIAS" tvg-logo="https://docdog.top/logo/countries//argentina/canal-26-ar.png" group-title="LAME | ARGENTINA",ARG: CANAL 26 NOTICIAS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10091
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 4" tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="LAME | ARGENTINA",ARG: CANAL 4
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10080
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA",ARG: EL NUEVE (CANAL 9)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9990
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA",ARG: CANAL 9 SALTA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10081
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA CIUDAD" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELACIUDAD.jpg" group-title="LAME | ARGENTINA",ARG: CANAL DE LA CIUDAD
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9993
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA MUSICA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELAMUSICA.jpg" group-title="LAME | ARGENTINA",ARG: CANAL DE LA MUSICA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10096
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="LAME | ARGENTINA",ARG: CARTOON NETWORK
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9984
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEAR" tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="LAME | ARGENTINA",ARG: CINEAR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9994
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA",ARG: CINECANAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9995
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA",ARG: CINEMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9996
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="LAME | ARGENTINA",ARG: CIUDAD MAGAZINE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9997
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN" tvg-logo="https://docdog.top/logo/countries/argentina/cnnespanol.png" group-title="LAME | ARGENTINA",ARG: CNN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9999
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN EN ESPANIOL" tvg-logo="https://docdog.top/logo/countries//argentina/cnn-en-espanol-ar.png" group-title="LAME | ARGENTINA",ARG: CNN EN ESPANIOL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9998
-#EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="LAME | ARGENTINA",ARG: COMEDY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10000
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA",ARG: CRONICA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10001
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="LAME | ARGENTINA",ARG: DEPORTV FHD
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10002
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA",ARG: DIRECTV SPORTS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10083
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA",ARG: DIRECTV SPORTS +
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10097
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA",ARG: DIRECTV SPORTS 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10082
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LAME | ARGENTINA",ARG: DISNEY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10003
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY JUNIOR" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="LAME | ARGENTINA",ARG: DISNEY JUNIOR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10004
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="LAME | ARGENTINA",ARG: DISNEY XD
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10005
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DW" tvg-logo="https://docdog.top/logo/countries/argentina/dw.png" group-title="LAME | ARGENTINA",ARG: DW
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10006
-#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="LAME | ARGENTINA",ARG: E!
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10007
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA",ARG: ENCUENTRO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10008
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10011
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10009
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN 3
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10010
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN+
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10012
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA",ARG: EUROPA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10013
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="LAME | ARGENTINA",ARG: FILM &AMP; ARTS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10014
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="LAME | ARGENTINA",ARG: FOX NEWS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10016
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9982
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9983
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 3
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10084
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS PREMIUM
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9981
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA",ARG: FX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10017
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE" tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="LAME | ARGENTINA",ARG: GARAGE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10018
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GLITZ" tvg-logo="https://docdog.top/logo/countries//argentina/glitz-ar.png" group-title="LAME | ARGENTINA",ARG: GLITZ
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10019
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA",ARG: GOLF CHANNEL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10020
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOURMET" tvg-logo="https://docdog.top/logo/countries//argentina/el-gourmet-ar.png" group-title="LAME | ARGENTINA",ARG: GOURMET
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10021
-#EXTINF:-1 tvg-id="" tvg-name="ARG: H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="LAME | ARGENTINA",ARG: H2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10022
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-ar.png" group-title="LAME | ARGENTINA",ARG: HBO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10025
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="LAME | ARGENTINA",ARG: HBO 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10023
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="LAME | ARGENTINA",ARG: HBO FAMILY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10024
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="LAME | ARGENTINA",ARG: HBO SIGNATURE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10027
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="LAME | ARGENTINA",ARG: HISTORY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10028
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="LAME | ARGENTINA",ARG: HTV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10029
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="LAME | ARGENTINA",ARG: LIFETIME
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10030
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA",ARG: LN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10031
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA",ARG: MAS CHIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10032
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="" group-title="LAME | ARGENTINA",ARG: HBO Mundi
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10033
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="" group-title="LAME | ARGENTINA",ARG: HBO XTREME
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10034
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="LAME | ARGENTINA",ARG: MAX UP
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10035
-#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="LAME | ARGENTINA",ARG: METRO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10036
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-ar.png" group-title="LAME | ARGENTINA",ARG: MTV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10037
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="LAME | ARGENTINA",ARG: MTV HITS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10038
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="LAME | ARGENTINA",ARG: MUCH MUSIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9985
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MUSIC TOP" tvg-logo="https://docdog.top/logo/countries/argentina/musictop.png" group-title="LAME | ARGENTINA",ARG: MUSIC TOP
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9986
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO" tvg-logo="https://docdog.top/logo/countries//argentina/nat-geo-kids-ar.png" group-title="LAME | ARGENTINA",ARG: NAT GEO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10039
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA",ARG: NICKELODEON
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10041
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON JR" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA",ARG: NICKELODEON JR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10042
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PAKA PAKA" tvg-logo="https://docdog.top/logo/countries//argentina/pakapaka-ar.png" group-title="LAME | ARGENTINA",ARG: PAKA PAKA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10043
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA",ARG: PARAMOUNT
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10044
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="LAME | ARGENTINA",ARG: PX SPORTS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10098
-#EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="https://docdog.top/logo/countries//argentina/quiero-musica-en-mi-idioma-ar.png" group-title="LAME | ARGENTINA",ARG: QUIERO MUSICA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9987
-#EXTINF:-1 tvg-id="" tvg-name="ARG: RAI" tvg-logo="https://docdog.top/logo/countries/argentina/rai.png" group-title="LAME | ARGENTINA",ARG: RAI
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10045
-#EXTINF:-1 tvg-id="" tvg-name="ARG: RURAL" tvg-logo="https://docdog.top/logo/countries//argentina/canal-rural-ar.png" group-title="LAME | ARGENTINA",ARG: RURAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10046
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SENADO" tvg-logo="https://docdog.top/logo/countries/argentina/SENADO.png" group-title="LAME | ARGENTINA",ARG: SENADO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10047
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="LAME | ARGENTINA",ARG: SONY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10048
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="LAME | ARGENTINA",ARG: SPACE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10049
-#EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA",ARG: STUDIO UNIVERSAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10050
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="LAME | ARGENTINA",ARG: SYFY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10051
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="LAME | ARGENTINA",ARG: TBS VERY FUNNY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10052
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="LAME | ARGENTINA",ARG: TCM
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10053
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA",ARG: TELEFE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10054
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA",ARG: TELEMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10055
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA",ARG: TELEMUNDO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10056
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="LAME | ARGENTINA",ARG: TELESUR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10057
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA",ARG: TELEVISION PUBLICA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10089
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA",ARG: TN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10058
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA",ARG: TNT
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10059
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA",ARG: TNT SERIES
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10060
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="LAME | ARGENTINA",ARG: TNT SPORTS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9980
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="LAME | ARGENTINA",ARG: TOONCAST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10061
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TRUTV" tvg-logo="https://docdog.top/logo/countries//argentina/tru-tv-ar.png" group-title="LAME | ARGENTINA",ARG: TRUTV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10062
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA",ARG: TV PUBLICA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10063
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV5 MONDE" tvg-logo="https://docdog.top/logo/countries/argentina/TVMONDE.png" group-title="LAME | ARGENTINA",ARG: TV5 MONDE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10064
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA",ARG: TVE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10065
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA",ARG: Tyc sports Internacional
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10085
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA",ARG: TYC SPORTS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/9979
-#EXTINF:-1 tvg-id="" tvg-name="ARG: UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA",ARG: UNIVERSAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10066
-#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="LAME | ARGENTINA",ARG: VH1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10067
-#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="LAME | ARGENTINA",ARG: VOLVER
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10068
-#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA",ARG: WARNER
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/10069
-#EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="LAME | ARGENTINA",ARG: STAR CHANNEL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/52469
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA",ARG: ESPN PREMIUM
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/52470
-#EXTINF:-1 tvg-id="" tvg-name="LA: CLARO MUSIC" tvg-logo="https://docdog.top/logo/countries/latino/claromusica.png" group-title="LAME | LATINO",LA: CLARO MUSIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18385
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 1" tvg-logo="https://docdog.top/logo/countries/latino/starsports1.png" group-title="LAME | LATINO",LA: STAR SPORTS 1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18386
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS" tvg-logo="https://docdog.top/logo/countries/latino/starsports.png" group-title="LAME | LATINO",LA: STAR SPORTS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18387
-#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO SPORT CR 1" tvg-logo="https://docdog.top/logo/countries/latino/tigosports1.png" group-title="LAME | LATINO",LA: TIGO SPORT CR 1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18388
-#EXTINF:-1 tvg-id="" tvg-name="LA: EC_DIRECTV SPORT" tvg-logo="https://docdog.top/logo/countries/latino/EC_DIRECTVSPORT.png" group-title="LAME | LATINO",LA: EC_DIRECTV SPORT
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18390
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORT2 CHILE" tvg-logo="https://docdog.top/logo/countries/latino/STARSPORT2CHILE.png" group-title="LAME | LATINO",LA: STAR SPORT2 CHILE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18392
-#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECT SPORTS+" tvg-logo="https://docdog.top/logo/countries/latino/DIRECTSPORTS+.png" group-title="LAME | LATINO",LA: DIRECT SPORTS+
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18393
-#EXTINF:-1 tvg-id="" tvg-name="LA: TNT SPORTS (ARG)" tvg-logo="https://docdog.top/logo/countries/latino/TNTSPORTS.png" group-title="LAME | LATINO",LA: TNT SPORTS (ARG)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18394
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 3" tvg-logo="https://docdog.top/logo/countries/latino/starsports3.png" group-title="LAME | LATINO",LA: STAR SPORTS 3
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18395
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 2" tvg-logo="https://docdog.top/logo/countries/latino/starsports2.png" group-title="LAME | LATINO",LA: STAR SPORTS 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18396
-#EXTINF:-1 tvg-id="" tvg-name="LA: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/latino/cartoonnetwork.png" group-title="LAME | LATINO",LA: CARTOON NETWORK
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18397
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/discoverychannel.png" group-title="LAME | LATINO",LA: DISCOVERY CHANNEL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18398
-#EXTINF:-1 tvg-id="" tvg-name="LA: 5 STARMAX" tvg-logo="https://docdog.top/logo/countries/latino/5starmax.png" group-title="LAME | LATINO",LA: 5 STARMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18399
-#EXTINF:-1 tvg-id="" tvg-name="LA: ACTION MAX" tvg-logo="https://docdog.top/logo/countries/latino/actionmax.png" group-title="LAME | LATINO",LA: ACTION MAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18400
-#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL 13 CHILE" tvg-logo="https://docdog.top/logo/countries/latino/CANALCHILE.png" group-title="LAME | LATINO",LA: CANAL 13 CHILE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18401
-#EXTINF:-1 tvg-id="" tvg-name="LA: CARACOL" tvg-logo="https://docdog.top/logo/countries/latino/caracol.png" group-title="LAME | LATINO",LA: CARACOL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18402
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 28 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema28ppv.png" group-title="LAME | LATINO",LA: CINEMA 28 PPV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18403
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 30 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema30ppv.png" group-title="LAME | LATINO",LA: CINEMA 30 PPV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18404
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 31 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema31ppv.png" group-title="LAME | LATINO",LA: CINEMA 31 PPV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18405
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 33 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema33ppv.png" group-title="LAME | LATINO",LA: CINEMA 33 PPV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18406
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 36 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema36ppv.png" group-title="LAME | LATINO",LA: CINEMA 36 PPV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18407
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 37 PPV" tvg-logo="https://docdog.top/logo/countries/latino/CINEMAPPV.png" group-title="LAME | LATINO",LA: CINEMA 37 PPV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18408
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX ACTION" tvg-logo="https://docdog.top/logo/countries/latino/cinemaxaction.png" group-title="LAME | LATINO",LA: CINEMAX ACTION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18411
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX EAST" tvg-logo="https://docdog.top/logo/countries/latino/CINEMAXEASTHD1080P.jpg" group-title="LAME | LATINO",LA: CINEMAX EAST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18412
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX" tvg-logo="https://docdog.top/logo/countries/latino/cinemax.png" group-title="LAME | LATINO",LA: CINEMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18413
-#EXTINF:-1 tvg-id="" tvg-name="LA: CURACAO_TV DIRECT 13" tvg-logo="https://docdog.top/logo/countries/latino/CURACAO_TVDIRECT.jpg" group-title="LAME | LATINO",LA: CURACAO_TV DIRECT 13
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18415
-#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECTVSP 1" tvg-logo="https://docdog.top/logo/countries/latino/directvsports.png" group-title="LAME | LATINO",LA: DIRECTVSP 1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18416
-#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECTVSP 2" tvg-logo="https://docdog.top/logo/countries/latino/directvsports2.png" group-title="LAME | LATINO",LA: DIRECTVSP 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18417
-#EXTINF:-1 tvg-id="" tvg-name="LA: EC_GOLTV ECUADOR" tvg-logo="https://docdog.top/logo/countries/latino/EC_GOLTVECUADOR.jpg" group-title="LAME | LATINO",LA: EC_GOLTV ECUADOR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18418
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2" tvg-logo="https://docdog.top/logo/countries/latino/hbo2.png" group-title="LAME | LATINO",LA: HBO 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18419
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2 WEST" tvg-logo="https://docdog.top/logo/countries/latino/hbo2west.png" group-title="LAME | LATINO",LA: HBO 2 WEST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18420
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="LAME | LATINO",LA: HBO FAMILY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18421
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="LAME | LATINO",LA: HBO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18422
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO PLUS" tvg-logo="https://docdog.top/logo/countries/latino/hboplus.png" group-title="LAME | LATINO",LA: HBO PLUS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18423
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO PLUS WEST" tvg-logo="https://docdog.top/logo/countries/latino/hbopluswest.png" group-title="LAME | LATINO",LA: HBO PLUS WEST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18424
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="LAME | LATINO",LA: HBO SIGNATURE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18425
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO WEST" tvg-logo="https://docdog.top/logo/countries/latino/hbowest.png" group-title="LAME | LATINO",LA: HBO WEST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18426
-#EXTINF:-1 tvg-id="" tvg-name="LA: INDIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/indieplex.png" group-title="LAME | LATINO",LA: INDIEPLEX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18427
-#EXTINF:-1 tvg-id="" tvg-name="LA: MIAMI TV" tvg-logo="https://docdog.top/logo/countries/latino/miamitv.png" group-title="LAME | LATINO",LA: MIAMI TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18428
-#EXTINF:-1 tvg-id="" tvg-name="LA: MOREMAX" tvg-logo="https://docdog.top/logo/countries/latino/moremax.png" group-title="LAME | LATINO",LA: MOREMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18429
-#EXTINF:-1 tvg-id="" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="LAME | LATINO",LA: MOVIEPLEX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18430
-#EXTINF:-1 tvg-id="" tvg-name="LA: OUTERMAX" tvg-logo="https://docdog.top/logo/countries/latino/outermax.png" group-title="LAME | LATINO",LA: OUTERMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18431
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_:TV MAX 9" tvg-logo="" group-title="LAME | LATINO",LA: PAN_:TV MAX 9
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18432
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_RPC 4" tvg-logo="https://docdog.top/logo/countries/latino/PAN_RPC.png" group-title="LAME | LATINO",LA: PAN_RPC 4
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18433
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_SER TV CANAL 11" tvg-logo="https://docdog.top/logo/countries/latino/PAN_SERTVCANAL1.png" group-title="LAME | LATINO",LA: PAN_SER TV CANAL 11
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18434
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN TELEMETRO 13" tvg-logo="https://docdog.top/logo/countries/latino/PANTELEMETRO.png" group-title="LAME | LATINO",LA: PAN TELEMETRO 13
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18435
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_TVN 2" tvg-logo="https://docdog.top/logo/countries/latino/PAN_TVN.png" group-title="LAME | LATINO",LA: PAN_TVN 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18436
-#EXTINF:-1 tvg-id="" tvg-name="LA: RCN" tvg-logo="https://docdog.top/logo/countries/latino/rcn.png" group-title="LAME | LATINO",LA: RCN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18437
-#EXTINF:-1 tvg-id="" tvg-name="LA: RD TELEFUTURO" tvg-logo="https://docdog.top/logo/countries/latino/RDTELEFUTURO.jpg" group-title="LAME | LATINO",LA: RD TELEFUTURO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18438
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME BEYOND" tvg-logo="https://docdog.top/logo/countries/latino/showtimebeyond.png" group-title="LAME | LATINO",LA: SHOWTIME BEYOND
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18439
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME EAST" tvg-logo="https://docdog.top/logo/countries/latino/SHOWTIMEEASTHD1080P.png" group-title="LAME | LATINO",LA: SHOWTIME EAST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18440
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME" tvg-logo="https://docdog.top/logo/countries/latino/showtime.png" group-title="LAME | LATINO",LA: SHOWTIME
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18441
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME WEST" tvg-logo="https://docdog.top/logo/countries/latino/showtimewest.png" group-title="LAME | LATINO",LA: SHOWTIME WEST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18442
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ CINEMA" tvg-logo="https://docdog.top/logo/countries/latino/starzcinema.png" group-title="LAME | LATINO",LA: STARZ CINEMA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18443
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ CINEMA WEST" tvg-logo="https://docdog.top/logo/countries/latino/starzcinemawest.png" group-title="LAME | LATINO",LA: STARZ CINEMA WEST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18444
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ COMEDY" tvg-logo="https://docdog.top/logo/countries/latino/starzcomedy.png" group-title="LAME | LATINO",LA: STARZ COMEDY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18445
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ EAST" tvg-logo="https://docdog.top/logo/countries/latino/STARZEASTHD1080P.jpg" group-title="LAME | LATINO",LA: STARZ EAST
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18446
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ ENCORE CLASSIC" tvg-logo="https://docdog.top/logo/countries/latino/starzencoreclassic.png" group-title="LAME | LATINO",LA: STARZ ENCORE CLASSIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18448
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ ENCORE FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/starzencorefamily.png" group-title="LAME | LATINO",LA: STARZ ENCORE FAMILY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18449
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ" tvg-logo="https://docdog.top/logo/countries/latino/starz.png" group-title="LAME | LATINO",LA: STARZ
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18452
-#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ KIDS & FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/STARZKIDSFAMILY.png" group-title="LAME | LATINO",LA: STARZ KIDS & FAMILY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18453
-#EXTINF:-1 tvg-id="" tvg-name="LA: SUR_PE_ANT TV" tvg-logo="https://docdog.top/logo/countries/latino/SUR_PE_ANTTV.jpg" group-title="LAME | LATINO",LA: SUR_PE_ANT TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18455
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/latino/telemundoboston.png" group-title="LAME | LATINO",LA: TELEMUNDO BOSTON
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18456
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/latino/telemundochicago.png" group-title="LAME | LATINO",LA: TELEMUNDO CHICAGO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18457
-#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO PARAGUAY1" tvg-logo="https://docdog.top/logo/countries/latino/tigoparaguay2.png" group-title="LAME | LATINO",LA: TIGO PARAGUAY1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18458
-#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO PARAGUAY2" tvg-logo="https://docdog.top/logo/countries/latino/tigoparaguay2.png" group-title="LAME | LATINO",LA: TIGO PARAGUAY2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18459
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS (NEW YORK)" tvg-logo="https://docdog.top/logo/countries/latino/unimasoeste.png" group-title="LAME | LATINO",LA: UNIMAS (NEW YORK)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18460
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS GEORGIA" tvg-logo="https://docdog.top/logo/countries/latino/UNIMASGEORGIA.png" group-title="LAME | LATINO",LA: UNIMAS GEORGIA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18461
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION (NEW YORK)" tvg-logo="https://docdog.top/logo/countries/latino/UNIVISION_NEWYORK.jpg" group-title="LAME | LATINO",LA: UNIVISION (NEW YORK)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18462
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION DALLAS" tvg-logo="https://docdog.top/logo/countries/latino/univisiondallas.png" group-title="LAME | LATINO",LA: UNIVISION DALLAS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18463
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/latino/univisiontelenovelas.png" group-title="LAME | LATINO",LA: UNIVISION TELENOVELAS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18464
-#EXTINF:-1 tvg-id="" tvg-name="LA: UR_VTV" tvg-logo="" group-title="LAME | LATINO",LA: UR_VTV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18465
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO LAMPA" tvg-logo="" group-title="LAME | LATINO",LA: TELEMUNDO LAMPA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18468
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CIVILIZATION" tvg-logo="https://docdog.top/logo/countries/latino/discoverycivilization.png" group-title="LAME | LATINO",LA: DISCOVERY CIVILIZATION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18470
-#EXTINF:-1 tvg-id="" tvg-name="LA: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/latino/bbcworldnews.png" group-title="LAME | LATINO",LA: BBC WORLD NEWS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18471
-#EXTINF:-1 tvg-id="" tvg-name="LA: FUTV (COSTA RICA)" tvg-logo="" group-title="LAME | LATINO",LA: FUTV (COSTA RICA)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18472
-#EXTINF:-1 tvg-id="" tvg-name="LA: EL GARAGE TV" tvg-logo="https://docdog.top/logo/countries/latino/elgaragetv.png" group-title="LAME | LATINO",LA: EL GARAGE TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18473
-#EXTINF:-1 tvg-id="" tvg-name="LA: RD TELEMICRO" tvg-logo="https://docdog.top/logo/countries/latino/RDTELEMICRO.jpg" group-title="LAME | LATINO",LA: RD TELEMICRO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18475
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS ESTE" tvg-logo="https://docdog.top/logo/countries/latino/UNIMASESTE.png" group-title="LAME | LATINO",LA: UNIMAS ESTE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18477
-#EXTINF:-1 tvg-id="" tvg-name="LA: GALAVISION" tvg-logo="https://docdog.top/logo/countries/latino/galavision.png" group-title="LAME | LATINO",LA: GALAVISION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18478
-#EXTINF:-1 tvg-id="" tvg-name="LA: NTN 24" tvg-logo="https://docdog.top/logo/countries/latino/ntn24.png" group-title="LAME | LATINO",LA: NTN 24
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18479
-#EXTINF:-1 tvg-id="" tvg-name="LA: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/latino/sundance.png" group-title="LAME | LATINO",LA: SUNDANCE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18480
-#EXTINF:-1 tvg-id="" tvg-name="LA: NICK 2" tvg-logo="https://docdog.top/logo/countries/latino/nick2.png" group-title="LAME | LATINO",LA: NICK 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18481
-#EXTINF:-1 tvg-id="" tvg-name="LA: MAX UP" tvg-logo="https://docdog.top/logo/countries/latino/maxup.png" group-title="LAME | LATINO",LA: MAX UP
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18482
-#EXTINF:-1 tvg-id="" tvg-name="LA: MASCHIC" tvg-logo="https://docdog.top/logo/countries/latino/maschic.png" group-title="LAME | LATINO",LA: MASCHIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18483
-#EXTINF:-1 tvg-id="" tvg-name="LA: ISAT" tvg-logo="https://docdog.top/logo/countries/latino/isat.png" group-title="LAME | LATINO",LA: ISAT
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18484
-#EXTINF:-1 tvg-id="" tvg-name="LA: HTV" tvg-logo="" group-title="LAME | LATINO",LA: HTV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18485
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/latino/discoverytheater.png" group-title="LAME | LATINO",LA: DISCOVERY THEATER
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18486
-#EXTINF:-1 tvg-id="" tvg-name="LA: TRU TV" tvg-logo="https://docdog.top/logo/countries/latino/trutv.png" group-title="LAME | LATINO",LA: TRU TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18487
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/latino/telemundointernacional.png" group-title="LAME | LATINO",LA: TELEMUNDO INTERNACIONAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18488
-#EXTINF:-1 tvg-id="" tvg-name="LA: TBS" tvg-logo="https://docdog.top/logo/countries/latino/tbs.png" group-title="LAME | LATINO",LA: TBS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18489
-#EXTINF:-1 tvg-id="" tvg-name="LA: GOLDEN PREMIER" tvg-logo="https://docdog.top/logo/countries/latino/goldenpremier.png" group-title="LAME | LATINO",LA: GOLDEN PREMIER
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18490
-#EXTINF:-1 tvg-id="" tvg-name="LA: GLITZ" tvg-logo="https://docdog.top/logo/countries/latino/glitz.png" group-title="LAME | LATINO",LA: GLITZ
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18491
-#EXTINF:-1 tvg-id="" tvg-name="LA: CLARO CINEMA" tvg-logo="https://docdog.top/logo/countries/latino/clarocinema.png" group-title="LAME | LATINO",LA: CLARO CINEMA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18492
-#EXTINF:-1 tvg-id="" tvg-name="LA: CLARO" tvg-logo="https://docdog.top/logo/countries/latino/clarocinema.png" group-title="LAME | LATINO",LA: CLARO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18493
-#EXTINF:-1 tvg-id="" tvg-name="LA: WARNER CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/warnerchannel.png" group-title="LAME | LATINO",LA: WARNER CHANNEL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18494
-#EXTINF:-1 tvg-id="" tvg-name="LA: VH1" tvg-logo="https://docdog.top/logo/countries/latino/vh1.png" group-title="LAME | LATINO",LA: VH1
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18495
-#EXTINF:-1 tvg-id="" tvg-name="LA: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="LAME | LATINO",LA: TNT SERIES
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18496
-#EXTINF:-1 tvg-id="" tvg-name="LA: TNT" tvg-logo="https://docdog.top/logo/countries/latino/tnt.png" group-title="LAME | LATINO",LA: TNT
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18497
-#EXTINF:-1 tvg-id="" tvg-name="LA: TCM" tvg-logo="https://docdog.top/logo/countries/latino/tcm.png" group-title="LAME | LATINO",LA: TCM
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18498
-#EXTINF:-1 tvg-id="" tvg-name="LA: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/latino/studiouniversal.png" group-title="LAME | LATINO",LA: STUDIO UNIVERSAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18499
-#EXTINF:-1 tvg-id="" tvg-name="LA: SPACE" tvg-logo="https://docdog.top/logo/countries/latino/space.png" group-title="LAME | LATINO",LA: SPACE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18500
-#EXTINF:-1 tvg-id="" tvg-name="LA: SONY" tvg-logo="https://docdog.top/logo/countries/latino/sony.png" group-title="LAME | LATINO",LA: SONY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18501
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA DINAMITA" tvg-logo="https://docdog.top/logo/countries/latino/cinemadinamita.png" group-title="LAME | LATINO",LA: CINEMA DINAMITA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18502
-#EXTINF:-1 tvg-id="" tvg-name="LA: A&E" tvg-logo="https://docdog.top/logo/countries/latino/AE.jpg" group-title="LAME | LATINO",LA: A&E
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18503
-#EXTINF:-1 tvg-id="" tvg-name="LA: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries/latino/paramount.png" group-title="LAME | LATINO",LA: PARAMOUNT
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18504
-#EXTINF:-1 tvg-id="" tvg-name="LA: LIFETIME" tvg-logo="https://docdog.top/logo/countries/latino/lifetime.png" group-title="LAME | LATINO",LA: LIFETIME
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18505
-#EXTINF:-1 tvg-id="" tvg-name="LA: GOLDEN" tvg-logo="https://docdog.top/logo/countries/latino/golden.png" group-title="LAME | LATINO",LA: GOLDEN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18506
-#EXTINF:-1 tvg-id="" tvg-name="LA: AXN" tvg-logo="https://docdog.top/logo/countries/latino/axn.png" group-title="LAME | LATINO",LA: AXN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18507
-#EXTINF:-1 tvg-id="" tvg-name="LA: AMC" tvg-logo="https://docdog.top/logo/countries/latino/amc.png" group-title="LAME | LATINO",LA: AMC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18508
-#EXTINF:-1 tvg-id="" tvg-name="LA: FX" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="LAME | LATINO",LA: FX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18509
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR MOVIES" tvg-logo="https://docdog.top/logo/countries/latino/starmovies.png" group-title="LAME | LATINO",LA: STAR MOVIES
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18510
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR CLASSIC" tvg-logo="https://docdog.top/logo/countries/latino/starclassics.png" group-title="LAME | LATINO",LA: STAR CLASSIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18511
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR ACTION" tvg-logo="https://docdog.top/logo/countries/latino/staraction.png" group-title="LAME | LATINO",LA: STAR ACTION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18512
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR" tvg-logo="https://docdog.top/logo/countries/latino/star.png" group-title="LAME | LATINO",LA: STAR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18513
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="LAME | LATINO",LA: ESPN 3
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18514
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="https://docdog.top/logo/countries/latino/espn2.png" group-title="LAME | LATINO",LA: ESPN 2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18515
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="https://docdog.top/logo/countries/latino/espn.png" group-title="LAME | LATINO",LA: ESPN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18516
-#EXTINF:-1 tvg-id="" tvg-name="LA: SYFY" tvg-logo="https://docdog.top/logo/countries/latino/syfy.png" group-title="LAME | LATINO",LA: SYFY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18517
-#EXTINF:-1 tvg-id="" tvg-name="LA: TLC" tvg-logo="https://docdog.top/logo/countries/latino/tlc.png" group-title="LAME | LATINO",LA: TLC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18518
-#EXTINF:-1 tvg-id="" tvg-name="LA: H2" tvg-logo="https://docdog.top/logo/countries/latino/h2.png" group-title="LAME | LATINO",LA: H2
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18519
-#EXTINF:-1 tvg-id="" tvg-name="LA: ID" tvg-logo="https://docdog.top/logo/countries/latino/ID.png" group-title="LAME | LATINO",LA: ID
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18520
-#EXTINF:-1 tvg-id="" tvg-name="LA: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/latino/animalplanet.png" group-title="LAME | LATINO",LA: ANIMAL PLANET
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18521
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/latino/discoveryturbo.png" group-title="LAME | LATINO",LA: DISCOVERY TURBO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18522
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/latino/discoveryscience.png" group-title="LAME | LATINO",LA: DISCOVERY SCIENCE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18523
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/latino/discoverykids.png" group-title="LAME | LATINO",LA: DISCOVERY KIDS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18524
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY HOME & HEALTH" tvg-logo="" group-title="LAME | LATINO",LA: DISCOVERY HOME & HEALTH
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18525
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/latino/discoveryinvestigation.png" group-title="LAME | LATINO",LA: DISCOVERY INVESTIGATION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18526
-#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/latino/natgeowild.png" group-title="LAME | LATINO",LA: NAT GEO WILD
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18527
-#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/latino/natgeo.png" group-title="LAME | LATINO",LA: NAT GEO
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18528
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINE CANAL" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="LAME | LATINO",LA: CINE CANAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18529
-#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL 11" tvg-logo="https://docdog.top/logo/countries/latino/canal11.png" group-title="LAME | LATINO",LA: CANAL 11
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18531
-#EXTINF:-1 tvg-id="" tvg-name="LA: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/latino/boomerang.png" group-title="LAME | LATINO",LA: BOOMERANG
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18532
-#EXTINF:-1 tvg-id="" tvg-name="LA: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/latino/comedycentral.png" group-title="LAME | LATINO",LA: COMEDY CENTRAL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18533
-#EXTINF:-1 tvg-id="" tvg-name="LA: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/latino/nickelodeon.png" group-title="LAME | LATINO",LA: NICKELODEON
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18534
-#EXTINF:-1 tvg-id="" tvg-name="LA: NICK JR" tvg-logo="https://docdog.top/logo/countries/latino/nickjr.png" group-title="LAME | LATINO",LA: NICK JR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18535
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY XD" tvg-logo="https://docdog.top/logo/countries/latino/disneyxd.png" group-title="LAME | LATINO",LA: DISNEY XD
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18536
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="LAME | LATINO",LA: DISNEY JR
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18537
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="LAME | LATINO",LA: DISNEY CHANNEL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18538
-#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CORAZON" tvg-logo="https://docdog.top/logo/countries/latino/aztecacorazon.png" group-title="LAME | LATINO",LA: AZTECA CORAZON
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18539
-#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CLIC" tvg-logo="https://docdog.top/logo/countries/latino/aztecaclick.png" group-title="LAME | LATINO",LA: AZTECA CLIC
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18540
-#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/latino/azteca7.png" group-title="LAME | LATINO",LA: AZTECA 7
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18541
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/universalchannel.png" group-title="LAME | LATINO",LA: UNIVERSAL CHANNEL
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18542
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNICABLE" tvg-logo="https://docdog.top/logo/countries/latino/unicable.png" group-title="LAME | LATINO",LA: UNICABLE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18543
-#EXTINF:-1 tvg-id="" tvg-name="LA: STAR PREMIUM COMEDY" tvg-logo="https://docdog.top/logo/countries/latino/STARPREMIUMCOMEDY.jpg" group-title="LAME | LATINO",LA: STAR PREMIUM COMEDY
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18545
-#EXTINF:-1 tvg-id="" tvg-name="LA: ECO TV" tvg-logo="https://docdog.top/logo/countries/latino/ecotv.png" group-title="LAME | LATINO",LA: ECO TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18546
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELESISTEMA" tvg-logo="https://docdog.top/logo/countries/latino/telesistema.png" group-title="LAME | LATINO",LA: TELESISTEMA
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18547
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS" tvg-logo="https://docdog.top/logo/countries/latino/unimas.png" group-title="LAME | LATINO",LA: UNIMAS
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18548
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION 23 (DALLAS)" tvg-logo="https://docdog.top/logo/countries/latino/UNIVISION_DALLAS.png" group-title="LAME | LATINO",LA: UNIVISION 23 (DALLAS)
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18549
-#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION" tvg-logo="https://docdog.top/logo/countries/latino/univision.png" group-title="LAME | LATINO",LA: UNIVISION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18550
-#EXTINF:-1 tvg-id="" tvg-name="LA: BABY TV" tvg-logo="https://docdog.top/logo/countries/latino/babytv.png" group-title="LAME | LATINO",LA: BABY TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18551
-#EXTINF:-1 tvg-id="" tvg-name="LA: BANDAMAX" tvg-logo="https://docdog.top/logo/countries/latino/bandamax.png" group-title="LAME | LATINO",LA: BANDAMAX
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18552
-#EXTINF:-1 tvg-id="" tvg-name="LA: FORO TV" tvg-logo="https://docdog.top/logo/countries/latino/forotv.png" group-title="LAME | LATINO",LA: FORO TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18553
-#EXTINF:-1 tvg-id="" tvg-name="LA: EL GOURMET" tvg-logo="https://docdog.top/logo/countries/latino/elgourmet.png" group-title="LAME | LATINO",LA: EL GOURMET
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18554
-#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN" tvg-logo="https://docdog.top/logo/countries/latino/tudn.png" group-title="LAME | LATINO",LA: TUDN
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18555
-#EXTINF:-1 tvg-id="" tvg-name="LA: HOLA! TV" tvg-logo="https://docdog.top/logo/countries/latino/holatv.png" group-title="LAME | LATINO",LA: HOLA! TV
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18556
-#EXTINF:-1 tvg-id="" tvg-name="LA: MULTIMEDIOS TELEVISION" tvg-logo="" group-title="LAME | LATINO",LA: MULTIMEDIOS TELEVISION
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18557
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELEFE" tvg-logo="https://docdog.top/logo/countries/latino/telefe.png" group-title="LAME | LATINO",LA: TELEFE
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18558
-#EXTINF:-1 tvg-id="" tvg-name="LA: PASIONES" tvg-logo="https://docdog.top/logo/countries/latino/pasiones.png" group-title="LAME | LATINO",LA: PASIONES
-http://norrothcc.top:8080/9581739644069683/5c59a91992a0/18559
+#EXTINF:-1 tvg-id="" tvg-name="26TV (SD)" tvg-logo="https://newapps.es/logos/argentina/26.png" group-title="Argentina",26TV (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/12b80330-9a2c-4ebd-aa0c-31ea8c8499a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="A24 (SD)" tvg-logo="https://newapps.es/logos/argentina/a24.png" group-title="Argentina",A24 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/571dd181-b0fa-4c63-9479-5ad03f7f6317.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV (HD)" tvg-logo="https://newapps.es/logos/argentina/america.png" group-title="Argentina",AMERICA TV (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/049ebde8-3879-4bff-bf59-b7485dbb1265.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV (SD)" tvg-logo="https://newapps.es/logos/argentina/america.png" group-title="Argentina",AMERICA TV (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/83cbdece-d30c-4e82-971c-7d2d22eb2af8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="C5N (SD)" tvg-logo="https://newapps.es/logos/argentina/c5n.png" group-title="Argentina",C5N (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/2b8f75ab-6b99-494d-a905-e539527535ac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA CIUDAD (SD)" tvg-logo="https://newapps.es/logos/argentina/canalciudad.png" group-title="Argentina",CANAL DE LA CIUDAD (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/a002d6f8-0bbb-4031-bd48-390d144f1b68.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL Á (SD)" tvg-logo="https://newapps.es/logos/argentina/a.png" group-title="Argentina",CANAL Á (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/e974fe98-dd17-4199-bc81-95c1cb7b4e76.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CINE.AR (SD)" tvg-logo="https://newapps.es/logos/argentina/cine.ar.png" group-title="Argentina",CINE.AR (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/2060121d-c8fe-442c-9ee9-45c6d3ee807c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE (SD)" tvg-logo="https://newapps.es/logos/argentina/magazine.png" group-title="Argentina",CIUDAD MAGAZINE (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/9d6f4157-4be2-4283-9484-1e46fb7db7c6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA (SD)" tvg-logo="https://newapps.es/logos/argentina/cronica.png" group-title="Argentina",CRONICA (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/fa550e89-c210-401d-9f53-8d726dca649f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE  (HD)" tvg-logo="https://newapps.es/logos/argentina/elnueve.png" group-title="Argentina",EL NUEVE  (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/9d4499de-30db-4f3c-bfd8-552e63f2a009.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE (HD)" tvg-logo="https://newapps.es/logos/argentina/eltrece.png" group-title="Argentina",EL TRECE (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/ab97d34f-e542-437c-bbd3-493f67adbeea.m3u
+#EXTINF:-1 tvg-id="El.Trece.Internacional.es" tvg-name="El trece Internacional [SD]" tvg-logo="https://newapps.es/logos/argentina/eltrece.png" group-title="Argentina",El trece Internacional [SD]
+http://nubiatv.live/live/Mirian12/Mirian12/b25fa93e-32fe-44ba-b366-9cb5301ec146.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ENCUENTRO (SD)" tvg-logo="https://newapps.es/logos/argentina/encuentro.png" group-title="Argentina",ENCUENTRO (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/9b5b7c32-e894-4d3c-b7bc-5b723d9022d4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LN+ (SD)" tvg-logo="https://newapps.es/logos/argentina/lanacion.png" group-title="Argentina",LN+ (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/80080e52-0199-4159-b95f-1f0a3ab1d275.m3u
+#EXTINF:-1 tvg-id="" tvg-name="METRO (SD)" tvg-logo="https://newapps.es/logos/argentina/metro.png" group-title="Argentina",METRO (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/3130eef3-5d10-47f3-a610-8479f4dfab89.m3u
+#EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA (SD)" tvg-logo="https://newapps.es/logos/argentina/quiero.png" group-title="Argentina",QUIERO MUSICA (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/72788c0d-8081-4db1-b02e-0f4c5ead81d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE (SD)" tvg-logo="https://newapps.es/logos/argentina/telefe.png" group-title="Argentina",TELEFE (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/4fb4f062-8d30-4311-a59c-060bfc0c319f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD (HD)" tvg-logo="https://newapps.es/logos/argentina/telefe.png" group-title="Argentina",TELEFE HD (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/324fd7af-d12b-4021-9813-135b2ec4c77e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TN (HD)" tvg-logo="https://newapps.es/logos/argentina/tn.png" group-title="Argentina",TN (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/aea33554-1f00-4be3-9543-5328aaa7439c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS  (HDe) (ARG)" tvg-logo="https://newapps.es/logos/argentina/tntsportsar.png" group-title="Argentina",TNT SPORTS  (HDe) (ARG)
+http://nubiatv.live/live/Mirian12/Mirian12/e992e252-3c37-4337-acd3-1a519036a883.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS (HD) (ARG)" tvg-logo="https://newapps.es/logos/argentina/tntsportsar.png" group-title="Argentina",TNT SPORTS (HD) (ARG)
+http://nubiatv.live/live/Mirian12/Mirian12/8bc58f25-15d2-4c19-ad24-ce2a98d6d017.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA HD (HD)" tvg-logo="https://newapps.es/logos/argentina/tvp.png" group-title="Argentina",TV PUBLICA HD (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/0f7920ca-8634-43f1-8966-763d90743b6d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER (SD)" tvg-logo="https://newapps.es/logos/argentina/volver.png" group-title="Argentina",VOLVER (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/0bf9548c-1842-4f79-988f-3cefd4debb1e.m3u
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="A&E (e)" tvg-logo="https://pagina.win/logos/ca/aemundo.png" group-title="Cinema - Series",A&E (e)
+http://nubiatv.live/live/Mirian12/Mirian12/610b1895-1616-4eac-bb5f-9e45dd418d0c.m3u
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="A&E (FHD)" tvg-logo="https://pagina.win/logos/ca/aemundo.png" group-title="Cinema - Series",A&E (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/c771472c-3668-44aa-9e80-db5d368b8b44.m3u
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="A&E (SD)" tvg-logo="https://pagina.win/logos/ca/aemundo.png" group-title="Cinema - Series",A&E (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/bf6fc804-060d-4e32-81ff-96fa45a2e896.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMC (e)" tvg-logo="https://pagina.win/logos/ca/amc.png" group-title="Cinema - Series",AMC (e)
+http://nubiatv.live/live/Mirian12/Mirian12/ff205ddf-1189-4692-bd85-f54b35c34afe.m3u
+#EXTINF:-1 tvg-id="Canal.AMC.(Ecuador).ec" tvg-name="AMC (FHD)" tvg-logo="https://pagina.win/logos/ca/amc.png" group-title="Cinema - Series",AMC (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/b2896cda-3ad3-4da8-9676-9f56e259f032.m3u
+#EXTINF:-1 tvg-id="Canal.AMC.(Ecuador).ec" tvg-name="AMC (SD)" tvg-logo="https://pagina.win/logos/ca/amc.png" group-title="Cinema - Series",AMC (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/7428358c-9467-43d0-a5c4-84b0d1dde6a0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series (SD)" tvg-logo="https://pagina.win/logos/ca/amc.png" group-title="Cinema - Series",AMC Series (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/d4830ecb-a13b-4cef-8037-e1312eb35a19.m3u
+#EXTINF:-1 tvg-id="Canal.AXN.(Chile).cl" tvg-name="AXN (e)" tvg-logo="https://pagina.win/logos/ca/AXN.png" group-title="Cinema - Series",AXN (e)
+http://nubiatv.live/live/Mirian12/Mirian12/7bae1810-f360-4922-8194-fcd54f939869.m3u
+#EXTINF:-1 tvg-id="Canal.AXN.(Ecuador).ec" tvg-name="AXN (FHD)" tvg-logo="https://pagina.win/logos/ca/AXN.png" group-title="Cinema - Series",AXN (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/65b1b08e-c923-4f74-9504-ee6ff2784657.m3u
+#EXTINF:-1 tvg-id="Canal.AXN.(Chile).cl" tvg-name="AXN (SD)" tvg-logo="https://pagina.win/logos/ca/AXN.png" group-title="Cinema - Series",AXN (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/0535edfc-5b01-4450-9989-836a481f1e9b.m3u
+#EXTINF:-1 tvg-id="Canal.Cinelatino.pa" tvg-name="Cine Latino(SD)" tvg-logo="https://pagina.win/logos/ca/cinelatino.png" group-title="Cinema - Series",Cine Latino(SD)
+http://nubiatv.live/live/Mirian12/Mirian12/c3f1b928-ee52-4ef7-84a8-9c9e72443665.m3u
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal (HD)" tvg-logo="https://pagina.win/logos/ca/cinecanal.png" group-title="Cinema - Series",Cinecanal (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/b2448fe9-6ef0-49aa-a913-017e665a0e13.m3u
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal (SD)" tvg-logo="https://pagina.win/logos/ca/cinecanal.png" group-title="Cinema - Series",Cinecanal (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f95c06c8-f10a-4b7c-9b7e-212d1ebd1295.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita (HD)" tvg-logo="https://pagina.win/logos/ca/cinemadinamita.png" group-title="Cinema - Series",Cinema Dinamita (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/99cb417b-8e2a-43d0-b8b6-336373d4f7a5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Inolvidable (HD)" tvg-logo="" group-title="Cinema - Series",Cinema Inolvidable (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/45ea0a6c-de28-42f3-a690-06594202c0c2.m3u
+#EXTINF:-1 tvg-id="4fa0ca52-c257-471a-a212-6892d7684b9c" tvg-name="Cinema Premium" tvg-logo="https://newapps.es/logos/cine/cinema.png" group-title="Cinema - Series",Cinema Premium
+http://nubiatv.live/live/Mirian12/Mirian12/4fa0ca52-c257-471a-a212-6892d7684b9c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (e)" tvg-logo="https://pagina.win/logos/ca/cinemax.png" group-title="Cinema - Series",Cinemax (e)
+http://nubiatv.live/live/Mirian12/Mirian12/f3c63485-5f58-4768-bc2f-ed36f2c6fc5d.m3u
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="Cinemax (SD)" tvg-logo="https://pagina.win/logos/ca/cinemax.png" group-title="Cinema - Series",Cinemax (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/670f51ac-33d1-4baa-b5f2-5ff9d514344c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema (SD)" tvg-logo="https://pagina.win/logos/ca/clarocinema.png" group-title="Cinema - Series",Claro Cinema (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/4383653f-b1b2-4178-9f7a-d8683f160a32.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Clover Channel (HD)" tvg-logo="https://pagina.win/logos/ca/Clover.png" group-title="Cinema - Series",Clover Channel (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/aaad50ea-8a78-432e-91f0-0853f5b678c3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Clover Channel (SD)" tvg-logo="https://pagina.win/logos/ca/Clover.png" group-title="Cinema - Series",Clover Channel (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/887f7c5d-2b1a-490a-9fa5-619514a6c0bf.m3u
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="Comedy Central (e)" tvg-logo="https://pagina.win/logos/ca/ComedyCentral.png" group-title="Cinema - Series",Comedy Central (e)
+http://nubiatv.live/live/Mirian12/Mirian12/b40e4caa-d007-48c6-9310-bd771ee5f435.m3u
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="Comedy Central (FHD)" tvg-logo="https://pagina.win/logos/ca/ComedyCentral.png" group-title="Cinema - Series",Comedy Central (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/5c265499-4bf0-4118-81d1-71c800940861.m3u
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="Comedy Central (SD)" tvg-logo="https://pagina.win/logos/ca/ComedyCentral.png" group-title="Cinema - Series",Comedy Central (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/cbb21ff9-e5f6-4485-ae83-a64fc7298fa4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula (HD)" tvg-logo="https://pagina.win/logos/ca/depelicula.png" group-title="Cinema - Series",De Pelicula (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/09a60950-a64a-46fe-8697-22f1c2ee20e8.m3u
+#EXTINF:-1 tvg-id="Canal.De.Película.cl" tvg-name="De Película (SD)" tvg-logo="https://pagina.win/logos/ca/depelicula.png" group-title="Cinema - Series",De Película (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f46d46e2-5dc8-4344-bdb8-afe91f69ac92.m3u
+#EXTINF:-1 tvg-id="Canal.DHE.ec" tvg-name="DHE (e)" tvg-logo="https://pagina.win/logos/ca/dhe.png" group-title="Cinema - Series",DHE (e)
+http://nubiatv.live/live/Mirian12/Mirian12/f78fdbdf-2e99-4918-a807-12fb201d1ab6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DHE (FHD)" tvg-logo="https://pagina.win/logos/ca/dhe.png" group-title="Cinema - Series",DHE (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/68d1a365-ecff-4b74-bac1-22262d3f076c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA (SD)" tvg-logo="https://pagina.win/logos/ca/DISTRITOCOMEDIA.png" group-title="Cinema - Series",DISTRITO COMEDIA (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/79f75b38-4394-449f-9373-1b53840925e9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel (SD)" tvg-logo="https://newapps.es/logos/cine/eurochannel.png" group-title="Cinema - Series",Eurochannel (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/2ce6e134-8ee6-4e7d-9484-9972516e513d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa (HD)" tvg-logo="https://newapps.es/logos/cine/ee.png" group-title="Cinema - Series",Europa Europa (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3fc80194-3522-4854-894a-6ce58c98527b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Film&Arts (FHD)" tvg-logo="https://pagina.win/logos/ca/FILM.png" group-title="Cinema - Series",Film&Arts (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/a1470c0b-d131-4b9f-9871-d4b5ea515354.m3u
+#EXTINF:-1 tvg-id="Canal.FX.(Chile).cl" tvg-name="FX (e)" tvg-logo="https://pagina.win/logos/ca/fx.png" group-title="Cinema - Series",FX (e)
+http://nubiatv.live/live/Mirian12/Mirian12/23082aff-96c6-4c97-93ab-02d67e3a6a25.m3u
+#EXTINF:-1 tvg-id="Canal.FX.(Chile).cl" tvg-name="FX (FHD)" tvg-logo="https://pagina.win/logos/ca/fx.png" group-title="Cinema - Series",FX (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/d94090f7-6651-4bd8-95cd-1bf77bcd842a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FX (SD)" tvg-logo="https://pagina.win/logos/ca/fx.png" group-title="Cinema - Series",FX (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/da0511a4-7d49-429f-a73b-bd534ec6557f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Golden (HD)" tvg-logo="https://pagina.win/logos/ca/golden.png" group-title="Cinema - Series",Golden (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/630b64cd-1590-4ba2-b939-89a5e636be70.m3u
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.cl" tvg-name="Golden Edge (e)" tvg-logo="https://pagina.win/logos/ca/edge.png" group-title="Cinema - Series",Golden Edge (e)
+http://nubiatv.live/live/Mirian12/Mirian12/52234337-65ad-4b35-b75c-67c158545c9e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE (SD)" tvg-logo="https://pagina.win/logos/ca/edge.png" group-title="Cinema - Series",GOLDEN EDGE (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f2e30db1-b70a-4d43-9a2d-e71ab2e59eb4.m3u
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.cl" tvg-name="Golden Plus (e)" tvg-logo="https://newapps.es/logos/cine/gplus.png" group-title="Cinema - Series",Golden Plus (e)
+http://nubiatv.live/live/Mirian12/Mirian12/1a517628-1fd0-43d4-a299-83a9b76bab7a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere (FHD)" tvg-logo="https://pagina.win/logos/ca/golden1.png" group-title="Cinema - Series",Golden Premiere (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/7ebaa363-6841-459b-b35e-b678f9221805.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2 (FHD)" tvg-logo="https://pagina.win/logos/ca/golden2.png" group-title="Cinema - Series",Golden Premiere 2 (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/baa7c1f6-81e2-45c7-80c0-98cc3026ce05.m3u
+#EXTINF:-1 tvg-id="HBO.HD.(HBOHD).pe" tvg-name="HBO (e)" tvg-logo="https://pagina.win/logos/ca/hbo.png" group-title="Cinema - Series",HBO (e)
+http://nubiatv.live/live/Mirian12/Mirian12/c7fabab6-c847-4822-bcfb-eb33f573d53c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO (FHD)" tvg-logo="https://pagina.win/logos/ca/hbo.png" group-title="Cinema - Series",HBO (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/9711efd4-5e98-4c0b-9e43-3affa2547173.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="HBO (SD)" tvg-logo="https://pagina.win/logos/ca/hbo.png" group-title="Cinema - Series",HBO (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/3f0ac040-b661-4b2b-aa8d-25e7d77a42cf.m3u
+#EXTINF:-1 tvg-id="HBO.2.co" tvg-name="HBO 2 (e)" tvg-logo="https://pagina.win/logos/ca/hbo2.png" group-title="Cinema - Series",HBO 2 (e)
+http://nubiatv.live/live/Mirian12/Mirian12/1c84ff12-6a70-4aca-8b36-29b2ec7779b5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (FHD)" tvg-logo="https://pagina.win/logos/ca/hbo2.png" group-title="Cinema - Series",HBO 2 (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/912d2f86-f889-4403-803f-455837b2b7e1.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cl" tvg-name="HBO 2 (SD)" tvg-logo="https://pagina.win/logos/ca/hbo2.png" group-title="Cinema - Series",HBO 2 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/d93c83db-6d72-4822-a5fb-e9b457a2781e.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.cl" tvg-name="HBO Family (e)" tvg-logo="https://pagina.win/logos/ca/hbofamily.png" group-title="Cinema - Series",HBO Family (e)
+http://nubiatv.live/live/Mirian12/Mirian12/c8c87d4b-b823-46d8-a7de-a5ff6f551c39.m3u
+#EXTINF:-1 tvg-id="HBO.Family.co" tvg-name="HBO Family (FHD)" tvg-logo="https://pagina.win/logos/ca/hbofamily.png" group-title="Cinema - Series",HBO Family (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/7f91c0f6-1279-414d-898a-9789f73dadc8.m3u
+#EXTINF:-1 tvg-id="HBO.Family.co" tvg-name="HBO Family (SD)" tvg-logo="https://pagina.win/logos/ca/hbofamily.png" group-title="Cinema - Series",HBO Family (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/16a6ea73-0854-487d-b32f-54116dbcf16b.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Mundi.cl" tvg-name="HBO Mundi (e)" tvg-logo="https://pagina.win/logos/ca/hbomundi.png" group-title="Cinema - Series",HBO Mundi (e)
+http://nubiatv.live/live/Mirian12/Mirian12/cf0d8054-b67c-4d21-97c0-f7abc116b5aa.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.cl" tvg-name="HBO Plus (e)" tvg-logo="https://pagina.win/logos/ca/hboplus.png" group-title="Cinema - Series",HBO Plus (e)
+http://nubiatv.live/live/Mirian12/Mirian12/ad4030a6-d519-43b6-8d93-eadfd391c23b.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.cl" tvg-name="HBO Plus (FHD)" tvg-logo="https://pagina.win/logos/ca/hboplus.png" group-title="Cinema - Series",HBO Plus (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/5d14d8c8-3acc-49a7-9913-260b3103eab2.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.cl" tvg-name="HBO Plus (SD)" tvg-logo="https://pagina.win/logos/ca/hboplus.png" group-title="Cinema - Series",HBO Plus (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/2264e572-b1bd-4a6b-a593-0d401e05b9f8.m3u
+#EXTINF:-1 tvg-id="HBO.POP.co" tvg-name="HBO Pop (FHD)" tvg-logo="https://pagina.win/logos/ca/HBOPOP.png" group-title="Cinema - Series",HBO Pop (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/f802dac2-f868-4b14-86cd-a4e51ffbfc1a.m3u
+#EXTINF:-1 tvg-id="HBO.POP.co" tvg-name="HBO Pop (SD)" tvg-logo="https://pagina.win/logos/ca/HBOPOP.png" group-title="Cinema - Series",HBO Pop (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/bb7a12f6-a677-4f35-92e7-1f87ffb1eaaf.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.cl" tvg-name="HBO Signature (e)" tvg-logo="https://pagina.win/logos/ca/HBOSignature.png" group-title="Cinema - Series",HBO Signature (e)
+http://nubiatv.live/live/Mirian12/Mirian12/8a00cd21-e9e8-4cdf-9217-082e78146a57.m3u
+#EXTINF:-1 tvg-id="Canal.HBO.Signature.Latinoamérica.cl" tvg-name="HBO Signature (SD)" tvg-logo="https://pagina.win/logos/ca/HBOSIGNATURE.png" group-title="Cinema - Series",HBO Signature (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/5cedcbab-3b24-477e-be83-85ecc55f344f.m3u
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="HBO Xtreme (FHD)" tvg-logo="https://pagina.win/logos/ca/hboxtream.png" group-title="Cinema - Series",HBO Xtreme (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/bbb24478-eab8-4197-a186-a79baab36302.m3u
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="HBO Xtreme (SD)" tvg-logo="https://pagina.win/logos/ca/hboxtream.png" group-title="Cinema - Series",HBO Xtreme (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/8e74937b-6862-4383-8f7d-e7a31f7fbc63.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime (HD)" tvg-logo="https://pagina.win/logos/ca/lifetime.png" group-title="Cinema - Series",Lifetime (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/2c856c30-53c8-412e-98ae-8d02e4215e11.m3u
+#EXTINF:-1 tvg-id="Canal.Lifetime.(Chile).cl" tvg-name="Lifetime (SD)" tvg-logo="https://pagina.win/logos/ca/lifetime.png" group-title="Cinema - Series",Lifetime (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/3d05558a-39b1-4e05-94a3-1dd8ac28bc39.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema (SD)" tvg-logo="https://pagina.win/logos/ca/multicinema.png" group-title="Cinema - Series",Multicinema (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/18545f4e-8b2e-443b-8507-42b27e14dea3.m3u
+#EXTINF:-1 tvg-id="Canal.Multipremier.pa" tvg-name="Multipremier (SD)" tvg-logo="https://pagina.win/logos/ca/multipremier.png" group-title="Cinema - Series",Multipremier (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/b3a03994-7447-4fdc-9e1d-1812f4816ff4.m3u
+#EXTINF:-1 tvg-id="Canal.Sony.(Chile).cl" tvg-name="Sony (e)" tvg-logo="https://pagina.win/logos/ca/sony.png" group-title="Cinema - Series",Sony (e)
+http://nubiatv.live/live/Mirian12/Mirian12/42be9c27-1e08-435d-a251-dd029eedacf5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Sony (FHD)" tvg-logo="https://pagina.win/logos/ca/sony.png" group-title="Cinema - Series",Sony (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/861c76e5-4e47-4393-b70b-1574915622b1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SONY (SD)" tvg-logo="https://pagina.win/logos/ca/sony.png" group-title="Cinema - Series",SONY (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/e2e373ce-bbfb-402c-aea5-b12057b14853.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies (FHD)" tvg-logo="https://pagina.win/logos/ca/sony.png" group-title="Cinema - Series",Sony Movies (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/eb41ad19-0477-476b-bee9-f6363715b292.m3u
+#EXTINF:-1 tvg-id="Canal.Space.(Chile).cl" tvg-name="Space (e)" tvg-logo="https://pagina.win/logos/ca/space.png" group-title="Cinema - Series",Space (e)
+http://nubiatv.live/live/Mirian12/Mirian12/b061919b-3171-4874-b9f9-4c756c613584.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Space (FHD)" tvg-logo="https://pagina.win/logos/ca/space.png" group-title="Cinema - Series",Space (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/bedc5bd3-d30d-42b2-ba4f-17bca0025be4.m3u
+#EXTINF:-1 tvg-id="Canal.Space.(Chile).cl" tvg-name="Space (SD)" tvg-logo="https://pagina.win/logos/ca/space.png" group-title="Cinema - Series",Space (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/16050f64-f968-44c3-b0bc-c5090be3ff0a.m3u
+#EXTINF:-1 tvg-id="Canal.Star.Channel.(Chile).cl" tvg-name="Star Channel (e)" tvg-logo="https://pagina.win/logos/ca/starchannel.png" group-title="Cinema - Series",Star Channel (e)
+http://nubiatv.live/live/Mirian12/Mirian12/7cb4ef54-93bd-42eb-bddb-18b3b1c50bc4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel (FHD)" tvg-logo="https://pagina.win/logos/ca/starchannel.png" group-title="Cinema - Series",STAR Channel (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/12e4ab8f-2208-4cf5-a54c-cab6c8e5369f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel (SD)" tvg-logo="https://pagina.win/logos/ca/starchannel.png" group-title="Cinema - Series",STAR Channel (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/c1828cbc-8fe1-4fd0-82a9-9559b0d18c99.m3u
+#EXTINF:-1 tvg-id="Studio.Universal.co" tvg-name="Studio Universal (FHD)" tvg-logo="https://pagina.win/logos/ca/studio%20UNIVERSAL.png" group-title="Cinema - Series",Studio Universal (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/f0861c5e-5ec9-4416-882c-e5dda2bf9843.m3u
+#EXTINF:-1 tvg-id="Studio.Universal.co" tvg-name="Studio Universal (SD)" tvg-logo="https://pagina.win/logos/ca/studio%20UNIVERSAL.png" group-title="Cinema - Series",Studio Universal (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/64ff260a-f6bf-4237-be7e-69f3d70cb4b0.m3u
+#EXTINF:-1 tvg-id="Studio.Universal.co" tvg-name="StudioUniversal (e)" tvg-logo="https://pagina.win/logos/ca/studio%20UNIVERSAL.png" group-title="Cinema - Series",StudioUniversal (e)
+http://nubiatv.live/live/Mirian12/Mirian12/11574c8a-a72e-4b1e-9fef-6fb1ebd90a10.m3u
+#EXTINF:-1 tvg-id="TCM.(TCM).pe" tvg-name="TCM (SD)" tvg-logo="https://pagina.win/logos/ca/tcm.png" group-title="Cinema - Series",TCM (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/d1a95c56-c02f-4ce0-8c0a-265684c357c2.m3u
+#EXTINF:-1 tvg-id="Canal.TNT.(Chile).cl" tvg-name="TNT (e)" tvg-logo="https://pagina.win/logos/ca/tnt.png" group-title="Cinema - Series",TNT (e)
+http://nubiatv.live/live/Mirian12/Mirian12/0fc38b87-faec-4d63-8b18-e2e0b4ed51a4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TNT (FHD)" tvg-logo="https://pagina.win/logos/ca/tnt.png" group-title="Cinema - Series",TNT (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/62ffe72b-d1fe-4f04-9e1e-4a6e0ae379f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TNT (SD)" tvg-logo="https://pagina.win/logos/ca/tnt.png" group-title="Cinema - Series",TNT (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/a1838ff6-b233-423d-92b1-c60c7bd61989.m3u
+#EXTINF:-1 tvg-id="TNT.SERIES.HD.(TNT.Series.HD).pe" tvg-name="TNT Series (e)" tvg-logo="https://pagina.win/logos/ca/TNTSERIES.png" group-title="Cinema - Series",TNT Series (e)
+http://nubiatv.live/live/Mirian12/Mirian12/269690ed-690a-4d45-8faf-1f07e621e196.m3u
+#EXTINF:-1 tvg-id="TNT.Series.co" tvg-name="TNT Series (FHD)" tvg-logo="https://pagina.win/logos/ca/TNTSERIES.png" group-title="Cinema - Series",TNT Series (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/c588a1e8-aa78-4f2f-9660-fb118f8cdad8.m3u
+#EXTINF:-1 tvg-id="TNT.Series.co" tvg-name="TNT SERIES (SD)" tvg-logo="https://pagina.win/logos/ca/TNTSERIES.png" group-title="Cinema - Series",TNT SERIES (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/aacc7465-3c1b-40ac-8331-137b3ba67dbe.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel (e)" tvg-logo="https://pagina.win/logos/ca/universal.png" group-title="Cinema - Series",Universal Channel (e)
+http://nubiatv.live/live/Mirian12/Mirian12/4f04a996-185a-4017-a571-97994a4b3eb7.m3u
+#EXTINF:-1 tvg-id="Universal.TV.co" tvg-name="Universal Channel (FHD)" tvg-logo="https://pagina.win/logos/ca/universal.png" group-title="Cinema - Series",Universal Channel (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/efc97897-eb99-4c99-915f-bc22121df528.m3u
+#EXTINF:-1 tvg-id="Universal.TV.co" tvg-name="Universal Channel (SD)" tvg-logo="https://pagina.win/logos/ca/universal.png" group-title="Cinema - Series",Universal Channel (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/2dc7a0fc-f7a2-460f-8c1c-59145cddb8a6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema (HD)" tvg-logo="https://pagina.win/logos/ca/universalcinema.png" group-title="Cinema - Series",Universal Cinema (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/feb2f9cf-683c-4d27-92cd-28b3c1d30b01.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy (e)" tvg-logo="https://pagina.win/logos/ca/universalcomedy.png" group-title="Cinema - Series",Universal Comedy (e)
+http://nubiatv.live/live/Mirian12/Mirian12/4d47eaa5-fe67-45e8-89a0-6bde7f0ad2ff.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy (FHD)" tvg-logo="https://pagina.win/logos/ca/universalcomedy.png" group-title="Cinema - Series",Universal Comedy (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/9100a89b-24db-4496-a579-dd96950e2c7b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime (e)" tvg-logo="https://pagina.win/logos/ca/universalcrime.png" group-title="Cinema - Series",Universal Crime (e)
+http://nubiatv.live/live/Mirian12/Mirian12/5ddbf148-fe19-4943-ad91-b209f4aad687.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime (FHD)" tvg-logo="https://pagina.win/logos/ca/universalcrime.png" group-title="Cinema - Series",Universal Crime (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/e42759f2-320b-421e-bb9c-40e7cd811f07.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere (e)" tvg-logo="https://pagina.win/logos/ca/universalpremiere.png" group-title="Cinema - Series",Universal Premiere (e)
+http://nubiatv.live/live/Mirian12/Mirian12/f67b0b4f-9c54-47d7-94d2-768e423b8780.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere (HD)" tvg-logo="https://pagina.win/logos/ca/universalpremiere.png" group-title="Cinema - Series",Universal Premiere (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/102206c7-b049-487d-bb03-a03a9b6b0deb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premieres O (FHD)" tvg-logo="https://pagina.win/logos/ca/universalpremiere.png" group-title="Cinema - Series",Universal Premieres O (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/350ff701-e567-4eb9-9c56-384d1355d4c1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality (FHD)" tvg-logo="https://pagina.win/logos/ca/universalreality.png" group-title="Cinema - Series",Universal Reality (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/9601d8a0-8827-4e6c-a7ef-e61d2218e792.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA (HD)" tvg-logo="https://pagina.win/logos/ca/SYFY.png" group-title="Cinema - Series",USA (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3737c777-1333-4cbe-bb1d-603284b7c020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA (SD)" tvg-logo="https://pagina.win/logos/ca/SYFY.png" group-title="Cinema - Series",USA (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/81e8711d-8b43-4eb9-b200-9b7676af623f.m3u
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Ecuador).ec" tvg-name="Warner Channel (e)" tvg-logo="https://pagina.win/logos/ca/warner.png" group-title="Cinema - Series",Warner Channel (e)
+http://nubiatv.live/live/Mirian12/Mirian12/5e4a3c70-8d48-4957-84bd-91733b29f903.m3u
+#EXTINF:-1 tvg-id="Warner.Channel.co" tvg-name="Warner Channel (FHD)" tvg-logo="https://pagina.win/logos/ca/warner.png" group-title="Cinema - Series",Warner Channel (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/98c4a584-1fd0-4489-89c6-c403e453e36a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel (SD)" tvg-logo="https://pagina.win/logos/ca/warner.png" group-title="Cinema - Series",Warner Channel (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/0b957905-6246-4e1e-a3ea-cda40879bfb3.m3u
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="3 Familias (HD)" tvg-logo="https://newapps.es/logos/24adulto/3familias.png" group-title="24/7 Canales",3 Familias (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/e8256975-3fa1-429a-8830-deaf882802ea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Aquellos Maravillosos Años (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Aquellos%20Maravillosos.png" group-title="24/7 Canales",Aquellos Maravillosos Años (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/50550846-692f-4481-a9d4-2da57093322b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Arrow (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Arrow.png" group-title="24/7 Canales",Arrow (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3ea0a036-23c8-4c39-ac00-6b7e38782d71.m3u
+#EXTINF:-1 tvg-id="556ea25f-e6ca-4304-ac2b-c6510554beb8" tvg-name="Bienvenidos (SD)" tvg-logo="https://newapps.es/logos/24adulto/bienvenidos.png" group-title="24/7 Canales",Bienvenidos (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/556ea25f-e6ca-4304-ac2b-c6510554beb8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Big Time Rush (HD)" tvg-logo="https://pagina.win/logos/247/otros/BIG%20TIME%20RUSH.png" group-title="24/7 Canales",Big Time Rush (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/8865675f-272b-4919-a047-1c7e7f048276.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Bonanza (SD)" tvg-logo="https://pagina.win/logos/247/otros/BONANZA.png" group-title="24/7 Canales",Bonanza (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/43c766bd-8c9e-483c-b66e-06cc732c4d9e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BONES (HD)" tvg-logo="https://pagina.win/logos/247/otros/BONES.png" group-title="24/7 Canales",BONES (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3bf500d0-8550-4664-a3cf-a557b4658bd0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Breaking%20Bad.png" group-title="24/7 Canales",Breaking Bad (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a3b65ad3-29aa-4d7d-bedf-94a9fb3d6dbd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CASO CERRADO (HD)" tvg-logo="https://newapps.es/logos/24adulto/casocerrado.png" group-title="24/7 Canales",CASO CERRADO (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/cd79c3d4-ab97-42fb-91e9-71959aa618ac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Chicago%20Fire.png" group-title="24/7 Canales",Chicago Fire (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/282dc08e-503a-41ac-a69b-dcae7ff08539.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Chicago%20P.D.png" group-title="24/7 Canales",Chicago P.D. (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/5d207280-cbe7-40d8-a4ba-4086bfe4f773.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (HD)" tvg-logo="https://pagina.win/logos/247/otros/COBRA%20KAI.png" group-title="24/7 Canales",Cobra Kai (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/cdbe2163-ddeb-437e-9efe-55ef6b4a0350.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Como dice el dicho (HD)" tvg-logo="https://pagina.win/logos/247/otros/COMO%20DICE%20EL%20DICHO.png" group-title="24/7 Canales",Como dice el dicho (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/accbd947-eb15-404e-ab7d-77464964ed01.m3u
+#EXTINF:-1 tvg-id="2997e35b-b2c5-4028-a336-72d4efaae016" tvg-name="CSI: Miami (HD)" tvg-logo="" group-title="24/7 Canales",CSI: Miami (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/2997e35b-b2c5-4028-a336-72d4efaae016.m3u
+#EXTINF:-1 tvg-id="da88c286-5263-41d7-a0c8-6f3a324b3660" tvg-name="CSI: Nueva York (HD)" tvg-logo="" group-title="24/7 Canales",CSI: Nueva York (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/da88c286-5263-41d7-a0c8-6f3a324b3660.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio (HD)" tvg-logo="https://pagina.win/logos/247/Retro/Dos%20hombres%20y%20medio.png" group-title="24/7 Canales",Dos hombres y medio (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/e2a66bd6-cc6e-403c-9943-037944ed4f13.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Drake y Josh (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Drake%20y%20Josh.png" group-title="24/7 Canales",Drake y Josh (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/5de8b275-c7c6-45fd-9ff3-ad6ea6a923b4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Auto fantástico (HD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Auto.png" group-title="24/7 Canales",El Auto fantástico (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/b1cfdb71-b804-444b-97a4-fa8ec90291a3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho (HD)" tvg-logo="https://pagina.win/logos/247/Top/chavo.png" group-title="24/7 Canales",El Chavo del Ocho (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/94ce1d2d-e7f4-4ad4-9331-61925edaf2f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Joven Sheldon (HD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Joven%20Sheldon.png" group-title="24/7 Canales",El Joven Sheldon (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/35a52375-d350-447f-83df-203adf9651f2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air (SD)" tvg-logo="https://pagina.win/logos/247/Retro/rap.png" group-title="24/7 Canales",El príncipe de Bel-Air (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/d8def242-fe68-47a3-8773-04fe75afa24f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El túnel del tiempo (SD)" tvg-logo="https://pagina.win/logos/247/Pelis/El%20tunel%20del%20tiempo.png" group-title="24/7 Canales",El túnel del tiempo (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/92afcc83-c836-4f5e-8aa8-2a18614accd2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Zorro 1957 (SD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Zorro%201957.png" group-title="24/7 Canales",El Zorro 1957 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/feafb06a-27ea-436b-ae36-a23186ad9e1d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Especial Navidad" tvg-logo="https://pagina.win/logos/247/Pelis/Especial%20Navidad.png" group-title="24/7 Canales",Especial Navidad
+http://nubiatv.live/live/Mirian12/Mirian12/cb805468-99bc-4d5e-9501-7d198ea1c24b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Especial Semana Santa (HD)" tvg-logo="https://newapps.es/logos/24adulto/semanasanta.png" group-title="24/7 Canales",Especial Semana Santa (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/551fb6b7-e99c-4ac3-8526-0e5c0991319e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Friends (HD)" tvg-logo="https://pagina.win/logos/247/otros/FRIENDS.png" group-title="24/7 Canales",Friends (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/4f9ea98a-39ab-4a39-80a7-3f619ae93518.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Hawaii 5.0 (SD)" tvg-logo="https://pagina.win/logos/247/otros/HAWAII%20FIVE.png" group-title="24/7 Canales",Hawaii 5.0 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/fae3c599-26d6-481f-ba08-16208ff4586d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Hercules (SD)" tvg-logo="https://newapps.es/logos/24adulto/hercules.png" group-title="24/7 Canales",Hercules (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/e405f537-8c9c-4160-99ca-7d3374e7ed14.m3u
+#EXTINF:-1 tvg-id="" tvg-name="iCarly (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/iCarly.png" group-title="24/7 Canales",iCarly (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/0058e871-85d3-4fa1-8120-d5c64db21c1d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/La%20Casa%20de%20Papel.png" group-title="24/7 Canales",La Casa de Papel (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/2e9e8891-591c-45d6-9193-b119460ae7ab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La ciencia de lo absurdo (HD)" tvg-logo="https://pagina.win/logos/247/otros/LA%20CIENCIA%20DE%20LO%20ABSURDO.png" group-title="24/7 Canales",La ciencia de lo absurdo (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/64c620cc-10ed-4118-9843-3524593ef59d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La CQ (HD)" tvg-logo="https://pagina.win/logos/247/otros/LA%20CQ.png" group-title="24/7 Canales",La CQ (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/6a3616b5-a61e-49d2-a531-87cd46755449.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Addams (SD)" tvg-logo="https://pagina.win/logos/247/Retro/La%20Familia%20Addams.png" group-title="24/7 Canales",La Familia Addams (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/6966f112-b478-4ee8-a973-6fdeb66c6243.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Monster (SD)" tvg-logo="https://pagina.win/logos/247/Retro/La%20Familia%20Monster.png" group-title="24/7 Canales",La Familia Monster (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/880a1a03-155a-4bb9-8261-e5dde5bd8f0d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa De Guadalupe (HD)" tvg-logo="https://pagina.win/logos/247/Top/larosadeguadalupe.png" group-title="24/7 Canales",La Rosa De Guadalupe (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/53c19bf7-9b7d-4f7c-9cac-5ca2f1c412a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ley y Orden (SD)" tvg-logo="https://pagina.win/logos/247/Pelis/Ley%20y%20Orden.png" group-title="24/7 Canales",Ley y Orden (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/c84398f7-4d6e-4578-aa5e-cd03c74c4b7c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Lo que callamos las mujeres (HD)" tvg-logo="https://pagina.win/logos/247/Top/loquecallamoslasmujeres.png" group-title="24/7 Canales",Lo que callamos las mujeres (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/596b5f82-8e39-44c3-b24f-6ba2c99b8839.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Magnificos (HD)" tvg-logo="https://pagina.win/logos/247/Retro/Los%20Magnificos.png" group-title="24/7 Canales",Los Magnificos (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/10b60ef6-49de-488e-83ee-ed4f28bde1d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Tres Chiflados (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Los%20Tres%20Chiflados.png" group-title="24/7 Canales",Los Tres Chiflados (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/3c89c872-554c-43bf-95ac-3c7ba887d3b8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MacGyver (SD)" tvg-logo="https://pagina.win/logos/247/Retro/MacGyver.png" group-title="24/7 Canales",MacGyver (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/78d55731-97d9-47c2-a96e-c97ea4df1246.m3u
+#EXTINF:-1 tvg-id="807edbea-15dc-49cb-b4f8-e1f6a073c9af" tvg-name="Malcolm (HD)" tvg-logo="https://pagina.win/logos/247/Retro/Malcolm.png" group-title="24/7 Canales",Malcolm (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/807edbea-15dc-49cb-b4f8-e1f6a073c9af.m3u
+#EXTINF:-1 tvg-id="7f4bb71e-70a5-4436-82bd-019d7c68c4e4" tvg-name="Matrimonio con hijos" tvg-logo="" group-title="24/7 Canales",Matrimonio con hijos
+http://nubiatv.live/live/Mirian12/Mirian12/7f4bb71e-70a5-4436-82bd-019d7c68c4e4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Mi bella genio (SD)" tvg-logo="https://pagina.win/logos/247/otros/MI%20BELLA%20GENIO.png" group-title="24/7 Canales",Mi bella genio (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/41a0e028-890e-4d36-ab48-f25657c18ea4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Mi Recinto (SD)" tvg-logo="https://pagina.win/logos/247/otros/MI%20RECINTO.png" group-title="24/7 Canales",Mi Recinto (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/693e57af-3546-4854-aca9-db97d64e7df6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Arnold Schwarzenegger (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Schwarzenegger.png" group-title="24/7 Canales",Movies Arnold Schwarzenegger (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/14ac13d3-2904-47fb-999b-bb67eae8100d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cantinflas (HD)" tvg-logo="https://pagina.win/logos/247/otros/CANTINFLAS.png" group-title="24/7 Canales",Movies Cantinflas (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/d2147432-b1dd-4d1b-9b4e-e1b9b42f6dc3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Chuck Norris (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Chuck%20Norris.png" group-title="24/7 Canales",Movies Chuck Norris (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/b21676de-6475-47f9-9181-3a4429342114.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies DC (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Movies%20DC.png" group-title="24/7 Canales",Movies DC (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/4886e095-5b88-4d13-8d8a-842dd2d7a2cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Eddie Murphy (HD)" tvg-logo="https://pagina.win/logos/247/otros/EDDIE%20MURPHY.png" group-title="24/7 Canales",Movies Eddie Murphy (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/b8a74839-dd92-4c71-9cd1-76dac7cfe654.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Jackie Chan (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Jackie%20Chan.png" group-title="24/7 Canales",Movies Jackie Chan (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/9a59ed05-3aba-4a4f-82f0-87ac06469e39.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Jason Statham (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Jason%20Statham.png" group-title="24/7 Canales",Movies Jason Statham (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/de959deb-2d99-45df-badd-4fa8175c5e8c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Jean Claude Van Damme (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Jean%20Claude%20Van%20Damme.png" group-title="24/7 Canales",Movies Jean Claude Van Damme (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/c1ff4e30-cae9-4a62-98a5-8f4e0b61f81d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Jet Li (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Jet%20Li.png" group-title="24/7 Canales",Movies Jet Li (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/7775368c-41c8-4975-ab16-a335aa21ad45.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Jim Carrey (HD)" tvg-logo="https://newapps.es/logos/24adulto/jim.png" group-title="24/7 Canales",Movies Jim Carrey (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/77dd7576-9ed2-4af9-8eb8-427a887bb3cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Liam Neeson (HD)" tvg-logo="https://pagina.win/logos/247/otros/LIAM%20NEESON.png" group-title="24/7 Canales",Movies Liam Neeson (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/feed7cf4-e0b4-49b6-8062-c96c7c1038cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Marvel (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/marvel.png" group-title="24/7 Canales",Movies Marvel (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/ef6bc484-638c-4d51-a57d-ed3a654cc6de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Pistoleros del viejo oeste (HD)" tvg-logo="https://pagina.win/logos/247/otros/PISTOLEROS.png" group-title="24/7 Canales",Movies Pistoleros del viejo oeste (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/5299017a-f769-479d-a099-9e6e078f3e24.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Silvester Stallone (HD)" tvg-logo="https://pagina.win/logos/247/otros/SYLVESTER%20STALLONE.png" group-title="24/7 Canales",Movies Silvester Stallone (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/2853d65f-b31d-4252-acac-01bf21b6af2f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Steven Seagal (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Steven%20Seagal.png" group-title="24/7 Canales",Movies Steven Seagal (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/65880537-659a-42a0-aeb4-fc8e047dd071.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Tom Cruise (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Tom%20Cruise.png" group-title="24/7 Canales",Movies Tom Cruise (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/504b2f6c-bfe6-485f-8cdc-5408fc0c551e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Narcos y Sicarios (SD)" tvg-logo="https://pagina.win/logos/247/Pelis/Narcos%20y%20Sicarios.png" group-title="24/7 Canales",Narcos y Sicarios (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/118ecf1b-d79b-4c51-96df-8a3e9aa13523.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Los Ángeles (HD)" tvg-logo="https://pagina.win/logos/247/otros/NCIS%20LOS%20ANGELES.png" group-title="24/7 Canales",NCIS: Los Ángeles (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/0a41fc5d-f989-4408-bad3-b5e19e8f3848.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Need Manual De Supervivencia (SD)" tvg-logo="https://pagina.win/logos/247/otros/NEED%20MANUAL%20DE%20SUPERVIVENCIA.png" group-title="24/7 Canales",Need Manual De Supervivencia (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/a2b76fde-b4c6-420e-acce-2728c3ba28ff.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Prison%20Break.png" group-title="24/7 Canales",Prison Break (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3028f65a-a77d-4fbb-887f-4876e10fccbe.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Puro Teatro (SD)" tvg-logo="https://newapps.es/logos/24adulto/puroteatro.png" group-title="24/7 Canales",Puro Teatro (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/8730b81a-b1fb-43a2-9056-5ff3a509e3b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ripley ¡Aunque ud no lo crea! (HD)" tvg-logo="https://newapps.es/logos/24adulto/ripley.png" group-title="24/7 Canales",Ripley ¡Aunque ud no lo crea! (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/9edafe0a-9b24-4f63-a205-2ebc17d1b409.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Smallville (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Smallville.png" group-title="24/7 Canales",Smallville (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3912686d-47bf-43ae-b5b7-173a23021b1b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things (HD)" tvg-logo="https://pagina.win/logos/247/otros/STRANGER%20THINGS.png" group-title="24/7 Canales",Stranger Things (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3e2a9a0e-921e-4959-8ce1-0b8fd636dc2a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="That 70s Show (HD)" tvg-logo="https://pagina.win/logos/247/otros/EL%20SHOW%20DE%20LOS%2070.png" group-title="24/7 Canales",That 70s Show (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/40504288-b47b-4887-b72b-c6e9372635e1.m3u
+#EXTINF:-1 tvg-id="1d6bb64f-4b49-464d-86f4-1c123be7a894" tvg-name="The big bang theory (HD)" tvg-logo="https://pagina.win/logos/247/otros/THE%20BIG%20BANG%20THEORY.png" group-title="24/7 Canales",The big bang theory (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/1d6bb64f-4b49-464d-86f4-1c123be7a894.m3u
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/The%20Flash.png" group-title="24/7 Canales",The Flash (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/ef6a8b77-4bd2-4e84-af6d-cff3794fe4a7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor (HD)" tvg-logo="https://pagina.win/logos/247/otros/THE%20GOOD%20DOCTOR.png" group-title="24/7 Canales",The Good Doctor (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/ed6f0fa2-1686-4971-901e-a1199b458c8d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead (HD)" tvg-logo="https://pagina.win/logos/247/Top/The%20Walking%20Dead.png" group-title="24/7 Canales",The Walking Dead (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a2d82df4-8f2c-4229-ab26-d12aa4abd49a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Vivos (SD)" tvg-logo="https://newapps.es/logos/24adulto/vivos.png" group-title="24/7 Canales",Vivos (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/87163081-8abe-4454-abd2-84ee7b16c952.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Walker Ranger De Texas (SD)" tvg-logo="https://pagina.win/logos/247/otros/WALKER.png" group-title="24/7 Canales",Walker Ranger De Texas (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/91064894-2870-489a-96cf-4fe0df97ddd9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WWE (HD)" tvg-logo="https://pagina.win/logos/247/otros/WWE.png" group-title="24/7 Canales",WWE (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/5a174fb0-a112-4fcc-8723-b968bac57b6f.m3u
+#EXTINF:-1 tvg-id="fac0af81-6293-483d-b5c0-745cf0775036" tvg-name="XC+ TERROR (DUAL)" tvg-logo="" group-title="24/7 Canales",XC+ TERROR (DUAL)
+http://nubiatv.live/live/Mirian12/Mirian12/fac0af81-6293-483d-b5c0-745cf0775036.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Xena, la princesa guerrera (SD)" tvg-logo="https://pagina.win/logos/247/otros/XENA%20LA%20PRINCESA%20GUERRERA.png" group-title="24/7 Canales",Xena, la princesa guerrera (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f78cd49a-d0f6-420d-a05f-7f3d5637d2a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Zoey 101 (SD)" tvg-logo="https://pagina.win/logos/247/otros/ZOEY.png" group-title="24/7 Canales",Zoey 101 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/d222b4de-2ed0-4231-bfcd-12af3001b0c3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Élite (HD)" tvg-logo="https://pagina.win/logos/247/otros/ELITE.png" group-title="24/7 Canales",Élite (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/7d3fc060-800e-4918-bc62-c8b5e3308ee8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Sexo en La Ciudad (SD)" tvg-logo="https://pagina.win/logos/247/Top/Sc.png" group-title="24/7 Canales",Sexo en La Ciudad (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/b23e6ff9-5dce-464a-80c3-0dac3872cbe5.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="Animal Planet (FHD)" tvg-logo="https://pagina.win/logos/ca/AnimalPlanet.png" group-title="Cultura",Animal Planet (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/afe39687-3131-49b3-872c-2385e2355ecb.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="Animal Planet (SD)" tvg-logo="https://pagina.win/logos/ca/AnimalPlanet.png" group-title="Cultura",Animal Planet (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/32017efc-615d-450b-8e01-a96674009c1c.m3u
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl" tvg-name="Discovery Channel (e)" tvg-logo="https://pagina.win/logos/ca/DiscoveryChannel.png" group-title="Cultura",Discovery Channel (e)
+http://nubiatv.live/live/Mirian12/Mirian12/9507e5be-56e1-418c-afea-2dc74bef69fa.m3u
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl" tvg-name="Discovery Channel (FHD)" tvg-logo="https://pagina.win/logos/ca/DiscoveryChannel.png" group-title="Cultura",Discovery Channel (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/bfbc78dc-7996-4c91-8bdb-b9737bddcb30.m3u
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Chile).cl" tvg-name="Discovery Channel (SD)" tvg-logo="https://pagina.win/logos/ca/DiscoveryChannel.png" group-title="Cultura",Discovery Channel (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/02fc9411-2bdd-41b2-8593-d262918661c8.m3u
+#EXTINF:-1 tvg-id="Canal.Discovery.Home.&.Health.(Ecuador).ec" tvg-name="Discovery Home & Health (e)" tvg-logo="https://pagina.win/logos/ca/HomeandHealth.png" group-title="Cultura",Discovery Home & Health (e)
+http://nubiatv.live/live/Mirian12/Mirian12/87462a9a-0eeb-4abb-b9a8-acaee34eaaca.m3u
+#EXTINF:-1 tvg-id="Discovery.H&H.co" tvg-name="Discovery Home & Health (FHD)" tvg-logo="https://pagina.win/logos/ca/HomeandHealth.png" group-title="Cultura",Discovery Home & Health (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/57cbb47f-18e4-4400-8130-a545fa0284e0.m3u
+#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(Ecuador).ec" tvg-name="Discovery ID (e)" tvg-logo="https://pagina.win/logos/ca/DiscoveryID.png" group-title="Cultura",Discovery ID (e)
+http://nubiatv.live/live/Mirian12/Mirian12/ede78119-0306-499d-8aff-b170ec754a91.m3u
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.(Ecuador).ec" tvg-name="Discovery ID (FHD)" tvg-logo="https://pagina.win/logos/ca/DiscoveryID.png" group-title="Cultura",Discovery ID (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/07ae1bc1-d0c3-4653-8bf7-eda75f41cd51.m3u
+#EXTINF:-1 tvg-id="Discovery.Kids.co" tvg-name="Discovery ID (SD)" tvg-logo="https://pagina.win/logos/ca/DiscoveryID.png" group-title="Cultura",Discovery ID (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/a76e6382-06e7-447a-8a5e-9e6e488ddea9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science (HD)" tvg-logo="https://pagina.win/logos/ca/DISCOVERYSCIENCE.png" group-title="Cultura",Discovery Science (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a332d583-d3ad-413f-a7b3-f23f4ef4cce7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science (SD)" tvg-logo="https://pagina.win/logos/ca/DISCOVERYSCIENCE.png" group-title="Cultura",Discovery Science (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/e23d57d9-c429-4461-b3ec-e446b5095347.m3u
+#EXTINF:-1 tvg-id="Discovery.Theater.co" tvg-name="Discovery Theater (FHD)" tvg-logo="https://pagina.win/logos/ca/DISCOVERYTHEATER.png" group-title="Cultura",Discovery Theater (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/b9818425-c281-45b8-8a29-6235a176321b.m3u
+#EXTINF:-1 tvg-id="Discovery.Turbo.co" tvg-name="Discovery Turbo (HD)" tvg-logo="https://pagina.win/logos/ca/DiscoveryTurbo.png" group-title="Cultura",Discovery Turbo (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/56756b47-e21e-4829-9723-0268701fce51.m3u
+#EXTINF:-1 tvg-id="Discovery.Turbo.co" tvg-name="Discovery Turbo (SD)" tvg-logo="https://pagina.win/logos/ca/DiscoveryTurbo.png" group-title="Cultura",Discovery Turbo (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/082e7800-fb0a-4ba5-aab1-92de1a00f18a.m3u
+#EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.ec" tvg-name="Discovery World (FHD)" tvg-logo="https://pagina.win/logos/ca/DISCOVERYWORLD.png" group-title="Cultura",Discovery World (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/c54a5c9e-ff97-47e9-903c-dc85d478dd9f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DW (SD)" tvg-logo="https://pagina.win/logos/ca/DW.png" group-title="Cultura",DW (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/8f091c92-3665-4905-8f95-506d16d39471.m3u
+#EXTINF:-1 tvg-id="Canal.DW.(Latinoamérica).ec" tvg-name="DW Español (HD)" tvg-logo="https://pagina.win/logos/ca/DW.png" group-title="Cultura",DW Español (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/cf37dd03-8054-4b3d-bbb3-c6f2fa8935b7.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.TV.co" tvg-name="E! Entertainment (e)" tvg-logo="https://pagina.win/logos/ca/EEntertainment.png" group-title="Cultura",E! Entertainment (e)
+http://nubiatv.live/live/Mirian12/Mirian12/c66d4336-839c-4277-9950-93a44ccb7883.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.TV.co" tvg-name="E! Entertainment (FHD)" tvg-logo="https://pagina.win/logos/ca/EEntertainment.png" group-title="Cultura",E! Entertainment (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/c81d62a6-56c6-4d76-9107-fd3abd11a159.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.TV.co" tvg-name="E! Entertainment (SD)" tvg-logo="https://pagina.win/logos/ca/EEntertainment.png" group-title="Cultura",E! Entertainment (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/027f096a-ac7a-4872-a071-bdfdb48cc302.m3u
+#EXTINF:-1 tvg-id="El.Gourmet.co" tvg-name="El Gourmet (HD)" tvg-logo="https://pagina.win/logos/ca/ELGOURMET.png" group-title="Cultura",El Gourmet (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/1c21c5f4-8288-4e96-85c8-dfb86c831cdc.m3u
+#EXTINF:-1 tvg-id="El.Gourmet.co" tvg-name="El Gourmet (SD)" tvg-logo="https://pagina.win/logos/ca/ELGOURMET.png" group-title="Cultura",El Gourmet (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/b5330125-539f-4bf2-8355-dddbac7499c5.m3u
+#EXTINF:-1 tvg-id="Food.Network.co" tvg-name="Food Network (HD)" tvg-logo="https://pagina.win/logos/ca/FoodNetwork.png" group-title="Cultura",Food Network (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/74164f80-c71e-4c63-85a9-0cb7e10445e2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (HD)" tvg-logo="https://pagina.win/logos/ca/hgtv.png" group-title="Cultura",HGTV (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/8d3f9a26-a173-4f86-a5bd-176b9cd569a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (SD)" tvg-logo="https://pagina.win/logos/ca/hgtv.png" group-title="Cultura",HGTV (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/1e1a7e07-79d7-4356-a5d9-97f010710841.m3u
+#EXTINF:-1 tvg-id="Canal.History.(Chile).ec" tvg-name="History (e)" tvg-logo="https://pagina.win/logos/ca/HistoryChannel.png" group-title="Cultura",History (e)
+http://nubiatv.live/live/Mirian12/Mirian12/c6c57189-e11f-4e08-b492-cb801e26dfe5.m3u
+#EXTINF:-1 tvg-id="History.2.co" tvg-name="History (FHD)" tvg-logo="https://pagina.win/logos/ca/HistoryChannel.png" group-title="Cultura",History (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/95c00fc1-09af-41f2-90e1-1bdcbf280a21.m3u
+#EXTINF:-1 tvg-id="History.2.co" tvg-name="History 2 (HD)" tvg-logo="https://pagina.win/logos/ca/History2.png" group-title="Cultura",History 2 (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/3ab5f132-77f8-495f-83fb-012bc4d4dd53.m3u
+#EXTINF:-1 tvg-id="History.2.co" tvg-name="History 2 (SD)" tvg-logo="https://pagina.win/logos/ca/History2.png" group-title="Cultura",History 2 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/bebc3c59-418f-4e2d-a6d6-8528fdb23409.m3u
+#EXTINF:-1 tvg-id="Love.Nature.co" tvg-name="Love Nature (HD)" tvg-logo="https://pagina.win/logos/ca/LoveNature.png" group-title="Cultura",Love Nature (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/d2013134-6efc-4772-95b5-53c0e14e4daa.m3u
+#EXTINF:-1 tvg-id="NAT.GEO.(NatGeo).pe" tvg-name="National Geographic (e)" tvg-logo="https://pagina.win/logos/ca/NatGeo.png" group-title="Cultura",National Geographic (e)
+http://nubiatv.live/live/Mirian12/Mirian12/ded3cb8f-c07d-474d-afc8-071ded612a6f.m3u
+#EXTINF:-1 tvg-id="NAT.GEO.co" tvg-name="National Geographic (FHD)" tvg-logo="https://pagina.win/logos/ca/NatGeo.png" group-title="Cultura",National Geographic (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/e7225dbb-3ed3-4369-a55a-0fbc6c80c103.m3u
+#EXTINF:-1 tvg-id="NAT.GEO.co" tvg-name="National Geographic (SD)" tvg-logo="https://pagina.win/logos/ca/NatGeo.png" group-title="Cultura",National Geographic (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/583ddf30-e139-4b62-a26b-228fe78b7d0a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TLC [SD]" tvg-logo="https://pagina.win/logos/ca/TLC.png" group-title="Cultura",TLC [SD]
+http://nubiatv.live/live/Mirian12/Mirian12/fecea828-354a-4dee-b0c5-4e1f37954289.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TVL (HD)" tvg-logo="" group-title="Cultura",TVL (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/8e771b87-f6d5-4fab-b068-819951354bdd.m3u
+#EXTINF:-1 tvg-id="Canal.¡HOLA!.TV.ec" tvg-name="¡Hola! TV (FHD)" tvg-logo="https://pagina.win/logos/ca/holatv.png" group-title="Cultura",¡Hola! TV (FHD)
+http://nubiatv.live/live/Mirian12/Mirian12/5b066cbf-e3c7-425a-98b1-a4b2d4d02780.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Baby%20Looney%20Tunes.png" group-title="24/7 Animados",Baby Looney Tunes (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/89d1b90f-57f6-4dca-af11-0a815d0212f0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Dreamhouse Adventures (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Barbie.png" group-title="24/7 Animados",Barbie: Dreamhouse Adventures (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/0b5a5e80-3568-496d-a471-ed8f3591bf20.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 (HD)" tvg-logo="https://pagina.win/logos/247/otros/BEN%2010.png" group-title="24/7 Animados",Ben 10 (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/84a691e0-ae92-4971-937f-36ee3e5f790e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Billy Y Mandy (SD)" tvg-logo="https://pagina.win/logos/247/otros/BILLY%20Y%20MANDY.png" group-title="24/7 Animados",Billy Y Mandy (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/50a4f7a1-bd0e-4d56-bf78-d816aab26220.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja (HD)" tvg-logo="https://pagina.win/logos/247/otros/BOB%20ESPONJA.png" group-title="24/7 Animados",Bob Esponja (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/45aab73c-f124-4992-9c24-29476d2ddb27.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Buzz Lightyear (SD)" tvg-logo="https://pagina.win/logos/247/otros/BUZZ%20LIGHTYEAR.png" group-title="24/7 Animados",Buzz Lightyear (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/702a87aa-9356-41a6-b1e2-7ed4f0993659.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Camp Lazlo (HD)" tvg-logo="https://pagina.win/logos/247/otros/CAMP%20LAZLO.png" group-title="24/7 Animados",Camp Lazlo (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/c3d4753b-08a5-48bc-8af0-155b7d753851.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cat-Dog (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Cat-Dog.png" group-title="24/7 Animados",Cat-Dog (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/3298b3a6-813d-4940-813e-bf14d80f4550.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Coraje, el perro cobarde (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Coraje,%20el%20perro%20cobarde.png" group-title="24/7 Animados",Coraje, el perro cobarde (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/45a545b4-2b2f-4cfe-b170-b6e64a0570d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Daniel el travieso (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Daniel%20el%20travieso.png" group-title="24/7 Animados",Daniel el travieso (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/53046141-cb04-43a9-a1e1-1d5a76a2736b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y su pandilla (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Don%20Gato%20y%20su%20pandilla.png" group-title="24/7 Animados",Don Gato y su pandilla (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/180d339c-8f4d-4e86-9432-3edc69b8c97c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dora, la exploradora (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Dora,%20la%20exploradora.png" group-title="24/7 Animados",Dora, la exploradora (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/bd5e4104-d691-4fd8-8737-18eb39b6ed4d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon Nuevo (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Doraemon%20Nuevo.png" group-title="24/7 Animados",Doraemon Nuevo (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/cffb1da6-fba5-4e28-8932-4e93292a7889.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon Viejo (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Doraemon%20Viejo.png" group-title="24/7 Animados",Doraemon Viejo (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/d5863922-b9ce-43c6-a93a-8a5a6ac2e264.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball (SD)" tvg-logo="https://pagina.win/logos/247/Pelis/Movies%20Dragon%20Ball.png" group-title="24/7 Animados",Dragon Ball (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/67036101-2f3c-4fe4-898c-3d87b656f785.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT (SD)" tvg-logo="https://pagina.win/logos/247/Top/Dragon%20Ball%20GT.png" group-title="24/7 Animados",Dragon Ball GT (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/db41453b-79ee-4510-b879-29239b137926.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super (HD)" tvg-logo="https://pagina.win/logos/247/Top/Dragon%20Ball%20Super.png" group-title="24/7 Animados",Dragon Ball Super (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a79721cd-69ec-4954-8fed-df6336b238a8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - Saga de Cell (HD)" tvg-logo="https://pagina.win/logos/247/Top/Dragon%20Ball%20Z%20-%20Saga%20de%20Cell.png" group-title="24/7 Animados",Dragon Ball Z - Saga de Cell (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a39fcebf-566d-4a22-b019-5b331159d8ec.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - Saga de Freezer (HD)" tvg-logo="https://pagina.win/logos/247/Top/Dragon%20Ball%20Z%20-%20Saga%20de%20Freezer.png" group-title="24/7 Animados",Dragon Ball Z - Saga de Freezer (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/36396bcb-ce3b-494a-86d0-8fc67db6aee2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - Saga De Majin Buu (HD)" tvg-logo="https://pagina.win/logos/247/Top/bu.png" group-title="24/7 Animados",Dragon Ball Z - Saga De Majin Buu (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/7417bb25-cfbe-4d17-9d5a-c6860d07c9d6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - Saga Saiyajin (HD)" tvg-logo="https://pagina.win/logos/247/Top/Saga%20Saiyajin.png" group-title="24/7 Animados",Dragon Ball Z - Saga Saiyajin (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/92e1b5e8-49ee-42e9-b23e-2cf150b01e02.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Droopy (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Droopy.png" group-title="24/7 Animados",Droopy (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/ae0b799e-19aa-4dfe-8ed0-c69b4c1f4305.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ed, Edd y Eddy (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Ed,%20Edd%20y%20Eddy.png" group-title="24/7 Animados",Ed, Edd y Eddy (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f9cead48-d2cc-49b5-b4e7-299c9b6e6636.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El asombroso mundo de Gumball (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/El%20asombroso%20mundo%20de%20Gumball.png" group-title="24/7 Animados",El asombroso mundo de Gumball (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/fa187e0b-6ec8-4658-a9f0-00309fc0eee3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo animado (SD)" tvg-logo="http://pagina.win/logos/247/Infantil/El%20Chavo%20animado.png" group-title="24/7 Animados",El Chavo animado (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/cfd0a1af-df85-463f-97db-602f75d6b417.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Coyote Y El Correcaminos (SD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Coyote%20Y%20El%20Correcaminos.png" group-title="24/7 Animados",El Coyote Y El Correcaminos (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/8cd2ecc0-f96b-4de7-8c43-e05ee31673a4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Gallo Claudio (SD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Gallo%20Claudio.png" group-title="24/7 Animados",El Gallo Claudio (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/3913cfa0-71c4-4d25-bf96-21c038c779c5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El inspector Gadget (SD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20inspector%20Gadget.png" group-title="24/7 Animados",El inspector Gadget (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/7f49358c-08f1-4f25-829f-05c67de6a5c7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Oasis de Oscar (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/El%20Oasis%20de%20Oscar.png" group-title="24/7 Animados",El Oasis de Oscar (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/64062252-d776-4a52-b582-03612802b71f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Oso Yogui (SD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Oso%20Yogui.png" group-title="24/7 Animados",El Oso Yogui (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/dac631b3-586c-472e-9158-7e70de5372a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Pato Donald (SD)" tvg-logo="https://pagina.win/logos/247/Retro/El%20Pato%20Donald.png" group-title="24/7 Animados",El Pato Donald (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/61bc1098-c852-417e-9154-ed5744368a5e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El Show de Bugs Bunny (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Bugs%20Bunny.png" group-title="24/7 Animados",El Show de Bugs Bunny (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/ff8e9c47-ac69-4b1f-8488-afd242ba1a39.m3u
+#EXTINF:-1 tvg-id="" tvg-name="El show del Pájaro Loco (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Loco.png" group-title="24/7 Animados",El show del Pájaro Loco (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/a6f62427-f323-47e9-ab2e-8d1f3c0f4a51.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Especial Navidad Infantil" tvg-logo="https://newapps.es/logos/24infantil/navidadin.png" group-title="24/7 Animados",Especial Navidad Infantil
+http://nubiatv.live/live/Mirian12/Mirian12/7ca9d1bb-5eab-4069-8b82-950c59f40cb9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Fantasias De Ayer Y Hoy (SD)" tvg-logo="https://pagina.win/logos/247/otros/FANTASIAS%20DE%20AYER%20Y%20HOY.png" group-title="24/7 Animados",Fantasias De Ayer Y Hoy (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/809a5936-6d8c-4e51-a735-9a13aae17942.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Futurama (HD)" tvg-logo="https://pagina.win/logos/247/otros/FUTURAMA.png" group-title="24/7 Animados",Futurama (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/1fbf990a-910a-491b-b98c-0fbb4d91ebb0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Garfield y sus amigos (SD)" tvg-logo="https://pagina.win/logos/247/otros/GARFIELD%20Y%20SUS%20AMIGOS.png" group-title="24/7 Animados",Garfield y sus amigos (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f9fa07e4-a781-42ed-b3c3-56906d834b81.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Gravity Falls (HD)" tvg-logo="https://newapps.es/logos/24infantil/gravity.png" group-title="24/7 Animados",Gravity Falls (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/66dfc7ad-a001-4699-94bb-4c938bc0f804.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Grizzy y los lemmings (HD)" tvg-logo="https://pagina.win/logos/247/otros/GRIZZY%20Y%20LOS%20LEMMINGS.png" group-title="24/7 Animados",Grizzy y los lemmings (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/d214cfc7-43ee-4d7e-94dd-2c4ff84d122a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Hora de aventura (HD)" tvg-logo="https://pagina.win/logos/247/otros/HORA%20DE%20AVENTURA.png" group-title="24/7 Animados",Hora de aventura (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/640ff92f-b885-4193-b03e-0ba71947079a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Isla Larva (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Isla%20Larva.png" group-title="24/7 Animados",Isla Larva (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/86fae78a-cf38-4afe-ad8d-e338f36cb80f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Jimy%20neutron.png" group-title="24/7 Animados",Jimmy Neutron (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/7d850e08-46fe-45ac-9870-4bdc10b88165.m3u
+#EXTINF:-1 tvg-id="" tvg-name="KND Los chicos del barrio (HD)" tvg-logo="https://newapps.es/logos/24infantil/knd.png" group-title="24/7 Animados",KND Los chicos del barrio (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/82d04826-1eb7-4472-84d2-3a27300a1258.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La Gallina Pintadita (HD)" tvg-logo="https://newapps.es/logos/24infantil/gallina.png" group-title="24/7 Animados",La Gallina Pintadita (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/5df94dd6-b33f-4fec-9793-3614fb686d76.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La hormiga atómica (SD)" tvg-logo="https://pagina.win/logos/247/Retro/La%20hormiga.png" group-title="24/7 Animados",La hormiga atómica (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/aad51535-fbac-44ec-a15e-e90ae0d807f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="La pantera Rosa (SD)" tvg-logo="https://pagina.win/logos/247/Retro/La%20pantera%20Rosa.png" group-title="24/7 Animados",La pantera Rosa (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/155883cb-3c3d-46db-b4ec-e61573b53224.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Larga Vida Al Rey Julien (HD)" tvg-logo="https://pagina.win/logos/247/otros/LARGA%20VIDA%20AL%20REY%20JULIEN.png" group-title="24/7 Animados",Larga Vida Al Rey Julien (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/de8182c3-0580-4e00-9b67-4fc7bf62e228.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Larva (HD)" tvg-logo="https://newapps.es/logos/24infantil/larva.png" group-title="24/7 Animados",Larva (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/fb684979-570e-4f91-900b-3ae47b5d230f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Gato con Botas (HD)" tvg-logo="https://pagina.win/logos/247/Retro/Gato%20con%20Botas.png" group-title="24/7 Animados",Las aventuras del Gato con Botas (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/caa5a2d3-3d12-43be-89e8-6ee5255d21d6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Las Chicas Superpoderosas (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Las%20Chicas%20Superpoderosas.png" group-title="24/7 Animados",Las Chicas Superpoderosas (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/68cc6810-4304-4041-b7ee-4603a6a7372a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes Platinum (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Looney%20Tunes%20Platinum.png" group-title="24/7 Animados",Looney Tunes Platinum (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/b55afc87-cd45-4abe-b8eb-a42d41821071.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del Zodiaco (SD)" tvg-logo="https://pagina.win/logos/247/Top/zodiaco.png" group-title="24/7 Animados",Los Caballeros del Zodiaco (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/82552e61-ce81-44ed-9940-a72b714e84d1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Jóvenes Titanes en Acción (HD)" tvg-logo="https://pagina.win/logos/247/otros/LOS%20JOVENES%20TITANES%20EN%20ACCION.png" group-title="24/7 Animados",Los Jóvenes Titanes en Acción (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/367ab321-b27b-4f0b-bb6e-8cd67baef429.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Los%20padrinos.png" group-title="24/7 Animados",Los padrinos mágicos (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/84a61857-d7e5-41e0-a422-b59449053b95.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra (SD)" tvg-logo="https://pagina.win/logos/247/Retro/Los%20Picapiedra.png" group-title="24/7 Animados",Los Picapiedra (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/cbc96e57-3d62-42e7-b53e-eb9e7f3727b6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los pingüinos de Madagascar (HD)" tvg-logo="https://newapps.es/logos/24infantil/pinguinos.png" group-title="24/7 Animados",Los pingüinos de Madagascar (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a89ea23f-204b-43a7-a45f-e90a8415d6a7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson 1-10 (SD)" tvg-logo="https://pagina.win/logos/247/Top/simpson.png" group-title="24/7 Animados",Los Simpson 1-10 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/e242920b-564a-4436-8f72-42a40140201c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson 11-20 (SD)" tvg-logo="https://pagina.win/logos/247/Top/simpson.png" group-title="24/7 Animados",Los Simpson 11-20 (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/f26f2a55-c2e4-4327-b293-d7083e71e691.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson 21-30 (HD)" tvg-logo="https://pagina.win/logos/247/Top/simpson.png" group-title="24/7 Animados",Los Simpson 21-30 (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/7e1f7712-0492-4a77-b4ae-14fb248b3a99.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Masha%20y%20el%20Oso.png" group-title="24/7 Animados",Masha y el Oso (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/7274f337-44c3-405a-9298-63277bb807c0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Max y Ruby (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Max%20y%20Ruby.png" group-title="24/7 Animados",Max y Ruby (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/69d1cd1f-62b4-4923-9a9b-660c6eff15db.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Medabots (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Medabots.png" group-title="24/7 Animados",Medabots (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/9f1928af-917d-4bd5-bb1f-74d96ee12ccf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous: Las aventuras de Ladybug (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Miraculous.png" group-title="24/7 Animados",Miraculous: Las aventuras de Ladybug (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/cc9609eb-2414-4a2d-9c1f-568516b8740e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Dragon Ball (HD)" tvg-logo="https://newapps.es/logos/24infantil/moviesdragon.png" group-title="24/7 Animados",Movies Dragon Ball (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a5565199-9ec2-4361-8913-f6bc4e9ad627.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Dreamworks (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Movies%20Dreamwork.png" group-title="24/7 Animados",Movies Dreamworks (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/9f0583d9-716c-45c2-a8fa-8dcbdd802800.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Pixar Animacion (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/PIXAR.png" group-title="24/7 Animados",Movies Pixar Animacion (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/a605de2b-11be-43a4-9e4e-3f1f2cf28dc0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Pokemon (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/pokemon.png" group-title="24/7 Animados",Movies Pokemon (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/8b272d26-5379-4b20-a624-965c5f35bc80.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movies Walt Disney (HD)" tvg-logo="https://pagina.win/logos/247/Pelis/Walt%20Disney.png" group-title="24/7 Animados",Movies Walt Disney (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/f97bb835-d189-4584-99d5-50208add07e9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="My Little Pony: La magia de la amistad (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/My%20Little%20Pony.png" group-title="24/7 Animados",My Little Pony: La magia de la amistad (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/2da9eead-16df-43f0-9d3d-a926e14a7a2b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Nanatsu no Taizai (HD)" tvg-logo="https://pagina.win/logos/247/otros/NANATSU%20NO%20TAIZAI.png" group-title="24/7 Animados",Nanatsu no Taizai (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/fe1af214-8b29-435d-a2e2-78368f702ed6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Naruto.png" group-title="24/7 Animados",Naruto (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/8ba8c705-ba08-443b-b83f-54e876da9f20.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ozzy y Drix (SD)" tvg-logo="https://pagina.win/logos/247/otros/OZZY%20Y%20DRIX.png" group-title="24/7 Animados",Ozzy y Drix (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/4c7078eb-5659-42e3-ba7c-aed480d263f6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Padre de familia 1-10 (HD)" tvg-logo="https://pagina.win/logos/247/Retro/Padre%20de%20familia.png" group-title="24/7 Animados",Padre de familia 1-10 (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/03aaa84b-7055-4240-939c-07fb4483386a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Peppa%20Pig.png" group-title="24/7 Animados",Peppa Pig (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/39b7a557-223b-41ea-8519-01b6861be80d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Phineas y Ferb (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Phineas%20y%20Ferb.png" group-title="24/7 Animados",Phineas y Ferb (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/c80477af-98ae-45a8-a7b9-b3ce709ef808.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Pinky%20y%20Cerebro.png" group-title="24/7 Animados",Pinky y Cerebro (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/9d4c846f-2f95-4067-8c03-35657c9dbe24.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyó (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/Pocoyo.png" group-title="24/7 Animados",Pocoyó (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/af1532d8-e17d-4041-8bba-7278a6f73c67.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Popeye (SD)" tvg-logo="https://pagina.win/logos/247/Infantil/popeye.png" group-title="24/7 Animados",Popeye (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/60c78450-8334-4f1c-aecf-2d9779f58dfc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 1-10 (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Power%20Rangers%20Dino%20Trueno.png" group-title="24/7 Animados",Power Rangers 1-10 (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/898f614c-e263-4701-b0e2-c21ad472797a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ranma ½ (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Ran.png" group-title="24/7 Animados",Ranma ½ (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/fcd19a17-3373-4f22-acbd-baa950ad7a9a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Y Morty (HD)" tvg-logo="https://pagina.win/logos/247/otros/RICK%20Y%20MORTY.png" group-title="24/7 Animados",Ricky Y Morty (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/f13ec9f6-fee4-4f82-a054-731a7956855d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo y Scrappy-Doo (SD)" tvg-logo="https://pagina.win/logos/247/otros/SCOOBY%20DOO%20Y%20SCRAPPY%20DOO.png" group-title="24/7 Animados",Scooby-Doo y Scrappy-Doo (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/229dadc8-658a-453a-b1e9-3592670f4225.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Simon (HD)" tvg-logo="https://pagina.win/logos/247/Infantil/Simon.png" group-title="24/7 Animados",Simon (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/94acee51-1e5a-45b4-81bf-8891a0f0bf61.m3u
+#EXTINF:-1 tvg-id="fd49c957-fcf6-4714-81b3-00c60c775a5c" tvg-name="Steve And Maggie (HD)" tvg-logo="https://newapps.es/logos/24infantil/steve.png" group-title="24/7 Animados",Steve And Maggie (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/fd49c957-fcf6-4714-81b3-00c60c775a5c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Super Campeones (SD)" tvg-logo="https://pagina.win/logos/247/otros/SUPER%20CAMPEONES.png" group-title="24/7 Animados",Super Campeones (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/97320fdd-7b34-4005-8a91-82b3f6e629b4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Super Jett (HD)" tvg-logo="https://pagina.win/logos/247/otros/SUPER%20JETT.png" group-title="24/7 Animados",Super Jett (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/4df622ff-6e8f-4ea5-805e-3d83685005c9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Talking Tom and Friends (HD)" tvg-logo="https://pagina.win/logos/247/otros/TALKING%20TOM.png" group-title="24/7 Animados",Talking Tom and Friends (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/c44387c9-bf93-4713-9eb2-185daa1984c4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Taz-Mania (SD)" tvg-logo="https://pagina.win/logos/247/otros/TAZMANIA.png" group-title="24/7 Animados",Taz-Mania (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/ddf5d81b-6976-46a5-b0af-8bf3b50a6da5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Teen Titans (HD)" tvg-logo="https://pagina.win/logos/247/otros/TEENS%20TITANS.png" group-title="24/7 Animados",Teen Titans (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/70a6d754-c31c-4d88-966e-553afc2362f1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats (SD)" tvg-logo="https://pagina.win/logos/247/otros/THUNDERCATS.png" group-title="24/7 Animados",ThunderCats (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/2daedd74-60ab-45f0-ab34-c0b046246758.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry (SD)" tvg-logo="https://pagina.win/logos/247/otros/TOM%20Y%20JERRY.png" group-title="24/7 Animados",Tom y Jerry (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/e6247bbe-fef2-4d17-a2ba-269fb55cbc4a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Tom Y Jerry Kids (SD)" tvg-logo="https://pagina.win/logos/247/otros/TOM%20Y%20JERRY%20KIDS.png" group-title="24/7 Animados",Tom Y Jerry Kids (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/59b532e6-477a-42e9-92d9-a7385907901f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Un Show Mas (HD)" tvg-logo="https://pagina.win/logos/247/otros/UN%20SHOW%20MAS.png" group-title="24/7 Animados",Un Show Mas (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/f42962e2-5ef3-4e9e-b7a1-8072c0ab86e5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="¡Oye, Arnold! (SD)" tvg-logo="https://pagina.win/logos/247/otros/OYE%20ARNOLD.png" group-title="24/7 Animados",¡Oye, Arnold! (SD)
+http://nubiatv.live/live/Mirian12/Mirian12/fe21df06-2bc5-4cc2-9674-6cf37983965a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué hay de nuevo, Scooby-Doo? (HD)" tvg-logo="https://pagina.win/logos/247/otros/QUE%20HAY%20DE%20NUEVO%20SCOOBY%20DOO.png" group-title="24/7 Animados",¿Qué hay de nuevo, Scooby-Doo? (HD)
+http://nubiatv.live/live/Mirian12/Mirian12/fe2dc640-c44d-47d3-8b30-e32533eab161.m3u
+
