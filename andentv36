@@ -1,0 +1,176 @@
+#EXTM3U
+#EXTINF:-1 group-title="ANDEN TV PACK FUTBOL" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png",TNT Sports
+http://anden10.ddns.net/hls/stream.m3u8
+#EXTINF:-1 group-title="ANDEN TV PACK FUTBOL" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png",ESPN Premium
+http://anden26.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: €$PN Premium FHD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR: €$PN Premium FHD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/787bc6f8-15e9-466b-b879-963f069b4546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | €$PN™ PR€MlUM HD." tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR | €$PN™ PR€MlUM HD.
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/c69bb8aa-f71d-48bb-8f9c-f35674a05637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: €$PN HD" tvg-logo="https://i.postimg.cc/rsRV9SnF/ESPN-HD-ARGENTINA-HD.png" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR: €$PN HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/40a61671-b0fb-4ad8-a879-60486a6a91a7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |°E$PŃ SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR |°E$PŃ SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/fd92693b-c51c-448c-872b-4087da37577f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E$PŃ 2 HD." tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",ARG: E$PŃ 2 HD.
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/97621138-97ba-463b-a74f-df3671b3da3b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="€$PN 2 SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",€$PN 2 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/4a5bf84c-a668-4750-be1f-d933da37cf55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="€$PN 3 HD." tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",€$PN 3 HD.
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/054efa57-fc92-4360-81aa-6ad5f6573d78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : €$PN 4 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : €$PN 4 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/48380e33-4337-414b-b2af-2179a471ea70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | €$PN (5) HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR | €$PN (5) HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/2682ae18-fa3c-439e-a13d-d5e727caba92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0Rm3u8 1 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X $P0Rm3u8 1 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/02ce3acf-40e1-49b9-9836-b2748924d25b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0Rm3u8 1 SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X $P0Rm3u8 1 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/7b67a1ff-291d-4ecc-ba50-7a3d019849de.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $PORm3u8 2 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X $PORm3u8 2 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/ecfafef4-cf93-44db-a0a2-16343b83935e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*F⚽X $P0Rm3u8 2 FHD*" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",*F⚽X $P0Rm3u8 2 FHD*
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/b2563cdf-4de9-44df-89b1-849a59115ac5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0Rm3u8 3 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X  $P0Rm3u8 3 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/d0036c34-5621-4190-9e88-7db113200974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X SPORm3u8 3 SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X SPORm3u8 3 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/f693a579-0e0b-4e5a-bfd8-3ecc5face03b.m3u8
+#EXTINF:-1 tvg-id="656dtv.ar" tvg-name="AR : DEPORT TV HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : DEPORT TV HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/f47f21ff-cb6f-433c-b3a0-fc151235e41f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : T`Y•© ⓈPORm3u8 HD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : T`Y•© ⓈPORm3u8 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/34e362a4-c44d-4f2d-8118-1fee5e2fa962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : (T)ⓎⒸ SPORm3u8 SD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : (T)ⓎⒸ SPORm3u8 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/4371d58c-6dac-45f9-836f-b5f05def663e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : *T*N*T* SPORT HD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : *T*N*T* SPORT HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/99b4c909-48eb-41f8-bc0f-d1994d015007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : T*N*T* Sporm3u8 SD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : T*N*T* Sporm3u8 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/907eb09e-3e93-42fa-90f1-821ab885ff4c.m3u8
+
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | TELEFE ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/6163bfac-5582-4e01-97f7-877dad3bc454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE  ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | TELEFE  ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/a26e7f12-01b7-4484-ad88-1fa989118fc2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | TV PUBLICA ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/71311ee6-025e-4f86-b4ee-4b3d8c7e8a67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | TV PUBLICA ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/12a10925-63dd-47de-b137-68c4e705aaf7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | TV PUBLICA Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/951cb0f8-7b6f-4758-88c0-128760c74a14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR l *CA.NA.L > 13 ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR l *CA.NA.L > 13 ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/a27ecf57-e2e6-4cfb-a8dc-8c22240f1f6f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR l *C.ANAL > 13 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR l *C.ANAL > 13 ᴴᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/95751ee7-ac53-4bf6-bf46-74be8eb20595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE  ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | EL NUEVE  ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/50bbd088-666c-404a-974a-6ed5be1bd2a0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE  ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | EL NUEVE  ᴴᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/68aaf593-37be-43f9-8778-0e6d3761b29e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | EL NUEVE Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/2135f539-2900-4b11-8059-5a93058e6d91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | C5N sd
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/b9d26422-3561-4746-8c77-9748f152e3dd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | C5N ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/082ee16d-912d-4259-969f-072244a86cd4.m3u8
+#EXTINF:-1 tvg-id="238dtv.ar" tvg-name="AR | VOLVER" tvg-logo="htqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | VOLVER
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/4696b40a-15f5-4795-9644-32a9a523efd3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | AMERICA TV ᴴᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/ef7965ae-1fbc-4fe6-a519-86b9f3d45cec.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | AMERICA TV ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/4e124af5-c877-4e95-832b-614133af8766.m3u8
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | TELEFE Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/8568bafc-f536-4e46-9666-dfdc47864ecc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax  ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | Telemax  ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/96be855f-c348-43a8-a968-1ee2778da59c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax  Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | Telemax  Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/31a21d6c-1cba-4ee6-bf14-5122c98b87bf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24 ʜᴅ" tvg-logo="http://daleplay.club:8080/images/1cb6a1a11eace2a531fab793b92864b2.png" group-title="🇦🇷 ARGENTINA",AR | A24 ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/410fba6a-5f96-42f3-82bc-c3497719bafb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24  SD" tvg-logo="http://daleplaypro.com:8080/images/1cb6a1a11eace2a531fab793b92864b2.png" group-title="🇦🇷 ARGENTINA",AR | A24  SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/eef36293-debc-426e-90c8-b0584eaca529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA ᴴᴰ" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA",AR | CRONICA ᴴᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/a6adce64-2ee4-484c-8615-5e776f53ecd8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | *CANAL 26 NOTICIAS ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | *CANAL 26 NOTICIAS ᴴᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/568405a6-cb3a-40cf-82f1-e859974c2569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | *C.ANAL 26 NOTICIAS Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | *C.ANAL 26 NOTICIAS Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/627e90fd-6f63-4499-b062-224d4bfea278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR-| ARGENTINISIMA ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/cf7c16ec-464e-42be-bed5-1bcad4d0cff0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | *CANAL > 13 Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | *CANAL > 13 Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/d76b334f-4969-466a-a67e-62c9afded306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR-| CINE AR ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/548712a0-f41e-498d-9390-b933fa7978b6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR-| CINE AR SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/70aa764a-cf89-4088-a7c7-a9c2ebdeee69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR-| EL GARAGE TV ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/47ecd45b-cdca-4820-b164-f691804dc4b8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+ ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR-| LN+ ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/df38a11c-4c28-4c16-9039-ae4fd142ac0f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | NOTICIAS TN ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/22d2a505-2c6c-4426-97de-5c264b0cce02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | NOTICIAS TN SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/1d040477-efbd-406b-b433-431fab2a3ec8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MAS CHIC ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | MAS CHIC ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/8f08813f-522c-4f2e-a50a-e073931d378c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MAS CHIC ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVPxtfPGqdC6sq8ijhoEDpZJu9mNYTnHxOg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | MAS CHIC ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/916febc8-c404-4469-90f6-6d5129e1a606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | CIUDAD MAGAZINE ʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/0332e9d6-a311-425b-85ef-eb5a7a0d0078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV Sᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="🇦🇷 ARGENTINA",AMERICA TV Sᴰ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/1f357749-bcd9-4959-b187-02dd42b562c7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | *C.ANAL> TELEFE ROSARIO ғʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="🇦🇷 ARGENTINA",AR | *C.ANAL> TELEFE ROSARIO ғʜᴅ
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/e9a2e9b2-78ec-4c79-9127-585ca9822066.m3u8
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://i.postimg.cc/1R8KGxFP/G-PLUS-HD.png" group-title="🎬 CINE PREMIUM",CINE | GOLDEN PLUS HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/7415b95f-427b-4177-8d05-0f6de12cda08.m3u8
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS SD" tvg-logo="https://i.postimg.cc/gjyyxpwP/G-PLUS-SD.png" group-title="🎬 CINE PREMIUM",CINE | GOLDEN PLUS SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/1294434b-7c26-4f50-b684-acd9523e7aaf.m3u8
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="CINE | CINE LATINO HD" tvg-logo="https://i.postimg.cc/DyRkkN1L/CINE-LATINO-HD2.png" group-title="🎬 CINE PREMIUM",CINE | CINE LATINO HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/94c71137-2a7b-409e-838d-a29b77d08e21.m3u8
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://i.postimg.cc/kGnQsHKk/UNIVERSAL-COMEDY-HD.png" group-title="🎬 CINE PREMIUM",P | UNIVERSAL COMEDY HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/a44e5c68-a49f-4c46-86d8-6003bbe9028c.m3u8
+#EXTINF:-1 tvg-id="576" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://i.postimg.cc/JhGdcsMb/UNIVERSAL-PREMIER.png" group-title="🎬 CINE PREMIUM",P | UNIVERSAL PREMIER HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/ea3eaeec-68e5-4822-8de0-097887cee2d6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD dual audio" tvg-logo="https://i.postimg.cc/yNZy8c7r/UNIVERSAL-REALITY-HD.png" group-title="🎬 CINE PREMIUM",P | UNIVERSAL REALITY HD dual audio
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/d3e92a6e-208d-461f-b7b6-e70e9f3006af.m3u8
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://i.postimg.cc/7L0Sk4NF/UNIVERSAL-CINEMA-HD.png" group-title="🎬 CINE PREMIUM",P | UNIVERSAL CINEMA HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/8729b215-68a2-4707-b97a-5fed85beac8d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: €$PN Premium FHD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR: €$PN Premium FHD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/787bc6f8-15e9-466b-b879-963f069b4546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | €$PN™ PR€MlUM HD." tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR | €$PN™ PR€MlUM HD.
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/c69bb8aa-f71d-48bb-8f9c-f35674a05637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: €$PN HD" tvg-logo="https://i.postimg.cc/rsRV9SnF/ESPN-HD-ARGENTINA-HD.png" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR: €$PN HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/40a61671-b0fb-4ad8-a879-60486a6a91a7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |°E$PŃ SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR |°E$PŃ SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/fd92693b-c51c-448c-872b-4087da37577f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E$PŃ 2 HD." tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",ARG: E$PŃ 2 HD.
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/97621138-97ba-463b-a74f-df3671b3da3b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="€$PN 2 SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",€$PN 2 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/4a5bf84c-a668-4750-be1f-d933da37cf55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="€$PN 3 HD." tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",€$PN 3 HD.
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/054efa57-fc92-4360-81aa-6ad5f6573d78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : €$PN 4 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : €$PN 4 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/48380e33-4337-414b-b2af-2179a471ea70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | €$PN (5) HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR | €$PN (5) HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/2682ae18-fa3c-439e-a13d-d5e727caba92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0Rm3u8 1 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X $P0Rm3u8 1 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/02ce3acf-40e1-49b9-9836-b2748924d25b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0Rm3u8 1 SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X $P0Rm3u8 1 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/7b67a1ff-291d-4ecc-ba50-7a3d019849de.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $PORm3u8 2 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X $PORm3u8 2 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/ecfafef4-cf93-44db-a0a2-16343b83935e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*F⚽X $P0Rm3u8 2 FHD*" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",*F⚽X $P0Rm3u8 2 FHD*
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/b2563cdf-4de9-44df-89b1-849a59115ac5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0Rm3u8 3 HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X  $P0Rm3u8 3 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/d0036c34-5621-4190-9e88-7db113200974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X SPORm3u8 3 SD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",F⚽X SPORm3u8 3 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/f693a579-0e0b-4e5a-bfd8-3ecc5face03b.m3u8
+#EXTINF:-1 tvg-id="656dtv.ar" tvg-name="AR : DEPORT TV HD" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : DEPORT TV HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/f47f21ff-cb6f-433c-b3a0-fc151235e41f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.postimg.cc/Kz3wFRWZ/UNIVERSAL-CRIME.png" group-title="🎬 CINE PREMIUM",P | UNIVERSAL CRIMEN HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/dafbc2fb-ff8a-49f7-8930-18f938712903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : T`Y•© ⓈPORm3u8 HD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : T`Y•© ⓈPORm3u8 HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/34e362a4-c44d-4f2d-8118-1fee5e2fa962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : (T)ⓎⒸ SPORm3u8 SD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : (T)ⓎⒸ SPORm3u8 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/4371d58c-6dac-45f9-836f-b5f05def663e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : *T*N*T* SPORT HD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : *T*N*T* SPORT HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/99b4c909-48eb-41f8-bc0f-d1994d015007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://i.postimg.cc/4dpZH2Xg/HBO-MUNDI-HD.png" group-title="🎬 CINE PREMIUM",CINE | HBO MUNDI HD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/0297ccc1-c533-4ffa-b47f-7df80be03594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR : T*N*T* Sporm3u8 SD" tvg-logo="" group-title="🇦🇷 ARGENTINA DEPORTES ⚽",AR : T*N*T* Sporm3u8 SD
+http://vodlat.top:80/live/Xavier.Burbano/X4v13rBurb4n0/907eb09e-3e93-42fa-90f1-821ab885ff4c.m3u8
